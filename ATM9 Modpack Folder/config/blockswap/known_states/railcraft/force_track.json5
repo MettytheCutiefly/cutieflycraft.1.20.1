@@ -1,0 +1,581 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "north_south",
+			"color": "white"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "north_south",
+			"color": "white"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "east_west",
+			"color": "white"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "east_west",
+			"color": "white"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "north_south",
+			"color": "orange"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "north_south",
+			"color": "orange"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "east_west",
+			"color": "orange"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "east_west",
+			"color": "orange"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "north_south",
+			"color": "magenta"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "north_south",
+			"color": "magenta"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "east_west",
+			"color": "magenta"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "east_west",
+			"color": "magenta"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "north_south",
+			"color": "light_blue"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "east_west",
+			"color": "light_blue"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "east_west",
+			"color": "light_blue"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "north_south",
+			"color": "yellow"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "north_south",
+			"color": "yellow"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "east_west",
+			"color": "yellow"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "east_west",
+			"color": "yellow"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "north_south",
+			"color": "lime"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "north_south",
+			"color": "lime"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "east_west",
+			"color": "lime"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "east_west",
+			"color": "lime"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "north_south",
+			"color": "pink"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "north_south",
+			"color": "pink"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "east_west",
+			"color": "pink"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "east_west",
+			"color": "pink"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "north_south",
+			"color": "gray"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "north_south",
+			"color": "gray"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "east_west",
+			"color": "gray"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "east_west",
+			"color": "gray"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "north_south",
+			"color": "light_gray"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "north_south",
+			"color": "light_gray"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "east_west",
+			"color": "light_gray"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "east_west",
+			"color": "light_gray"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "north_south",
+			"color": "cyan"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "north_south",
+			"color": "cyan"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "east_west",
+			"color": "cyan"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "east_west",
+			"color": "cyan"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "north_south",
+			"color": "purple"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "north_south",
+			"color": "purple"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "east_west",
+			"color": "purple"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "east_west",
+			"color": "purple"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "north_south",
+			"color": "blue"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "north_south",
+			"color": "blue"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "east_west",
+			"color": "blue"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "east_west",
+			"color": "blue"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "north_south",
+			"color": "brown"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "north_south",
+			"color": "brown"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "east_west",
+			"color": "brown"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "east_west",
+			"color": "brown"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "north_south",
+			"color": "green"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "north_south",
+			"color": "green"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "east_west",
+			"color": "green"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "east_west",
+			"color": "green"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "north_south",
+			"color": "red"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "north_south",
+			"color": "red"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "east_west",
+			"color": "red"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "east_west",
+			"color": "red"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "north_south",
+			"color": "black"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "north_south",
+			"color": "black"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "east_west",
+			"color": "black"
+		},
+		"Name": "railcraft:force_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "east_west",
+			"color": "black"
+		},
+		"Name": "railcraft:force_track"
+	}
+]

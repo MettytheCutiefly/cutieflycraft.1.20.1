@@ -1,0 +1,102 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "top_left",
+			"rotated": "true"
+		},
+		"Name": "railcraft:steam_turbine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "top_right",
+			"rotated": "true"
+		},
+		"Name": "railcraft:steam_turbine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "bottom_left",
+			"rotated": "true"
+		},
+		"Name": "railcraft:steam_turbine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "bottom_right",
+			"rotated": "true"
+		},
+		"Name": "railcraft:steam_turbine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "window",
+			"rotated": "true"
+		},
+		"Name": "railcraft:steam_turbine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "none",
+			"rotated": "true"
+		},
+		"Name": "railcraft:steam_turbine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "top_left",
+			"rotated": "false"
+		},
+		"Name": "railcraft:steam_turbine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "top_right",
+			"rotated": "false"
+		},
+		"Name": "railcraft:steam_turbine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "bottom_left",
+			"rotated": "false"
+		},
+		"Name": "railcraft:steam_turbine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "bottom_right",
+			"rotated": "false"
+		},
+		"Name": "railcraft:steam_turbine"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"type": "window",
+			"rotated": "false"
+		},
+		"Name": "railcraft:steam_turbine"
+	},
+	{
+		"Name": "railcraft:steam_turbine"
+	}
+]

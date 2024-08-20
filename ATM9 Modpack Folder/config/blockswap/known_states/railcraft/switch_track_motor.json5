@@ -1,0 +1,6339 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "north"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "south"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "west"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "north_south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "north_south",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "true",
+			"red_flag": "east_west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "true",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "north_south",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"white_flag": "east_west",
+			"waterlogged": "false",
+			"switched": "false",
+			"red_flag": "east_west",
+			"facing": "east"
+		},
+		"Name": "railcraft:switch_track_motor"
+	}
+]

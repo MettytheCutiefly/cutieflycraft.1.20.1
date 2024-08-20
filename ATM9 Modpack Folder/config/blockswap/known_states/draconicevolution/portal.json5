@@ -1,0 +1,1154 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "true",
+			"drawup": "true",
+			"draweast": "true",
+			"drawdown": "true",
+			"axis": "x"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "false",
+			"drawup": "true",
+			"draweast": "true",
+			"drawdown": "true",
+			"axis": "x"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "false",
+			"drawup": "true",
+			"draweast": "true",
+			"drawdown": "true",
+			"axis": "x"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "true",
+			"drawup": "false",
+			"draweast": "true",
+			"drawdown": "true",
+			"axis": "x"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "true",
+			"drawup": "false",
+			"draweast": "true",
+			"drawdown": "true",
+			"axis": "x"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "false",
+			"drawup": "false",
+			"draweast": "true",
+			"drawdown": "true",
+			"axis": "x"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "false",
+			"drawup": "false",
+			"draweast": "true",
+			"drawdown": "true",
+			"axis": "x"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "true",
+			"drawup": "true",
+			"draweast": "false",
+			"drawdown": "true",
+			"axis": "x"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "true",
+			"drawup": "true",
+			"draweast": "false",
+			"drawdown": "true",
+			"axis": "x"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "false",
+			"drawup": "true",
+			"draweast": "false",
+			"drawdown": "true",
+			"axis": "x"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "false",
+			"drawup": "true",
+			"draweast": "false",
+			"drawdown": "true",
+			"axis": "x"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "true",
+			"drawup": "false",
+			"draweast": "false",
+			"drawdown": "true",
+			"axis": "x"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "true",
+			"drawup": "false",
+			"draweast": "false",
+			"drawdown": "true",
+			"axis": "x"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "false",
+			"drawup": "false",
+			"draweast": "false",
+			"drawdown": "true",
+			"axis": "x"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "false",
+			"drawup": "false",
+			"draweast": "false",
+			"drawdown": "true",
+			"axis": "x"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "true",
+			"drawup": "true",
+			"draweast": "true",
+			"drawdown": "false",
+			"axis": "x"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "true",
+			"drawup": "true",
+			"draweast": "true",
+			"drawdown": "false",
+			"axis": "x"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "false",
+			"drawup": "true",
+			"draweast": "true",
+			"drawdown": "false",
+			"axis": "x"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "false",
+			"drawup": "true",
+			"draweast": "true",
+			"drawdown": "false",
+			"axis": "x"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "true",
+			"drawup": "false",
+			"draweast": "true",
+			"drawdown": "false",
+			"axis": "x"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "true",
+			"drawup": "false",
+			"draweast": "true",
+			"drawdown": "false",
+			"axis": "x"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "false",
+			"drawup": "false",
+			"draweast": "true",
+			"drawdown": "false",
+			"axis": "x"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "false",
+			"drawup": "false",
+			"draweast": "true",
+			"drawdown": "false",
+			"axis": "x"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "true",
+			"drawup": "true",
+			"draweast": "false",
+			"drawdown": "false",
+			"axis": "x"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "true",
+			"drawup": "true",
+			"draweast": "false",
+			"drawdown": "false",
+			"axis": "x"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "false",
+			"drawup": "true",
+			"draweast": "false",
+			"drawdown": "false",
+			"axis": "x"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "false",
+			"drawup": "true",
+			"draweast": "false",
+			"drawdown": "false",
+			"axis": "x"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "true",
+			"drawup": "false",
+			"draweast": "false",
+			"drawdown": "false",
+			"axis": "x"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "true",
+			"drawup": "false",
+			"draweast": "false",
+			"drawdown": "false",
+			"axis": "x"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "false",
+			"drawup": "false",
+			"draweast": "false",
+			"drawdown": "false",
+			"axis": "x"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "false",
+			"drawup": "false",
+			"draweast": "false",
+			"drawdown": "false",
+			"axis": "x"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "true",
+			"drawup": "true",
+			"draweast": "true",
+			"drawdown": "true",
+			"axis": "y"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "true",
+			"drawup": "true",
+			"draweast": "true",
+			"drawdown": "true",
+			"axis": "y"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "false",
+			"drawup": "true",
+			"draweast": "true",
+			"drawdown": "true",
+			"axis": "y"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "false",
+			"drawup": "true",
+			"draweast": "true",
+			"drawdown": "true",
+			"axis": "y"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "true",
+			"drawup": "false",
+			"draweast": "true",
+			"drawdown": "true",
+			"axis": "y"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "true",
+			"drawup": "false",
+			"draweast": "true",
+			"drawdown": "true",
+			"axis": "y"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "false",
+			"drawup": "false",
+			"draweast": "true",
+			"drawdown": "true",
+			"axis": "y"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "false",
+			"drawup": "false",
+			"draweast": "true",
+			"drawdown": "true",
+			"axis": "y"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "true",
+			"drawup": "true",
+			"draweast": "false",
+			"drawdown": "true",
+			"axis": "y"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "true",
+			"drawup": "true",
+			"draweast": "false",
+			"drawdown": "true",
+			"axis": "y"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "false",
+			"drawup": "true",
+			"draweast": "false",
+			"drawdown": "true",
+			"axis": "y"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "false",
+			"drawup": "true",
+			"draweast": "false",
+			"drawdown": "true",
+			"axis": "y"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "true",
+			"drawup": "false",
+			"draweast": "false",
+			"drawdown": "true",
+			"axis": "y"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "true",
+			"drawup": "false",
+			"draweast": "false",
+			"drawdown": "true",
+			"axis": "y"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "false",
+			"drawup": "false",
+			"draweast": "false",
+			"drawdown": "true",
+			"axis": "y"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "false",
+			"drawup": "false",
+			"draweast": "false",
+			"drawdown": "true",
+			"axis": "y"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "true",
+			"drawup": "true",
+			"draweast": "true",
+			"drawdown": "false",
+			"axis": "y"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "true",
+			"drawup": "true",
+			"draweast": "true",
+			"drawdown": "false",
+			"axis": "y"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "false",
+			"drawup": "true",
+			"draweast": "true",
+			"drawdown": "false",
+			"axis": "y"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "false",
+			"drawup": "true",
+			"draweast": "true",
+			"drawdown": "false",
+			"axis": "y"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "true",
+			"drawup": "false",
+			"draweast": "true",
+			"drawdown": "false",
+			"axis": "y"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "true",
+			"drawup": "false",
+			"draweast": "true",
+			"drawdown": "false",
+			"axis": "y"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "false",
+			"drawup": "false",
+			"draweast": "true",
+			"drawdown": "false",
+			"axis": "y"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "false",
+			"drawup": "false",
+			"draweast": "true",
+			"drawdown": "false",
+			"axis": "y"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "true",
+			"drawup": "true",
+			"draweast": "false",
+			"drawdown": "false",
+			"axis": "y"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "true",
+			"drawup": "true",
+			"draweast": "false",
+			"drawdown": "false",
+			"axis": "y"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "false",
+			"drawup": "true",
+			"draweast": "false",
+			"drawdown": "false",
+			"axis": "y"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "false",
+			"drawup": "true",
+			"draweast": "false",
+			"drawdown": "false",
+			"axis": "y"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "true",
+			"drawup": "false",
+			"draweast": "false",
+			"drawdown": "false",
+			"axis": "y"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "true",
+			"drawup": "false",
+			"draweast": "false",
+			"drawdown": "false",
+			"axis": "y"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "false",
+			"drawup": "false",
+			"draweast": "false",
+			"drawdown": "false",
+			"axis": "y"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "false",
+			"drawup": "false",
+			"draweast": "false",
+			"drawdown": "false",
+			"axis": "y"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "true",
+			"drawup": "true",
+			"draweast": "true",
+			"drawdown": "true",
+			"axis": "z"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "true",
+			"drawup": "true",
+			"draweast": "true",
+			"drawdown": "true",
+			"axis": "z"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "false",
+			"drawup": "true",
+			"draweast": "true",
+			"drawdown": "true",
+			"axis": "z"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "false",
+			"drawup": "true",
+			"draweast": "true",
+			"drawdown": "true",
+			"axis": "z"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "true",
+			"drawup": "false",
+			"draweast": "true",
+			"drawdown": "true",
+			"axis": "z"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "true",
+			"drawup": "false",
+			"draweast": "true",
+			"drawdown": "true",
+			"axis": "z"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "false",
+			"drawup": "false",
+			"draweast": "true",
+			"drawdown": "true",
+			"axis": "z"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "false",
+			"drawup": "false",
+			"draweast": "true",
+			"drawdown": "true",
+			"axis": "z"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "true",
+			"drawup": "true",
+			"draweast": "false",
+			"drawdown": "true",
+			"axis": "z"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "true",
+			"drawup": "true",
+			"draweast": "false",
+			"drawdown": "true",
+			"axis": "z"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "false",
+			"drawup": "true",
+			"draweast": "false",
+			"drawdown": "true",
+			"axis": "z"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "false",
+			"drawup": "true",
+			"draweast": "false",
+			"drawdown": "true",
+			"axis": "z"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "true",
+			"drawup": "false",
+			"draweast": "false",
+			"drawdown": "true",
+			"axis": "z"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "true",
+			"drawup": "false",
+			"draweast": "false",
+			"drawdown": "true",
+			"axis": "z"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "false",
+			"drawup": "false",
+			"draweast": "false",
+			"drawdown": "true",
+			"axis": "z"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "false",
+			"drawup": "false",
+			"draweast": "false",
+			"drawdown": "true",
+			"axis": "z"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "true",
+			"drawup": "true",
+			"draweast": "true",
+			"drawdown": "false",
+			"axis": "z"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "true",
+			"drawup": "true",
+			"draweast": "true",
+			"drawdown": "false",
+			"axis": "z"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "false",
+			"drawup": "true",
+			"draweast": "true",
+			"drawdown": "false",
+			"axis": "z"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "false",
+			"drawup": "true",
+			"draweast": "true",
+			"drawdown": "false",
+			"axis": "z"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "true",
+			"drawup": "false",
+			"draweast": "true",
+			"drawdown": "false",
+			"axis": "z"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "true",
+			"drawup": "false",
+			"draweast": "true",
+			"drawdown": "false",
+			"axis": "z"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "false",
+			"drawup": "false",
+			"draweast": "true",
+			"drawdown": "false",
+			"axis": "z"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "false",
+			"drawup": "false",
+			"draweast": "true",
+			"drawdown": "false",
+			"axis": "z"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "true",
+			"drawup": "true",
+			"draweast": "false",
+			"drawdown": "false",
+			"axis": "z"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "true",
+			"drawup": "true",
+			"draweast": "false",
+			"drawdown": "false",
+			"axis": "z"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "false",
+			"drawup": "true",
+			"draweast": "false",
+			"drawdown": "false",
+			"axis": "z"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "false",
+			"drawup": "true",
+			"draweast": "false",
+			"drawdown": "false",
+			"axis": "z"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "true",
+			"drawup": "false",
+			"draweast": "false",
+			"drawdown": "false",
+			"axis": "z"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "true",
+			"drawup": "false",
+			"draweast": "false",
+			"drawdown": "false",
+			"axis": "z"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "true",
+			"drawwest": "false",
+			"drawup": "false",
+			"draweast": "false",
+			"drawdown": "false",
+			"axis": "z"
+		},
+		"Name": "draconicevolution:portal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"visible": "false",
+			"drawwest": "false",
+			"drawup": "false",
+			"draweast": "false",
+			"drawdown": "false",
+			"axis": "z"
+		},
+		"Name": "draconicevolution:portal"
+	}
+]

@@ -1,0 +1,437 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"orientation": "down_east",
+			"lit": "true"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"orientation": "down_east",
+			"lit": "true"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"orientation": "down_north",
+			"lit": "true"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"orientation": "down_north",
+			"lit": "true"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"orientation": "down_south",
+			"lit": "true"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"orientation": "down_south",
+			"lit": "true"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"orientation": "down_west",
+			"lit": "true"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"orientation": "down_west",
+			"lit": "true"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"orientation": "up_east",
+			"lit": "true"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"orientation": "up_east",
+			"lit": "true"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"orientation": "up_north",
+			"lit": "true"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"orientation": "up_north",
+			"lit": "true"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"orientation": "up_south",
+			"lit": "true"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"orientation": "up_south",
+			"lit": "true"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"orientation": "up_west",
+			"lit": "true"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"orientation": "up_west",
+			"lit": "true"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"orientation": "west_up",
+			"lit": "true"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"orientation": "west_up",
+			"lit": "true"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"orientation": "east_up",
+			"lit": "true"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"orientation": "east_up",
+			"lit": "true"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"orientation": "north_up",
+			"lit": "true"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"orientation": "north_up",
+			"lit": "true"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"orientation": "south_up",
+			"lit": "true"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"orientation": "south_up",
+			"lit": "true"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"orientation": "down_east",
+			"lit": "false"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"orientation": "down_east",
+			"lit": "false"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"orientation": "down_north",
+			"lit": "false"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"orientation": "down_north",
+			"lit": "false"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"orientation": "down_south",
+			"lit": "false"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"orientation": "down_south",
+			"lit": "false"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"orientation": "down_west",
+			"lit": "false"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"orientation": "down_west",
+			"lit": "false"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"orientation": "up_east",
+			"lit": "false"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"orientation": "up_east",
+			"lit": "false"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"orientation": "up_north",
+			"lit": "false"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"orientation": "up_south",
+			"lit": "false"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"orientation": "up_south",
+			"lit": "false"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"orientation": "up_west",
+			"lit": "false"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"orientation": "up_west",
+			"lit": "false"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"orientation": "west_up",
+			"lit": "false"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"orientation": "west_up",
+			"lit": "false"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"orientation": "east_up",
+			"lit": "false"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"orientation": "east_up",
+			"lit": "false"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"orientation": "north_up",
+			"lit": "false"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"orientation": "north_up",
+			"lit": "false"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"orientation": "south_up",
+			"lit": "false"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"orientation": "south_up",
+			"lit": "false"
+		},
+		"Name": "sgjourney:universe_stargate_chevron"
+	}
+]

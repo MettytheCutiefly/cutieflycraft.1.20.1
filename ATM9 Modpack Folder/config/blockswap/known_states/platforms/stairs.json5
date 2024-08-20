@@ -1,0 +1,3204 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "right",
+			"lighting": "unknowen",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "left",
+			"lighting": "unknowen",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "left",
+			"lighting": "unknowen",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "middle",
+			"lighting": "unknowen",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "middle",
+			"lighting": "unknowen",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "inside",
+			"lighting": "unknowen",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "inside",
+			"lighting": "unknowen",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "outside",
+			"lighting": "unknowen",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "outside",
+			"lighting": "unknowen",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "right",
+			"lighting": "blocking",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "right",
+			"lighting": "blocking",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "left",
+			"lighting": "blocking",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "left",
+			"lighting": "blocking",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "middle",
+			"lighting": "blocking",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "middle",
+			"lighting": "blocking",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "inside",
+			"lighting": "blocking",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "inside",
+			"lighting": "blocking",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "outside",
+			"lighting": "blocking",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "outside",
+			"lighting": "blocking",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "right",
+			"lighting": "passing",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "right",
+			"lighting": "passing",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "left",
+			"lighting": "passing",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "left",
+			"lighting": "passing",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "middle",
+			"lighting": "passing",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "middle",
+			"lighting": "passing",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "inside",
+			"lighting": "passing",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "inside",
+			"lighting": "passing",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "outside",
+			"lighting": "passing",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "outside",
+			"lighting": "passing",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "right",
+			"lighting": "emitting_3",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "right",
+			"lighting": "emitting_3",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "left",
+			"lighting": "emitting_3",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "left",
+			"lighting": "emitting_3",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "middle",
+			"lighting": "emitting_3",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "middle",
+			"lighting": "emitting_3",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "inside",
+			"lighting": "emitting_3",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "inside",
+			"lighting": "emitting_3",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "outside",
+			"lighting": "emitting_3",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "outside",
+			"lighting": "emitting_3",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "right",
+			"lighting": "emitting_6",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "right",
+			"lighting": "emitting_6",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "left",
+			"lighting": "emitting_6",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "left",
+			"lighting": "emitting_6",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "middle",
+			"lighting": "emitting_6",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "middle",
+			"lighting": "emitting_6",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "inside",
+			"lighting": "emitting_6",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "inside",
+			"lighting": "emitting_6",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "outside",
+			"lighting": "emitting_6",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "outside",
+			"lighting": "emitting_6",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "right",
+			"lighting": "emitting_9",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "right",
+			"lighting": "emitting_9",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "left",
+			"lighting": "emitting_9",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "left",
+			"lighting": "emitting_9",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "middle",
+			"lighting": "emitting_9",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "middle",
+			"lighting": "emitting_9",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "inside",
+			"lighting": "emitting_9",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "inside",
+			"lighting": "emitting_9",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "outside",
+			"lighting": "emitting_9",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "outside",
+			"lighting": "emitting_9",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "right",
+			"lighting": "emitting_12",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "right",
+			"lighting": "emitting_12",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "left",
+			"lighting": "emitting_12",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "left",
+			"lighting": "emitting_12",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "middle",
+			"lighting": "emitting_12",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "middle",
+			"lighting": "emitting_12",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "inside",
+			"lighting": "emitting_12",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "inside",
+			"lighting": "emitting_12",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "outside",
+			"lighting": "emitting_12",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "outside",
+			"lighting": "emitting_12",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "right",
+			"lighting": "emitting_15",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "right",
+			"lighting": "emitting_15",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "left",
+			"lighting": "emitting_15",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "left",
+			"lighting": "emitting_15",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "middle",
+			"lighting": "emitting_15",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "middle",
+			"lighting": "emitting_15",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "inside",
+			"lighting": "emitting_15",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "inside",
+			"lighting": "emitting_15",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "outside",
+			"lighting": "emitting_15",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "outside",
+			"lighting": "emitting_15",
+			"facing": "north"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "right",
+			"lighting": "unknowen",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "right",
+			"lighting": "unknowen",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "left",
+			"lighting": "unknowen",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "left",
+			"lighting": "unknowen",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "middle",
+			"lighting": "unknowen",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "middle",
+			"lighting": "unknowen",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "inside",
+			"lighting": "unknowen",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "inside",
+			"lighting": "unknowen",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "outside",
+			"lighting": "unknowen",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "outside",
+			"lighting": "unknowen",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "right",
+			"lighting": "blocking",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "right",
+			"lighting": "blocking",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "left",
+			"lighting": "blocking",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "left",
+			"lighting": "blocking",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "middle",
+			"lighting": "blocking",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "middle",
+			"lighting": "blocking",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "inside",
+			"lighting": "blocking",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "inside",
+			"lighting": "blocking",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "outside",
+			"lighting": "blocking",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "outside",
+			"lighting": "blocking",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "right",
+			"lighting": "passing",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "right",
+			"lighting": "passing",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "left",
+			"lighting": "passing",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "left",
+			"lighting": "passing",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "middle",
+			"lighting": "passing",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "middle",
+			"lighting": "passing",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "inside",
+			"lighting": "passing",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "inside",
+			"lighting": "passing",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "outside",
+			"lighting": "passing",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "outside",
+			"lighting": "passing",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "right",
+			"lighting": "emitting_3",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "right",
+			"lighting": "emitting_3",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "left",
+			"lighting": "emitting_3",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "left",
+			"lighting": "emitting_3",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "middle",
+			"lighting": "emitting_3",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "middle",
+			"lighting": "emitting_3",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "inside",
+			"lighting": "emitting_3",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "inside",
+			"lighting": "emitting_3",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "outside",
+			"lighting": "emitting_3",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "outside",
+			"lighting": "emitting_3",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "right",
+			"lighting": "emitting_6",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "right",
+			"lighting": "emitting_6",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "left",
+			"lighting": "emitting_6",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "left",
+			"lighting": "emitting_6",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "middle",
+			"lighting": "emitting_6",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "middle",
+			"lighting": "emitting_6",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "inside",
+			"lighting": "emitting_6",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "inside",
+			"lighting": "emitting_6",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "outside",
+			"lighting": "emitting_6",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "outside",
+			"lighting": "emitting_6",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "right",
+			"lighting": "emitting_9",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "right",
+			"lighting": "emitting_9",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "left",
+			"lighting": "emitting_9",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "left",
+			"lighting": "emitting_9",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "middle",
+			"lighting": "emitting_9",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "middle",
+			"lighting": "emitting_9",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "inside",
+			"lighting": "emitting_9",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "inside",
+			"lighting": "emitting_9",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "outside",
+			"lighting": "emitting_9",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "outside",
+			"lighting": "emitting_9",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "right",
+			"lighting": "emitting_12",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "right",
+			"lighting": "emitting_12",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "left",
+			"lighting": "emitting_12",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "left",
+			"lighting": "emitting_12",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "middle",
+			"lighting": "emitting_12",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "middle",
+			"lighting": "emitting_12",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "inside",
+			"lighting": "emitting_12",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "inside",
+			"lighting": "emitting_12",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "outside",
+			"lighting": "emitting_12",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "outside",
+			"lighting": "emitting_12",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "right",
+			"lighting": "emitting_15",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "right",
+			"lighting": "emitting_15",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "left",
+			"lighting": "emitting_15",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "left",
+			"lighting": "emitting_15",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "middle",
+			"lighting": "emitting_15",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "middle",
+			"lighting": "emitting_15",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "inside",
+			"lighting": "emitting_15",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "inside",
+			"lighting": "emitting_15",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "outside",
+			"lighting": "emitting_15",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "outside",
+			"lighting": "emitting_15",
+			"facing": "south"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "right",
+			"lighting": "unknowen",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "right",
+			"lighting": "unknowen",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "left",
+			"lighting": "unknowen",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "left",
+			"lighting": "unknowen",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "middle",
+			"lighting": "unknowen",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "middle",
+			"lighting": "unknowen",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "inside",
+			"lighting": "unknowen",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "inside",
+			"lighting": "unknowen",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "outside",
+			"lighting": "unknowen",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "outside",
+			"lighting": "unknowen",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "right",
+			"lighting": "blocking",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "right",
+			"lighting": "blocking",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "left",
+			"lighting": "blocking",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "left",
+			"lighting": "blocking",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "middle",
+			"lighting": "blocking",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "middle",
+			"lighting": "blocking",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "inside",
+			"lighting": "blocking",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "inside",
+			"lighting": "blocking",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "outside",
+			"lighting": "blocking",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "outside",
+			"lighting": "blocking",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "right",
+			"lighting": "passing",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "right",
+			"lighting": "passing",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "left",
+			"lighting": "passing",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "left",
+			"lighting": "passing",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "middle",
+			"lighting": "passing",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "middle",
+			"lighting": "passing",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "inside",
+			"lighting": "passing",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "inside",
+			"lighting": "passing",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "outside",
+			"lighting": "passing",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "outside",
+			"lighting": "passing",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "right",
+			"lighting": "emitting_3",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "right",
+			"lighting": "emitting_3",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "left",
+			"lighting": "emitting_3",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "left",
+			"lighting": "emitting_3",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "middle",
+			"lighting": "emitting_3",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "middle",
+			"lighting": "emitting_3",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "inside",
+			"lighting": "emitting_3",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "inside",
+			"lighting": "emitting_3",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "outside",
+			"lighting": "emitting_3",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "outside",
+			"lighting": "emitting_3",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "right",
+			"lighting": "emitting_6",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "right",
+			"lighting": "emitting_6",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "left",
+			"lighting": "emitting_6",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "left",
+			"lighting": "emitting_6",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "middle",
+			"lighting": "emitting_6",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "middle",
+			"lighting": "emitting_6",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "inside",
+			"lighting": "emitting_6",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "inside",
+			"lighting": "emitting_6",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "outside",
+			"lighting": "emitting_6",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "outside",
+			"lighting": "emitting_6",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "right",
+			"lighting": "emitting_9",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "right",
+			"lighting": "emitting_9",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "left",
+			"lighting": "emitting_9",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "left",
+			"lighting": "emitting_9",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "middle",
+			"lighting": "emitting_9",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "middle",
+			"lighting": "emitting_9",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "inside",
+			"lighting": "emitting_9",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "inside",
+			"lighting": "emitting_9",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "outside",
+			"lighting": "emitting_9",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "outside",
+			"lighting": "emitting_9",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "right",
+			"lighting": "emitting_12",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "right",
+			"lighting": "emitting_12",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "left",
+			"lighting": "emitting_12",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "left",
+			"lighting": "emitting_12",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "middle",
+			"lighting": "emitting_12",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "middle",
+			"lighting": "emitting_12",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "inside",
+			"lighting": "emitting_12",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "inside",
+			"lighting": "emitting_12",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "outside",
+			"lighting": "emitting_12",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "outside",
+			"lighting": "emitting_12",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "right",
+			"lighting": "emitting_15",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "right",
+			"lighting": "emitting_15",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "left",
+			"lighting": "emitting_15",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "left",
+			"lighting": "emitting_15",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "middle",
+			"lighting": "emitting_15",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "middle",
+			"lighting": "emitting_15",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "inside",
+			"lighting": "emitting_15",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "inside",
+			"lighting": "emitting_15",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "outside",
+			"lighting": "emitting_15",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "outside",
+			"lighting": "emitting_15",
+			"facing": "west"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "right",
+			"lighting": "unknowen",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "right",
+			"lighting": "unknowen",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "left",
+			"lighting": "unknowen",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "left",
+			"lighting": "unknowen",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "middle",
+			"lighting": "unknowen",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "middle",
+			"lighting": "unknowen",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "inside",
+			"lighting": "unknowen",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "inside",
+			"lighting": "unknowen",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "outside",
+			"lighting": "unknowen",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "outside",
+			"lighting": "unknowen",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "right",
+			"lighting": "blocking",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "right",
+			"lighting": "blocking",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "left",
+			"lighting": "blocking",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "left",
+			"lighting": "blocking",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "middle",
+			"lighting": "blocking",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "middle",
+			"lighting": "blocking",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "inside",
+			"lighting": "blocking",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "inside",
+			"lighting": "blocking",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "outside",
+			"lighting": "blocking",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "outside",
+			"lighting": "blocking",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "right",
+			"lighting": "passing",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "right",
+			"lighting": "passing",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "left",
+			"lighting": "passing",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "left",
+			"lighting": "passing",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "middle",
+			"lighting": "passing",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "middle",
+			"lighting": "passing",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "inside",
+			"lighting": "passing",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "inside",
+			"lighting": "passing",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "outside",
+			"lighting": "passing",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "outside",
+			"lighting": "passing",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "right",
+			"lighting": "emitting_3",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "right",
+			"lighting": "emitting_3",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "left",
+			"lighting": "emitting_3",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "left",
+			"lighting": "emitting_3",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "middle",
+			"lighting": "emitting_3",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "middle",
+			"lighting": "emitting_3",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "inside",
+			"lighting": "emitting_3",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "inside",
+			"lighting": "emitting_3",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "outside",
+			"lighting": "emitting_3",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "outside",
+			"lighting": "emitting_3",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "right",
+			"lighting": "emitting_6",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "right",
+			"lighting": "emitting_6",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "left",
+			"lighting": "emitting_6",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "left",
+			"lighting": "emitting_6",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "middle",
+			"lighting": "emitting_6",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "middle",
+			"lighting": "emitting_6",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "inside",
+			"lighting": "emitting_6",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "inside",
+			"lighting": "emitting_6",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "outside",
+			"lighting": "emitting_6",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "outside",
+			"lighting": "emitting_6",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "right",
+			"lighting": "emitting_9",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "right",
+			"lighting": "emitting_9",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "left",
+			"lighting": "emitting_9",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "left",
+			"lighting": "emitting_9",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "middle",
+			"lighting": "emitting_9",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "middle",
+			"lighting": "emitting_9",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "inside",
+			"lighting": "emitting_9",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "inside",
+			"lighting": "emitting_9",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "outside",
+			"lighting": "emitting_9",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "outside",
+			"lighting": "emitting_9",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "right",
+			"lighting": "emitting_12",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "right",
+			"lighting": "emitting_12",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "left",
+			"lighting": "emitting_12",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "left",
+			"lighting": "emitting_12",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "middle",
+			"lighting": "emitting_12",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "middle",
+			"lighting": "emitting_12",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "inside",
+			"lighting": "emitting_12",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "inside",
+			"lighting": "emitting_12",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "outside",
+			"lighting": "emitting_12",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "outside",
+			"lighting": "emitting_12",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "right",
+			"lighting": "emitting_15",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "right",
+			"lighting": "emitting_15",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "left",
+			"lighting": "emitting_15",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "left",
+			"lighting": "emitting_15",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "middle",
+			"lighting": "emitting_15",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "middle",
+			"lighting": "emitting_15",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "inside",
+			"lighting": "emitting_15",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "inside",
+			"lighting": "emitting_15",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"subtype": "outside",
+			"lighting": "emitting_15",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"subtype": "outside",
+			"lighting": "emitting_15",
+			"facing": "east"
+		},
+		"Name": "platforms:stairs"
+	}
+]

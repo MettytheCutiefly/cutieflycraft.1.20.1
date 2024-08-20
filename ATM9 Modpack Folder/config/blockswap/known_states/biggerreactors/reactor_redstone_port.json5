@@ -1,0 +1,221 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_lit": "true",
+			"facing": "down",
+			"assembled": "true"
+		},
+		"Name": "biggerreactors:reactor_redstone_port"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_lit": "false",
+			"facing": "down",
+			"assembled": "true"
+		},
+		"Name": "biggerreactors:reactor_redstone_port"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_lit": "true",
+			"facing": "up",
+			"assembled": "true"
+		},
+		"Name": "biggerreactors:reactor_redstone_port"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_lit": "false",
+			"facing": "up",
+			"assembled": "true"
+		},
+		"Name": "biggerreactors:reactor_redstone_port"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_lit": "true",
+			"facing": "north",
+			"assembled": "true"
+		},
+		"Name": "biggerreactors:reactor_redstone_port"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_lit": "false",
+			"facing": "north",
+			"assembled": "true"
+		},
+		"Name": "biggerreactors:reactor_redstone_port"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_lit": "true",
+			"facing": "south",
+			"assembled": "true"
+		},
+		"Name": "biggerreactors:reactor_redstone_port"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_lit": "false",
+			"facing": "south",
+			"assembled": "true"
+		},
+		"Name": "biggerreactors:reactor_redstone_port"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_lit": "true",
+			"facing": "west",
+			"assembled": "true"
+		},
+		"Name": "biggerreactors:reactor_redstone_port"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_lit": "false",
+			"facing": "west",
+			"assembled": "true"
+		},
+		"Name": "biggerreactors:reactor_redstone_port"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_lit": "true",
+			"facing": "east",
+			"assembled": "true"
+		},
+		"Name": "biggerreactors:reactor_redstone_port"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_lit": "false",
+			"facing": "east",
+			"assembled": "true"
+		},
+		"Name": "biggerreactors:reactor_redstone_port"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_lit": "true",
+			"facing": "down",
+			"assembled": "false"
+		},
+		"Name": "biggerreactors:reactor_redstone_port"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_lit": "false",
+			"facing": "down",
+			"assembled": "false"
+		},
+		"Name": "biggerreactors:reactor_redstone_port"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_lit": "true",
+			"facing": "up",
+			"assembled": "false"
+		},
+		"Name": "biggerreactors:reactor_redstone_port"
+	},
+	{
+		"Name": "biggerreactors:reactor_redstone_port"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_lit": "true",
+			"facing": "north",
+			"assembled": "false"
+		},
+		"Name": "biggerreactors:reactor_redstone_port"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_lit": "false",
+			"facing": "north",
+			"assembled": "false"
+		},
+		"Name": "biggerreactors:reactor_redstone_port"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_lit": "true",
+			"facing": "south",
+			"assembled": "false"
+		},
+		"Name": "biggerreactors:reactor_redstone_port"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_lit": "false",
+			"facing": "south",
+			"assembled": "false"
+		},
+		"Name": "biggerreactors:reactor_redstone_port"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_lit": "true",
+			"facing": "west",
+			"assembled": "false"
+		},
+		"Name": "biggerreactors:reactor_redstone_port"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_lit": "false",
+			"facing": "west",
+			"assembled": "false"
+		},
+		"Name": "biggerreactors:reactor_redstone_port"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_lit": "true",
+			"facing": "east",
+			"assembled": "false"
+		},
+		"Name": "biggerreactors:reactor_redstone_port"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"is_lit": "false",
+			"facing": "east",
+			"assembled": "false"
+		},
+		"Name": "biggerreactors:reactor_redstone_port"
+	}
+]

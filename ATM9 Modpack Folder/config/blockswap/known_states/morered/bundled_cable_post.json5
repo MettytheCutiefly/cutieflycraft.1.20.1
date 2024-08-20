@@ -1,0 +1,390 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "identity",
+			"facing": "north"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "rot_180_face_xz",
+			"facing": "north"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "rot_90_y_neg",
+			"facing": "north"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "rot_90_y_pos",
+			"facing": "north"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "invert_x",
+			"facing": "north"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "invert_z",
+			"facing": "north"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "swap_xz",
+			"facing": "north"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "swap_neg_xz",
+			"facing": "north"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "identity",
+			"facing": "east"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "rot_180_face_xz",
+			"facing": "east"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "rot_90_y_neg",
+			"facing": "east"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "rot_90_y_pos",
+			"facing": "east"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "invert_x",
+			"facing": "east"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "invert_z",
+			"facing": "east"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "swap_xz",
+			"facing": "east"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "swap_neg_xz",
+			"facing": "east"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "identity",
+			"facing": "south"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "rot_180_face_xz",
+			"facing": "south"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "rot_90_y_neg",
+			"facing": "south"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "rot_90_y_pos",
+			"facing": "south"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "invert_x",
+			"facing": "south"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "invert_z",
+			"facing": "south"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "swap_xz",
+			"facing": "south"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "swap_neg_xz",
+			"facing": "south"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "identity",
+			"facing": "west"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "rot_180_face_xz",
+			"facing": "west"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "rot_90_y_neg",
+			"facing": "west"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "rot_90_y_pos",
+			"facing": "west"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "invert_x",
+			"facing": "west"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "invert_z",
+			"facing": "west"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "swap_xz",
+			"facing": "west"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "swap_neg_xz",
+			"facing": "west"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "identity",
+			"facing": "up"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "rot_180_face_xz",
+			"facing": "up"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "rot_90_y_neg",
+			"facing": "up"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "rot_90_y_pos",
+			"facing": "up"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "invert_x",
+			"facing": "up"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "invert_z",
+			"facing": "up"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "swap_xz",
+			"facing": "up"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "swap_neg_xz",
+			"facing": "up"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "rot_180_face_xz",
+			"facing": "down"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "rot_90_y_neg",
+			"facing": "down"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "rot_90_y_pos",
+			"facing": "down"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "invert_x",
+			"facing": "down"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "invert_z",
+			"facing": "down"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "swap_xz",
+			"facing": "down"
+		},
+		"Name": "morered:bundled_cable_post"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"transform": "swap_neg_xz",
+			"facing": "down"
+		},
+		"Name": "morered:bundled_cable_post"
+	}
+]

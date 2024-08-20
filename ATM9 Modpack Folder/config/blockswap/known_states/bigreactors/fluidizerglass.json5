@@ -1,0 +1,455 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "all"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "face_d"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "face_e"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "face_n"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "face_s"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "face_u"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "face_w"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "angle_de"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "angle_dn"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "angle_ds"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "angle_dw"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "angle_en"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "angle_es"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "angle_eu"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "angle_nu"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "angle_nw"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "angle_su"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "angle_sw"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "angle_uw"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "opposite_du"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "opposite_ew"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "opposite_ns"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "cshape_deu"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "cshape_dew"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "cshape_dns"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "cshape_dnu"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "cshape_dsu"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "cshape_duw"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "cshape_ens"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "cshape_enw"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "cshape_esw"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "cshape_euw"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "cshape_nsu"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "cshape_nsw"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "corner_den"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "corner_des"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "corner_dnw"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "corner_dsw"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "corner_enu"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "corner_esu"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "corner_nuw"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "corner_suw"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "misc_dens"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "misc_denu"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "misc_denw"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "misc_desu"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "misc_desw"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "misc_dnsw"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "misc_dnuw"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "misc_dsuw"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "misc_ensu"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "misc_enuw"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "misc_esuw"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "misc_nsuw"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "pipe_deuw"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "pipe_dnsu"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "pipe_ensw"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "pipeend_densu"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "pipeend_densw"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "pipeend_denuw"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "pipeend_desuw"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "pipeend_dnsuw"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "pipeend_ensuw"
+		},
+		"Name": "bigreactors:fluidizerglass"
+	}
+]

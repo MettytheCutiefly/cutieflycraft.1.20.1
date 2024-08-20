@@ -1,0 +1,164 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"redstone": "true",
+			"on": "true",
+			"hanging": "true"
+		},
+		"Name": "additionallanterns:brown_mossy_cobblestone_lantern"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"redstone": "true",
+			"on": "true",
+			"hanging": "true"
+		},
+		"Name": "additionallanterns:brown_mossy_cobblestone_lantern"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"redstone": "false",
+			"on": "true",
+			"hanging": "true"
+		},
+		"Name": "additionallanterns:brown_mossy_cobblestone_lantern"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"redstone": "false",
+			"on": "true",
+			"hanging": "true"
+		},
+		"Name": "additionallanterns:brown_mossy_cobblestone_lantern"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"redstone": "true",
+			"on": "false",
+			"hanging": "true"
+		},
+		"Name": "additionallanterns:brown_mossy_cobblestone_lantern"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"redstone": "true",
+			"on": "false",
+			"hanging": "true"
+		},
+		"Name": "additionallanterns:brown_mossy_cobblestone_lantern"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"redstone": "false",
+			"on": "false",
+			"hanging": "true"
+		},
+		"Name": "additionallanterns:brown_mossy_cobblestone_lantern"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"redstone": "false",
+			"on": "false",
+			"hanging": "true"
+		},
+		"Name": "additionallanterns:brown_mossy_cobblestone_lantern"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"redstone": "true",
+			"on": "true",
+			"hanging": "false"
+		},
+		"Name": "additionallanterns:brown_mossy_cobblestone_lantern"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"redstone": "true",
+			"on": "true",
+			"hanging": "false"
+		},
+		"Name": "additionallanterns:brown_mossy_cobblestone_lantern"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"redstone": "false",
+			"on": "true",
+			"hanging": "false"
+		},
+		"Name": "additionallanterns:brown_mossy_cobblestone_lantern"
+	},
+	{
+		"Name": "additionallanterns:brown_mossy_cobblestone_lantern"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"redstone": "true",
+			"on": "false",
+			"hanging": "false"
+		},
+		"Name": "additionallanterns:brown_mossy_cobblestone_lantern"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"redstone": "true",
+			"on": "false",
+			"hanging": "false"
+		},
+		"Name": "additionallanterns:brown_mossy_cobblestone_lantern"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"redstone": "false",
+			"on": "false",
+			"hanging": "false"
+		},
+		"Name": "additionallanterns:brown_mossy_cobblestone_lantern"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"redstone": "false",
+			"on": "false",
+			"hanging": "false"
+		},
+		"Name": "additionallanterns:brown_mossy_cobblestone_lantern"
+	}
+]

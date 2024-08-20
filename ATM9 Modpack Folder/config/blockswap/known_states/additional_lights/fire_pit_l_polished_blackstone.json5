@@ -1,0 +1,770 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"previous_firetype": "normal",
+			"ispowered": "true",
+			"firetype": "normal",
+			"activated": "true",
+			"accept_power": "true"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"previous_firetype": "normal",
+			"ispowered": "true",
+			"firetype": "normal",
+			"activated": "true",
+			"accept_power": "true"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"previous_firetype": "soul",
+			"ispowered": "true",
+			"firetype": "normal",
+			"activated": "true",
+			"accept_power": "true"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"previous_firetype": "soul",
+			"ispowered": "true",
+			"firetype": "normal",
+			"activated": "true",
+			"accept_power": "true"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"previous_firetype": "normal",
+			"ispowered": "false",
+			"firetype": "normal",
+			"activated": "true",
+			"accept_power": "true"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"previous_firetype": "normal",
+			"ispowered": "false",
+			"firetype": "normal",
+			"activated": "true",
+			"accept_power": "true"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"previous_firetype": "soul",
+			"ispowered": "false",
+			"firetype": "normal",
+			"activated": "true",
+			"accept_power": "true"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"previous_firetype": "soul",
+			"ispowered": "false",
+			"firetype": "normal",
+			"activated": "true",
+			"accept_power": "true"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"previous_firetype": "normal",
+			"ispowered": "true",
+			"firetype": "soul",
+			"activated": "true",
+			"accept_power": "true"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"previous_firetype": "normal",
+			"ispowered": "true",
+			"firetype": "soul",
+			"activated": "true",
+			"accept_power": "true"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"previous_firetype": "soul",
+			"ispowered": "true",
+			"firetype": "soul",
+			"activated": "true",
+			"accept_power": "true"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"previous_firetype": "soul",
+			"ispowered": "true",
+			"firetype": "soul",
+			"activated": "true",
+			"accept_power": "true"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"previous_firetype": "normal",
+			"ispowered": "false",
+			"firetype": "soul",
+			"activated": "true",
+			"accept_power": "true"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"previous_firetype": "normal",
+			"ispowered": "false",
+			"firetype": "soul",
+			"activated": "true",
+			"accept_power": "true"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"previous_firetype": "soul",
+			"ispowered": "false",
+			"firetype": "soul",
+			"activated": "true",
+			"accept_power": "true"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"previous_firetype": "soul",
+			"ispowered": "false",
+			"firetype": "soul",
+			"activated": "true",
+			"accept_power": "true"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"previous_firetype": "normal",
+			"ispowered": "true",
+			"firetype": "normal",
+			"activated": "false",
+			"accept_power": "true"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"previous_firetype": "normal",
+			"ispowered": "true",
+			"firetype": "normal",
+			"activated": "false",
+			"accept_power": "true"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"previous_firetype": "soul",
+			"ispowered": "true",
+			"firetype": "normal",
+			"activated": "false",
+			"accept_power": "true"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"previous_firetype": "soul",
+			"ispowered": "true",
+			"firetype": "normal",
+			"activated": "false",
+			"accept_power": "true"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"previous_firetype": "normal",
+			"ispowered": "false",
+			"firetype": "normal",
+			"activated": "false",
+			"accept_power": "true"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"previous_firetype": "soul",
+			"ispowered": "false",
+			"firetype": "normal",
+			"activated": "false",
+			"accept_power": "true"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"previous_firetype": "soul",
+			"ispowered": "false",
+			"firetype": "normal",
+			"activated": "false",
+			"accept_power": "true"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"previous_firetype": "normal",
+			"ispowered": "true",
+			"firetype": "soul",
+			"activated": "false",
+			"accept_power": "true"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"previous_firetype": "normal",
+			"ispowered": "true",
+			"firetype": "soul",
+			"activated": "false",
+			"accept_power": "true"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"previous_firetype": "soul",
+			"ispowered": "true",
+			"firetype": "soul",
+			"activated": "false",
+			"accept_power": "true"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"previous_firetype": "soul",
+			"ispowered": "true",
+			"firetype": "soul",
+			"activated": "false",
+			"accept_power": "true"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"previous_firetype": "normal",
+			"ispowered": "false",
+			"firetype": "soul",
+			"activated": "false",
+			"accept_power": "true"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"previous_firetype": "normal",
+			"ispowered": "false",
+			"firetype": "soul",
+			"activated": "false",
+			"accept_power": "true"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"previous_firetype": "soul",
+			"ispowered": "false",
+			"firetype": "soul",
+			"activated": "false",
+			"accept_power": "true"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"previous_firetype": "soul",
+			"ispowered": "false",
+			"firetype": "soul",
+			"activated": "false",
+			"accept_power": "true"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"previous_firetype": "normal",
+			"ispowered": "true",
+			"firetype": "normal",
+			"activated": "true",
+			"accept_power": "false"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"previous_firetype": "normal",
+			"ispowered": "true",
+			"firetype": "normal",
+			"activated": "true",
+			"accept_power": "false"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"previous_firetype": "soul",
+			"ispowered": "true",
+			"firetype": "normal",
+			"activated": "true",
+			"accept_power": "false"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"previous_firetype": "soul",
+			"ispowered": "true",
+			"firetype": "normal",
+			"activated": "true",
+			"accept_power": "false"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"previous_firetype": "normal",
+			"ispowered": "false",
+			"firetype": "normal",
+			"activated": "true",
+			"accept_power": "false"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"previous_firetype": "normal",
+			"ispowered": "false",
+			"firetype": "normal",
+			"activated": "true",
+			"accept_power": "false"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"previous_firetype": "soul",
+			"ispowered": "false",
+			"firetype": "normal",
+			"activated": "true",
+			"accept_power": "false"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"previous_firetype": "soul",
+			"ispowered": "false",
+			"firetype": "normal",
+			"activated": "true",
+			"accept_power": "false"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"previous_firetype": "normal",
+			"ispowered": "true",
+			"firetype": "soul",
+			"activated": "true",
+			"accept_power": "false"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"previous_firetype": "normal",
+			"ispowered": "true",
+			"firetype": "soul",
+			"activated": "true",
+			"accept_power": "false"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"previous_firetype": "soul",
+			"ispowered": "true",
+			"firetype": "soul",
+			"activated": "true",
+			"accept_power": "false"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"previous_firetype": "soul",
+			"ispowered": "true",
+			"firetype": "soul",
+			"activated": "true",
+			"accept_power": "false"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"previous_firetype": "normal",
+			"ispowered": "false",
+			"firetype": "soul",
+			"activated": "true",
+			"accept_power": "false"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"previous_firetype": "normal",
+			"ispowered": "false",
+			"firetype": "soul",
+			"activated": "true",
+			"accept_power": "false"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"previous_firetype": "soul",
+			"ispowered": "false",
+			"firetype": "soul",
+			"activated": "true",
+			"accept_power": "false"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"previous_firetype": "soul",
+			"ispowered": "false",
+			"firetype": "soul",
+			"activated": "true",
+			"accept_power": "false"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"previous_firetype": "normal",
+			"ispowered": "true",
+			"firetype": "normal",
+			"activated": "false",
+			"accept_power": "false"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"previous_firetype": "normal",
+			"ispowered": "true",
+			"firetype": "normal",
+			"activated": "false",
+			"accept_power": "false"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"previous_firetype": "soul",
+			"ispowered": "true",
+			"firetype": "normal",
+			"activated": "false",
+			"accept_power": "false"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"previous_firetype": "soul",
+			"ispowered": "true",
+			"firetype": "normal",
+			"activated": "false",
+			"accept_power": "false"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"previous_firetype": "normal",
+			"ispowered": "false",
+			"firetype": "normal",
+			"activated": "false",
+			"accept_power": "false"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"previous_firetype": "normal",
+			"ispowered": "false",
+			"firetype": "normal",
+			"activated": "false",
+			"accept_power": "false"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"previous_firetype": "soul",
+			"ispowered": "false",
+			"firetype": "normal",
+			"activated": "false",
+			"accept_power": "false"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"previous_firetype": "soul",
+			"ispowered": "false",
+			"firetype": "normal",
+			"activated": "false",
+			"accept_power": "false"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"previous_firetype": "normal",
+			"ispowered": "true",
+			"firetype": "soul",
+			"activated": "false",
+			"accept_power": "false"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"previous_firetype": "normal",
+			"ispowered": "true",
+			"firetype": "soul",
+			"activated": "false",
+			"accept_power": "false"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"previous_firetype": "soul",
+			"ispowered": "true",
+			"firetype": "soul",
+			"activated": "false",
+			"accept_power": "false"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"previous_firetype": "soul",
+			"ispowered": "true",
+			"firetype": "soul",
+			"activated": "false",
+			"accept_power": "false"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"previous_firetype": "normal",
+			"ispowered": "false",
+			"firetype": "soul",
+			"activated": "false",
+			"accept_power": "false"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"previous_firetype": "normal",
+			"ispowered": "false",
+			"firetype": "soul",
+			"activated": "false",
+			"accept_power": "false"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"previous_firetype": "soul",
+			"ispowered": "false",
+			"firetype": "soul",
+			"activated": "false",
+			"accept_power": "false"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"previous_firetype": "soul",
+			"ispowered": "false",
+			"firetype": "soul",
+			"activated": "false",
+			"accept_power": "false"
+		},
+		"Name": "additional_lights:fire_pit_l_polished_blackstone"
+	}
+]

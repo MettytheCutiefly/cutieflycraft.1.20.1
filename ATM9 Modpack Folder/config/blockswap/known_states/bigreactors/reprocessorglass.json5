@@ -1,0 +1,455 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "all"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "face_d"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "face_e"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "face_n"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "face_s"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "face_u"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "face_w"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "angle_de"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "angle_dn"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "angle_ds"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "angle_dw"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "angle_en"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "angle_es"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "angle_eu"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "angle_nu"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "angle_nw"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "angle_su"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "angle_sw"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "angle_uw"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "opposite_du"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "opposite_ew"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "opposite_ns"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "cshape_deu"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "cshape_dew"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "cshape_dns"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "cshape_dnu"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "cshape_dsu"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "cshape_duw"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "cshape_ens"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "cshape_enw"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "cshape_esw"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "cshape_euw"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "cshape_nsu"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "cshape_nsw"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "corner_den"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "corner_des"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "corner_dnw"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "corner_dsw"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "corner_enu"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "corner_esu"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "corner_nuw"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "corner_suw"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "misc_dens"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "misc_denu"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "misc_denw"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "misc_desu"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "misc_desw"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "misc_dnsw"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "misc_dnuw"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "misc_dsuw"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "misc_ensu"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "misc_enuw"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "misc_esuw"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "misc_nsuw"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "pipe_deuw"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "pipe_dnsu"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "pipe_ensw"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "pipeend_densu"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "pipeend_densw"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "pipeend_denuw"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "pipeend_desuw"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "pipeend_dnsuw"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"facings": "pipeend_ensuw"
+		},
+		"Name": "bigreactors:reprocessorglass"
+	}
+]

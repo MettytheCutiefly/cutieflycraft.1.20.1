@@ -1,0 +1,2115 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "north"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "north"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "north"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "north"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "north"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "north"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "north"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "north"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "north"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "north"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "north"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "north"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "north"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "north"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "north"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "north"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "north"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "north"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "north"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "north"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "north"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "north"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "north"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "north"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "north"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "north"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "north"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "north"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "north"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "north"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "north"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "north"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "east"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "east"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "east"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "east"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "east"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "east"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "east"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "east"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "east"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "east"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "east"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "east"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "east"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "east"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "east"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "east"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "east"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "east"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "east"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "east"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "east"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "east"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "east"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "east"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "east"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "east"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "east"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "east"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "east"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "east"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "east"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "east"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "south"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "south"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "south"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "south"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "south"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "south"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "south"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "south"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "south"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "south"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "south"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "south"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "south"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "south"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "south"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "south"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "south"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "south"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "south"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "south"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "south"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "south"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "south"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "south"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "south"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "south"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "south"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "south"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "south"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "south"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "south"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "south"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "west"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "west"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "west"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "west"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "west"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "west"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "west"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "west"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "west"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "west"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "west"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "west"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "west"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "west"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "west"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "west"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "west"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "west"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "west"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "west"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "west"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "west"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "west"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "west"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "west"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "west"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "west"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "west"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "west"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "west"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "west"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "west"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "up"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "up"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "up"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "up"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "up"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "up"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "up"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "up"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "up"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "up"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "up"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "up"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "up"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "up"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "up"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "up"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "up"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "up"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "up"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "up"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "up"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "up"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "up"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "up"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "up"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "up"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "up"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "up"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "up"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "up"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "up"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "up"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "down"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "down"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "down"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "down"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "down"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "down"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "down"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "true",
+			"facing": "down"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "down"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "down"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "down"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "down"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "down"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "down"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "down"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "true",
+			"facing": "down"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "down"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "down"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "down"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "true",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "down"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "down"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "down"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "down"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "false",
+			"input_c": "true",
+			"input_a": "false",
+			"facing": "down"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "0",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "down"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "down"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "down"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "true",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "down"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "1",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "down"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "2",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "down"
+		},
+		"Name": "morered:latch"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"rotation": "3",
+			"powered": "false",
+			"input_c": "false",
+			"input_a": "false",
+			"facing": "down"
+		},
+		"Name": "morered:latch"
+	}
+]

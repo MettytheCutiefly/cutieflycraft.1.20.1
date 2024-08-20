@@ -1,0 +1,355 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"switched": "true",
+			"shape": "north_south",
+			"reversed": "true",
+			"mirrored": "true"
+		},
+		"Name": "railcraft:iron_turnout_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"switched": "true",
+			"shape": "north_south",
+			"reversed": "true",
+			"mirrored": "true"
+		},
+		"Name": "railcraft:iron_turnout_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"switched": "false",
+			"shape": "north_south",
+			"reversed": "true",
+			"mirrored": "true"
+		},
+		"Name": "railcraft:iron_turnout_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"switched": "false",
+			"shape": "north_south",
+			"reversed": "true",
+			"mirrored": "true"
+		},
+		"Name": "railcraft:iron_turnout_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"switched": "true",
+			"shape": "east_west",
+			"reversed": "true",
+			"mirrored": "true"
+		},
+		"Name": "railcraft:iron_turnout_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"switched": "true",
+			"shape": "east_west",
+			"reversed": "true",
+			"mirrored": "true"
+		},
+		"Name": "railcraft:iron_turnout_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"switched": "false",
+			"shape": "east_west",
+			"reversed": "true",
+			"mirrored": "true"
+		},
+		"Name": "railcraft:iron_turnout_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"switched": "false",
+			"shape": "east_west",
+			"reversed": "true",
+			"mirrored": "true"
+		},
+		"Name": "railcraft:iron_turnout_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"switched": "true",
+			"shape": "north_south",
+			"reversed": "false",
+			"mirrored": "true"
+		},
+		"Name": "railcraft:iron_turnout_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"switched": "true",
+			"shape": "north_south",
+			"reversed": "false",
+			"mirrored": "true"
+		},
+		"Name": "railcraft:iron_turnout_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"switched": "false",
+			"shape": "north_south",
+			"reversed": "false",
+			"mirrored": "true"
+		},
+		"Name": "railcraft:iron_turnout_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"switched": "false",
+			"shape": "north_south",
+			"reversed": "false",
+			"mirrored": "true"
+		},
+		"Name": "railcraft:iron_turnout_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"switched": "true",
+			"shape": "east_west",
+			"reversed": "false",
+			"mirrored": "true"
+		},
+		"Name": "railcraft:iron_turnout_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"switched": "true",
+			"shape": "east_west",
+			"reversed": "false",
+			"mirrored": "true"
+		},
+		"Name": "railcraft:iron_turnout_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"switched": "false",
+			"shape": "east_west",
+			"reversed": "false",
+			"mirrored": "true"
+		},
+		"Name": "railcraft:iron_turnout_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"switched": "false",
+			"shape": "east_west",
+			"reversed": "false",
+			"mirrored": "true"
+		},
+		"Name": "railcraft:iron_turnout_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"switched": "true",
+			"shape": "north_south",
+			"reversed": "true",
+			"mirrored": "false"
+		},
+		"Name": "railcraft:iron_turnout_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"switched": "true",
+			"shape": "north_south",
+			"reversed": "true",
+			"mirrored": "false"
+		},
+		"Name": "railcraft:iron_turnout_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"switched": "false",
+			"shape": "north_south",
+			"reversed": "true",
+			"mirrored": "false"
+		},
+		"Name": "railcraft:iron_turnout_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"switched": "false",
+			"shape": "north_south",
+			"reversed": "true",
+			"mirrored": "false"
+		},
+		"Name": "railcraft:iron_turnout_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"switched": "true",
+			"shape": "east_west",
+			"reversed": "true",
+			"mirrored": "false"
+		},
+		"Name": "railcraft:iron_turnout_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"switched": "true",
+			"shape": "east_west",
+			"reversed": "true",
+			"mirrored": "false"
+		},
+		"Name": "railcraft:iron_turnout_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"switched": "false",
+			"shape": "east_west",
+			"reversed": "true",
+			"mirrored": "false"
+		},
+		"Name": "railcraft:iron_turnout_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"switched": "false",
+			"shape": "east_west",
+			"reversed": "true",
+			"mirrored": "false"
+		},
+		"Name": "railcraft:iron_turnout_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"switched": "true",
+			"shape": "north_south",
+			"reversed": "false",
+			"mirrored": "false"
+		},
+		"Name": "railcraft:iron_turnout_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"switched": "true",
+			"shape": "north_south",
+			"reversed": "false",
+			"mirrored": "false"
+		},
+		"Name": "railcraft:iron_turnout_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"switched": "false",
+			"shape": "north_south",
+			"reversed": "false",
+			"mirrored": "false"
+		},
+		"Name": "railcraft:iron_turnout_track"
+	},
+	{
+		"Name": "railcraft:iron_turnout_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"switched": "true",
+			"shape": "east_west",
+			"reversed": "false",
+			"mirrored": "false"
+		},
+		"Name": "railcraft:iron_turnout_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"switched": "true",
+			"shape": "east_west",
+			"reversed": "false",
+			"mirrored": "false"
+		},
+		"Name": "railcraft:iron_turnout_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"switched": "false",
+			"shape": "east_west",
+			"reversed": "false",
+			"mirrored": "false"
+		},
+		"Name": "railcraft:iron_turnout_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"switched": "false",
+			"shape": "east_west",
+			"reversed": "false",
+			"mirrored": "false"
+		},
+		"Name": "railcraft:iron_turnout_track"
+	}
+]

@@ -1,0 +1,484 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "north_south",
+			"powered": "true",
+			"mirrored": "true"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "north_south",
+			"powered": "true",
+			"mirrored": "true"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "east_west",
+			"powered": "true",
+			"mirrored": "true"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "east_west",
+			"powered": "true",
+			"mirrored": "true"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "ascending_east",
+			"powered": "true",
+			"mirrored": "true"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "ascending_east",
+			"powered": "true",
+			"mirrored": "true"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "ascending_west",
+			"powered": "true",
+			"mirrored": "true"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "ascending_west",
+			"powered": "true",
+			"mirrored": "true"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "ascending_north",
+			"powered": "true",
+			"mirrored": "true"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "ascending_north",
+			"powered": "true",
+			"mirrored": "true"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "ascending_south",
+			"powered": "true",
+			"mirrored": "true"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "ascending_south",
+			"powered": "true",
+			"mirrored": "true"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "north_south",
+			"powered": "false",
+			"mirrored": "true"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "north_south",
+			"powered": "false",
+			"mirrored": "true"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "east_west",
+			"powered": "false",
+			"mirrored": "true"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "east_west",
+			"powered": "false",
+			"mirrored": "true"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "ascending_east",
+			"powered": "false",
+			"mirrored": "true"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "ascending_east",
+			"powered": "false",
+			"mirrored": "true"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "ascending_west",
+			"powered": "false",
+			"mirrored": "true"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "ascending_west",
+			"powered": "false",
+			"mirrored": "true"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "ascending_north",
+			"powered": "false",
+			"mirrored": "true"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "ascending_north",
+			"powered": "false",
+			"mirrored": "true"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "ascending_south",
+			"powered": "false",
+			"mirrored": "true"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "ascending_south",
+			"powered": "false",
+			"mirrored": "true"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "north_south",
+			"powered": "true",
+			"mirrored": "false"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "north_south",
+			"powered": "true",
+			"mirrored": "false"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "east_west",
+			"powered": "true",
+			"mirrored": "false"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "east_west",
+			"powered": "true",
+			"mirrored": "false"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "ascending_east",
+			"powered": "true",
+			"mirrored": "false"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "ascending_east",
+			"powered": "true",
+			"mirrored": "false"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "ascending_west",
+			"powered": "true",
+			"mirrored": "false"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "ascending_west",
+			"powered": "true",
+			"mirrored": "false"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "ascending_north",
+			"powered": "true",
+			"mirrored": "false"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "ascending_north",
+			"powered": "true",
+			"mirrored": "false"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "ascending_south",
+			"powered": "true",
+			"mirrored": "false"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "ascending_south",
+			"powered": "true",
+			"mirrored": "false"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "north_south",
+			"powered": "false",
+			"mirrored": "false"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "east_west",
+			"powered": "false",
+			"mirrored": "false"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "east_west",
+			"powered": "false",
+			"mirrored": "false"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "ascending_east",
+			"powered": "false",
+			"mirrored": "false"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "ascending_east",
+			"powered": "false",
+			"mirrored": "false"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "ascending_west",
+			"powered": "false",
+			"mirrored": "false"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "ascending_west",
+			"powered": "false",
+			"mirrored": "false"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "ascending_north",
+			"powered": "false",
+			"mirrored": "false"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "ascending_north",
+			"powered": "false",
+			"mirrored": "false"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "true",
+			"shape": "ascending_south",
+			"powered": "false",
+			"mirrored": "false"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"waterlogged": "false",
+			"shape": "ascending_south",
+			"powered": "false",
+			"mirrored": "false"
+		},
+		"Name": "railcraft:iron_disembarking_track"
+	}
+]

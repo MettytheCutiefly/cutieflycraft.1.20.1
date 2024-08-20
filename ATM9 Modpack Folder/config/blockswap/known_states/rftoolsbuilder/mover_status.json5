@@ -1,0 +1,198 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		"Name": "rftoolsbuilder:mover_status"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"horizfacing": "south",
+			"facing": "north"
+		},
+		"Name": "rftoolsbuilder:mover_status"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"horizfacing": "west",
+			"facing": "north"
+		},
+		"Name": "rftoolsbuilder:mover_status"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"horizfacing": "east",
+			"facing": "north"
+		},
+		"Name": "rftoolsbuilder:mover_status"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"horizfacing": "north",
+			"facing": "east"
+		},
+		"Name": "rftoolsbuilder:mover_status"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"horizfacing": "south",
+			"facing": "east"
+		},
+		"Name": "rftoolsbuilder:mover_status"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"horizfacing": "west",
+			"facing": "east"
+		},
+		"Name": "rftoolsbuilder:mover_status"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"horizfacing": "east",
+			"facing": "east"
+		},
+		"Name": "rftoolsbuilder:mover_status"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"horizfacing": "north",
+			"facing": "south"
+		},
+		"Name": "rftoolsbuilder:mover_status"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"horizfacing": "south",
+			"facing": "south"
+		},
+		"Name": "rftoolsbuilder:mover_status"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"horizfacing": "west",
+			"facing": "south"
+		},
+		"Name": "rftoolsbuilder:mover_status"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"horizfacing": "east",
+			"facing": "south"
+		},
+		"Name": "rftoolsbuilder:mover_status"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"horizfacing": "north",
+			"facing": "west"
+		},
+		"Name": "rftoolsbuilder:mover_status"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"horizfacing": "south",
+			"facing": "west"
+		},
+		"Name": "rftoolsbuilder:mover_status"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"horizfacing": "west",
+			"facing": "west"
+		},
+		"Name": "rftoolsbuilder:mover_status"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"horizfacing": "east",
+			"facing": "west"
+		},
+		"Name": "rftoolsbuilder:mover_status"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"horizfacing": "north",
+			"facing": "up"
+		},
+		"Name": "rftoolsbuilder:mover_status"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"horizfacing": "south",
+			"facing": "up"
+		},
+		"Name": "rftoolsbuilder:mover_status"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"horizfacing": "west",
+			"facing": "up"
+		},
+		"Name": "rftoolsbuilder:mover_status"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"horizfacing": "east",
+			"facing": "up"
+		},
+		"Name": "rftoolsbuilder:mover_status"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"horizfacing": "north",
+			"facing": "down"
+		},
+		"Name": "rftoolsbuilder:mover_status"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"horizfacing": "south",
+			"facing": "down"
+		},
+		"Name": "rftoolsbuilder:mover_status"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"horizfacing": "west",
+			"facing": "down"
+		},
+		"Name": "rftoolsbuilder:mover_status"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"horizfacing": "east",
+			"facing": "down"
+		},
+		"Name": "rftoolsbuilder:mover_status"
+	}
+]

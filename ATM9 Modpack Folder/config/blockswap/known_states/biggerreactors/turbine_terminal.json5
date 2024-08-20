@@ -1,0 +1,221 @@
+/*
+This file uses the ".json5" file extension which allows for comments like this in a json file!
+Your text editor may show this file with invalid/no syntax, if so, we recommend you download:
+
+VSCode: https://code.visualstudio.com/
+JSON5 plugin(for VSCode): https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-json5
+
+to make editing this file much easier.
+*/
+[
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"turbinestate": "active",
+			"facing": "down",
+			"assembled": "true"
+		},
+		"Name": "biggerreactors:turbine_terminal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"turbinestate": "inactive",
+			"facing": "down",
+			"assembled": "true"
+		},
+		"Name": "biggerreactors:turbine_terminal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"turbinestate": "active",
+			"facing": "up",
+			"assembled": "true"
+		},
+		"Name": "biggerreactors:turbine_terminal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"turbinestate": "inactive",
+			"facing": "up",
+			"assembled": "true"
+		},
+		"Name": "biggerreactors:turbine_terminal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"turbinestate": "active",
+			"facing": "north",
+			"assembled": "true"
+		},
+		"Name": "biggerreactors:turbine_terminal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"turbinestate": "inactive",
+			"facing": "north",
+			"assembled": "true"
+		},
+		"Name": "biggerreactors:turbine_terminal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"turbinestate": "active",
+			"facing": "south",
+			"assembled": "true"
+		},
+		"Name": "biggerreactors:turbine_terminal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"turbinestate": "inactive",
+			"facing": "south",
+			"assembled": "true"
+		},
+		"Name": "biggerreactors:turbine_terminal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"turbinestate": "active",
+			"facing": "west",
+			"assembled": "true"
+		},
+		"Name": "biggerreactors:turbine_terminal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"turbinestate": "inactive",
+			"facing": "west",
+			"assembled": "true"
+		},
+		"Name": "biggerreactors:turbine_terminal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"turbinestate": "active",
+			"facing": "east",
+			"assembled": "true"
+		},
+		"Name": "biggerreactors:turbine_terminal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"turbinestate": "inactive",
+			"facing": "east",
+			"assembled": "true"
+		},
+		"Name": "biggerreactors:turbine_terminal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"turbinestate": "active",
+			"facing": "down",
+			"assembled": "false"
+		},
+		"Name": "biggerreactors:turbine_terminal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"turbinestate": "inactive",
+			"facing": "down",
+			"assembled": "false"
+		},
+		"Name": "biggerreactors:turbine_terminal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"turbinestate": "active",
+			"facing": "up",
+			"assembled": "false"
+		},
+		"Name": "biggerreactors:turbine_terminal"
+	},
+	{
+		"Name": "biggerreactors:turbine_terminal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"turbinestate": "active",
+			"facing": "north",
+			"assembled": "false"
+		},
+		"Name": "biggerreactors:turbine_terminal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"turbinestate": "inactive",
+			"facing": "north",
+			"assembled": "false"
+		},
+		"Name": "biggerreactors:turbine_terminal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"turbinestate": "active",
+			"facing": "south",
+			"assembled": "false"
+		},
+		"Name": "biggerreactors:turbine_terminal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"turbinestate": "inactive",
+			"facing": "south",
+			"assembled": "false"
+		},
+		"Name": "biggerreactors:turbine_terminal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"turbinestate": "active",
+			"facing": "west",
+			"assembled": "false"
+		},
+		"Name": "biggerreactors:turbine_terminal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"turbinestate": "inactive",
+			"facing": "west",
+			"assembled": "false"
+		},
+		"Name": "biggerreactors:turbine_terminal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"turbinestate": "active",
+			"facing": "east",
+			"assembled": "false"
+		},
+		"Name": "biggerreactors:turbine_terminal"
+	},
+	{
+		// Properties define the state of this block/fluid.
+		"Properties": {
+			"turbinestate": "inactive",
+			"facing": "east",
+			"assembled": "false"
+		},
+		"Name": "biggerreactors:turbine_terminal"
+	}
+]
