@@ -1,0 +1,13 @@
+filename = 'ash_api-fabric-20.6.2.jar'
+name = 'Ash API'
+side = 'both'
+
+[download]
+hash = '9eaf543b5b8a098dbf903438212e98f6a61083b587499646e0df5386a4726d0199f66702166a9c1c79129ad2c6b0a88cec9e827affe78d3c86830877117502c3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Q8xUICr6/versions/Ln37hzs4/ash_api-fabric-20.6.2.jar'
+
+[update.modrinth]
+mod-id = 'Q8xUICr6'
+version = 'Ln37hzs4'

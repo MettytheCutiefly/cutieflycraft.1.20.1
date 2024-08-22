@@ -1,0 +1,13 @@
+filename = 'logbegone-fabric-1.20.6-1.0.1.jar'
+name = 'Log Begone'
+side = 'both'
+
+[download]
+hash = 'cc3a7ef388bee116b6e6587a827d1d43bd4db25a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5404002
+project-id = 623560
