@@ -5,14 +5,6 @@
 	group: ""
 	icon: "minecraft:zombie_head"
 	id: "18A429E7F56AF5A9"
-	images: [{
-		height: 3.0d
-		image: "atm:textures/questpics/bounty.png"
-		rotation: 0.0d
-		width: 12.0d
-		x: 3.0d
-		y: -8.0d
-	}]
 	order_index: 2
 	progression_mode: "flexible"
 	quest_links: [ ]

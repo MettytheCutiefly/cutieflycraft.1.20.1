@@ -5,33 +5,6 @@
 	group: "2B51AC12041E3F89"
 	icon: "alchemistry:compactor"
 	id: "35ECAD3A4B1029A8"
-	images: [
-		{
-			height: 5.0d
-			image: "atm:textures/questpics/alchemistry/fusion_reactor.png"
-			rotation: 0.0d
-			width: 10.0d
-			x: 9.0d
-			y: 2.0d
-		}
-		{
-			height: 5.0d
-			image: "atm:textures/questpics/alchemistry/fission_reactor.png"
-			rotation: 0.0d
-			width: 10.0d
-			x: 9.0d
-			y: -1.5d
-		}
-		{
-			height: 2.0d
-			hover: ["Alchemistry"]
-			image: "atm:textures/questpics/alchemistry/alchemistry_logo.png"
-			rotation: 0.0d
-			width: 2.0d
-			x: -1.5d
-			y: -2.0d
-		}
-	]
 	order_index: 0
 	quest_links: [ ]
 	quests: [
@@ -215,7 +188,7 @@
 				{
 					count: 59L
 					id: "4690256035AA565D"
-					item: { Count: 59, id: "alchemistry:reactor_casing" }
+					item: "alchemistry:reactor_casing"
 					type: "item"
 				}
 				{
@@ -236,7 +209,7 @@
 				{
 					count: 35L
 					id: "0ADC9B709C1E0FE1"
-					item: { Count: 35, id: "alchemistry:reactor_glass" }
+					item: "alchemistry:reactor_glass"
 					type: "item"
 				}
 				{
@@ -247,7 +220,7 @@
 				{
 					count: 3L
 					id: "6BA040CAA6019ACC"
-					item: { Count: 3, id: "alchemistry:fission_core" }
+					item: "alchemistry:fission_core"
 					type: "item"
 				}
 			]
@@ -294,7 +267,7 @@
 				{
 					count: 59L
 					id: "0F04C9D7BDF30BF7"
-					item: { Count: 59, id: "alchemistry:reactor_casing" }
+					item: "alchemistry:reactor_casing"
 					type: "item"
 				}
 				{
@@ -315,7 +288,7 @@
 				{
 					count: 35L
 					id: "3D746822FB63295B"
-					item: { Count: 35, id: "alchemistry:reactor_glass" }
+					item: "alchemistry:reactor_glass"
 					type: "item"
 				}
 				{
@@ -1645,7 +1618,7 @@
 			tasks: [{
 				count: 64L
 				id: "774ED308B068D0B2"
-				item: { Count: 64, id: "chemlib:dysprosium" }
+				item: "chemlib:dysprosium"
 				type: "item"
 			}]
 			x: 15.0d
@@ -1685,7 +1658,7 @@
 			tasks: [{
 				count: 64L
 				id: "5F5177384C91A83A"
-				item: { Count: 64, id: "chemlib:titanium" }
+				item: "chemlib:titanium"
 				type: "item"
 			}]
 			x: 12.0d
@@ -1705,7 +1678,7 @@
 			tasks: [{
 				count: 64L
 				id: "20C233EDB2490C7A"
-				item: { Count: 64, id: "chemlib:mendelevium" }
+				item: "chemlib:mendelevium"
 				type: "item"
 			}]
 			x: 12.0d

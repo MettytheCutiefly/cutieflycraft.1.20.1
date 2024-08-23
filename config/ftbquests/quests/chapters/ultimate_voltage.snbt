@@ -5,48 +5,6 @@
 	group: "1DA67E79B40AB130"
 	icon: "gtceu:crystal_processor_mainframe"
 	id: "754B57DEA4C711A5"
-	images: [
-		{
-			height: 3.0d
-			image: "gtceu:item/uv_solar_panel"
-			rotation: 0.0d
-			width: 3.0d
-			x: -1.0d
-			y: -4.5d
-		}
-		{
-			height: 3.0d
-			image: "gtceu:item/uv_electric_motor"
-			rotation: 0.0d
-			width: 3.0d
-			x: -2.0d
-			y: 6.0d
-		}
-		{
-			height: 3.0d
-			image: "gtceu:item/uv_sensor"
-			rotation: 0.0d
-			width: 3.0d
-			x: -7.5d
-			y: 6.0d
-		}
-		{
-			height: 3.0d
-			image: "gtceu:item/uv_emitter"
-			rotation: 0.0d
-			width: 3.0d
-			x: -7.5d
-			y: 2.0d
-		}
-		{
-			height: 3.0d
-			image: "gtceu:item/uv_voltage_coil"
-			rotation: 0.0d
-			width: 3.0d
-			x: -8.0d
-			y: -8.0d
-		}
-	]
 	order_index: 9
 	progression_mode: "flexible"
 	quest_links: [ ]

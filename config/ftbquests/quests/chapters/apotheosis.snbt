@@ -5,130 +5,6 @@
 	group: "02FE661031A105D8"
 	icon: "minecraft:enchanting_table"
 	id: "282448C70744895F"
-	images: [
-		{
-			click: "https://allthemods.github.io/alltheguides/atm9/apotheosis/"
-			height: 1.0d
-			hover: ["atm9.quest.enchant.img.guide"]
-			image: "minecraft:block/enchanting_table_side"
-			rotation: 0.0d
-			width: 1.0d
-			x: -5.5d
-			y: 3.5d
-		}
-		{
-			height: 2.0d
-			image: "atm:textures/questpics/apotheosis/apotheosis.png"
-			rotation: 0.0d
-			width: 7.324503311258278d
-			x: 6.5d
-			y: -0.5d
-		}
-		{
-			height: 2.0d
-			image: "atm:textures/questpics/apotheosis/enchant_nether.png"
-			rotation: 0.0d
-			width: 4.607843137254902d
-			x: 4.0d
-			y: 2.0d
-		}
-		{
-			height: 2.0d
-			image: "atm:textures/questpics/apotheosis/enchant_ocean.png"
-			rotation: 0.0d
-			width: 4.0201005025125625d
-			x: 4.0d
-			y: 5.0d
-		}
-		{
-			height: 1.7d
-			image: "atm:textures/questpics/apotheosis/enchant_hell.png"
-			rotation: 0.0d
-			width: 2.7818181818181817d
-			x: 3.5d
-			y: 7.5d
-		}
-		{
-			height: 1.7d
-			image: "atm:textures/questpics/apotheosis/enchant_sea.png"
-			rotation: 0.0d
-			width: 2.9659574468085106d
-			x: 3.5d
-			y: 10.0d
-		}
-		{
-			height: 1.7d
-			image: "atm:textures/questpics/apotheosis/enchant_seadeep.png"
-			rotation: 0.0d
-			width: 2.8899999999999997d
-			x: 6.5d
-			y: 10.0d
-		}
-		{
-			height: 1.7d
-			image: "atm:textures/questpics/apotheosis/enchant_helldeep.png"
-			rotation: 0.0d
-			width: 2.1788732394366197d
-			x: 6.5d
-			y: 7.5d
-		}
-		{
-			height: 1.7d
-			image: "atm:textures/questpics/apotheosis/enchant_end.png"
-			rotation: 0.0d
-			width: 2.739669421487603d
-			x: 10.0d
-			y: 8.5d
-		}
-		{
-			height: 1.7d
-			image: "atm:textures/questpics/apotheosis/enchant_perfect.png"
-			rotation: 0.0d
-			width: 3.65d
-			x: 14.0d
-			y: 8.5d
-		}
-		{
-			height: 0.75d
-			image: "atm:textures/questpics/helper_arrow.png"
-			rotation: 0.0d
-			width: 1.1042944785276072d
-			x: 5.0d
-			y: 7.5d
-		}
-		{
-			height: 0.75d
-			image: "atm:textures/questpics/helper_arrow.png"
-			rotation: 0.0d
-			width: 1.1042944785276072d
-			x: 5.0d
-			y: 10.0d
-		}
-		{
-			height: 0.75d
-			image: "atm:textures/questpics/helper_arrow.png"
-			rotation: 35.0d
-			width: 1.1042944785276072d
-			x: 8.0d
-			y: 8.0d
-		}
-		{
-			height: 0.75d
-			image: "atm:textures/questpics/helper_arrow.png"
-			rotation: -35.0d
-			width: 1.1042944785276072d
-			x: 8.0d
-			y: 9.5d
-		}
-		{
-			height: 0.75d
-			image: "atm:textures/questpics/helper_arrow.png"
-			rotation: 0.0d
-			width: 1.1042944785276072d
-			x: 12.0d
-			y: 8.5d
-		}
-	]
 	order_index: 0
 	progression_mode: "flexible"
 	quest_links: [ ]
@@ -492,13 +368,13 @@
 				{
 					count: 9L
 					id: "5FE3BF20BB4ABFFB"
-					item: { Count: 9, id: "apotheosis:crystal_seashelf" }
+					item: "apotheosis:crystal_seashelf"
 					type: "item"
 				}
 				{
 					count: 2L
 					id: "398CE6B12CC89712"
-					item: { Count: 2, id: "apotheosis:heart_seashelf" }
+					item: "apotheosis:heart_seashelf"
 					type: "item"
 				}
 			]
@@ -790,7 +666,7 @@
 			tasks: [{
 				count: 3L
 				id: "1ACDB5822E2F5713"
-				item: { Count: 3, id: "minecraft:lapis_lazuli" }
+				item: "minecraft:lapis_lazuli"
 				type: "item"
 			}]
 			title: "{atm9.quest.enchant.other}"

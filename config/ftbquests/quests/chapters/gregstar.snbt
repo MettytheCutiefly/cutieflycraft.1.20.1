@@ -5,25 +5,6 @@
 	group: "1DA67E79B40AB130"
 	icon: "allthetweaks:greg_star"
 	id: "3202C575456F57D2"
-	images: [
-		{
-			height: 12.0d
-			image: "gtceu:textures/gui/icon/gregtech_logo.png"
-			order: 1
-			rotation: 0.0d
-			width: 12.0d
-			x: 0.0d
-			y: 0.0d
-		}
-		{
-			height: 16.0d
-			image: "gtceu:block/casings/gcym/atomic_casing"
-			rotation: 0.0d
-			width: 16.0d
-			x: 0.0d
-			y: 0.0d
-		}
-	]
 	order_index: 11
 	progression_mode: "flexible"
 	quest_links: [ ]

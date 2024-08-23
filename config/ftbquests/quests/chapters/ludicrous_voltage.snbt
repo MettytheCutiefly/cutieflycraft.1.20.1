@@ -5,56 +5,6 @@
 	group: "1DA67E79B40AB130"
 	icon: "gtceu:nano_processor_mainframe"
 	id: "403105E8F21D82C7"
-	images: [
-		{
-			height: 2.0d
-			image: "gtceu:item/luv_sensor"
-			rotation: 0.0d
-			width: 2.0d
-			x: 8.5d
-			y: -7.0d
-		}
-		{
-			height: 3.0d
-			image: "gtceu:item/luv_emitter"
-			rotation: 0.0d
-			width: 3.0d
-			x: 0.0d
-			y: -7.0d
-		}
-		{
-			height: 2.5d
-			image: "gtceu:item/luv_robot_arm"
-			rotation: 0.0d
-			width: 2.5d
-			x: 4.0d
-			y: -7.0d
-		}
-		{
-			height: 3.0d
-			image: "gtceu:item/luv_electric_motor"
-			rotation: 0.0d
-			width: 3.0d
-			x: -4.5d
-			y: -7.0d
-		}
-		{
-			height: 2.5d
-			image: "gtceu:item/luv_battery_hull"
-			rotation: 0.0d
-			width: 2.5d
-			x: -9.5d
-			y: -7.0d
-		}
-		{
-			height: 3.0d
-			image: "gtceu:item/luv_solar_panel"
-			rotation: 0.0d
-			width: 3.0d
-			x: 0.5d
-			y: -0.5d
-		}
-	]
 	order_index: 7
 	progression_mode: "flexible"
 	quest_links: [ ]

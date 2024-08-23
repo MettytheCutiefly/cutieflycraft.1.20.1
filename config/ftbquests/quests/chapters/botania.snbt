@@ -6,15 +6,6 @@
 	group: "02FE661031A105D8"
 	icon: "botania:lexicon"
 	id: "1883B79BDB2AAE5D"
-	images: [{
-		height: 0.3d
-		hover: ["{atm9.quest.ae2.img.star}"]
-		image: "allthetweaks:item/atm_star"
-		rotation: 0.0d
-		width: 0.3d
-		x: 24.0d
-		y: 1.8d
-	}]
 	order_index: 3
 	progression_mode: "flexible"
 	quest_links: [ ]

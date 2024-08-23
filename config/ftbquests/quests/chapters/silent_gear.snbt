@@ -5,25 +5,15 @@
 	group: "22FB35B0FEF1343D"
 	icon: "silentgear:pickaxe_blueprint"
 	id: "1D42B373285DEF81"
-	images: [
-		{
-			height: 4.0d
-			image: "silentgear:textures/item/blueprint_package.png"
-			rotation: 0.0d
-			width: 4.0d
-			x: 4.0d
-			y: -3.0d
-		}
-		{
-			height: 0.5d
-			hover: ["Needed For The ATM Star"]
-			image: "allthetweaks:item/atm_star"
-			rotation: 0.0d
-			width: 0.5d
-			x: 11.0d
-			y: -0.75d
-		}
-	]
+	images: [{
+		height: 0.5d
+		hover: ["Needed For The ATM Star"]
+		image: "allthetweaks:item/atm_star"
+		rotation: 0.0d
+		width: 0.5d
+		x: 11.0d
+		y: -0.75d
+	}]
 	order_index: 2
 	progression_mode: "flexible"
 	quest_links: [ ]

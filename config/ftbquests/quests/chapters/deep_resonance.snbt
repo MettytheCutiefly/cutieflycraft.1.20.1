@@ -5,118 +5,6 @@
 	group: "2B51AC12041E3F89"
 	icon: "deepresonance:resonating_crystal_natural"
 	id: "57354476668A066B"
-	images: [
-		{
-			height: 5.0d
-			hover: ["atm9.quest.deep.img.generator"]
-			image: "atm:textures/questpics/deepresonance/deep_generator.png"
-			rotation: 0.0d
-			width: 3.7542662116040955d
-			x: 4.5d
-			y: -4.5d
-		}
-		{
-			height: 3.0d
-			hover: ["atm9.quest.deep.img.smelter"]
-			image: "atm:textures/questpics/deepresonance/deep_smelter.png"
-			rotation: 0.0d
-			width: 1.167202572347267d
-			x: -4.5d
-			y: 4.5d
-		}
-		{
-			height: 3.0d
-			hover: ["atm9.quest.deep.img.purifier"]
-			image: "atm:textures/questpics/deepresonance/deep_purifier.png"
-			rotation: 0.0d
-			width: 1.2359154929577465d
-			x: -1.5d
-			y: 4.5d
-		}
-		{
-			height: 1.2d
-			hover: ["atm9.quest.deep.img.laser"]
-			image: "atm:textures/questpics/deepresonance/deep_laser.png"
-			rotation: 0.0d
-			width: 3.6467532467532466d
-			x: 2.5d
-			y: 4.5d
-		}
-		{
-			height: 1.9428571428571426d
-			hover: ["atm9.quest.deep.img.crystallizer"]
-			image: "atm:textures/questpics/deepresonance/deep_crystallizer.png"
-			rotation: 0.0d
-			width: 1.2d
-			x: 6.5d
-			y: 4.5d
-		}
-		{
-			height: 1.5d
-			hover: ["atm9.quest.deep.img.crystal"]
-			image: "atm:textures/questpics/deepresonance/deep_crystal.png"
-			rotation: 0.0d
-			width: 1.4d
-			x: 9.5d
-			y: 4.5d
-		}
-		{
-			height: 2.0d
-			image: "atm:textures/questpics/deepresonance/deep_resonance.png"
-			rotation: 0.0d
-			width: 16.53191489361702d
-			x: 2.0d
-			y: -9.0d
-		}
-		{
-			height: 1.0d
-			image: "atm:textures/questpics/deepresonance/using_crystals.png"
-			rotation: 0.0d
-			width: 7.6d
-			x: -1.5d
-			y: -7.0d
-		}
-		{
-			height: 1.0d
-			image: "atm:textures/questpics/deepresonance/making_crystals.png"
-			rotation: 0.0d
-			width: 8.08421052631579d
-			x: -1.5d
-			y: -1.0d
-		}
-		{
-			height: 1.0d
-			image: "atm:textures/questpics/helper_arrow.png"
-			rotation: 0.0d
-			width: 1.4723926380368098d
-			x: -3.0d
-			y: 4.5d
-		}
-		{
-			height: 1.0d
-			image: "atm:textures/questpics/helper_arrow.png"
-			rotation: 0.0d
-			width: 1.4723926380368098d
-			x: 0.0d
-			y: 4.5d
-		}
-		{
-			height: 1.0d
-			image: "atm:textures/questpics/helper_arrow.png"
-			rotation: 0.0d
-			width: 1.4723926380368098d
-			x: 5.0d
-			y: 4.5d
-		}
-		{
-			height: 1.0d
-			image: "atm:textures/questpics/helper_arrow.png"
-			rotation: 0.0d
-			width: 1.4723926380368098d
-			x: 8.0d
-			y: 4.5d
-		}
-	]
 	order_index: 3
 	quest_links: [ ]
 	quests: [
@@ -372,7 +260,7 @@
 			tasks: [{
 				count: 2L
 				id: "7436A5E1167125C8"
-				item: { Count: 2, id: "deepresonance:tank" }
+				item: "deepresonance:tank"
 				type: "item"
 			}]
 			title: "{atm9.quest.deep.liquid}"

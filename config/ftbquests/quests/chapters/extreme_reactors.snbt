@@ -7,33 +7,6 @@
 	id: "3C78926E5D301BA0"
 	images: [
 		{
-			height: 0.5d
-			hover: ["Needed For The ATM Star"]
-			image: "allthetweaks:item/atm_star"
-			order: 1
-			rotation: 0.0d
-			width: 0.5d
-			x: -2.0d
-			y: 16.5d
-		}
-		{
-			height: 1.0d
-			image: "atm:textures/questpics/extremereactors/title2.png"
-			rotation: 0.0d
-			width: 10.156626506024097d
-			x: -12.5d
-			y: 12.0d
-		}
-		{
-			height: 8.0d
-			image: "atm:textures/questpics/extremereactors/titleimage2.png"
-			order: -1
-			rotation: 0.0d
-			width: 10.4903078677309d
-			x: -12.5d
-			y: 9.0d
-		}
-		{
 			height: 1.75d
 			image: "ftbquests:tasks/input_only"
 			rotation: 90.0d
@@ -49,22 +22,6 @@
 			width: 1.75d
 			x: -5.5d
 			y: 8.0d
-		}
-		{
-			height: 2.25d
-			image: "forbidden_arcanus:block/clibano_combustion/soul_fire/clibano_center_front"
-			rotation: 180.0d
-			width: 2.25d
-			x: -2.0d
-			y: 15.5d
-		}
-		{
-			height: 2.0d
-			image: "bigreactors:fluid/fluid.fuelcolumn.flowing"
-			rotation: 0.0d
-			width: 2.0d
-			x: -2.0d
-			y: 15.5d
 		}
 		{
 			height: 1.5d

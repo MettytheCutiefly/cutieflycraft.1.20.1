@@ -16,14 +16,6 @@
 		}
 	}
 	id: "5D045EF1AB73DF70"
-	images: [{
-		height: 5.0d
-		image: "atm:textures/questpics/allthepower.png"
-		rotation: 0.0d
-		width: 15.0d
-		x: -3.5d
-		y: -3.5d
-	}]
 	order_index: 0
 	progression_mode: "flexible"
 	quest_links: [ ]

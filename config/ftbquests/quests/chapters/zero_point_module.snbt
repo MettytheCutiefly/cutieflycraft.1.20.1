@@ -5,56 +5,6 @@
 	group: "1DA67E79B40AB130"
 	icon: "gtceu:quantum_processor_mainframe"
 	id: "220BE62A7F8EA359"
-	images: [
-		{
-			height: 3.0d
-			image: "gtceu:item/zpm_solar_panel"
-			rotation: 0.0d
-			width: 3.0d
-			x: 1.5d
-			y: -0.5d
-		}
-		{
-			height: 3.0d
-			image: "gtceu:item/zpm_sensor"
-			rotation: 0.0d
-			width: 3.0d
-			x: 11.5d
-			y: -7.0d
-		}
-		{
-			height: 3.0d
-			image: "gtceu:item/zpm_emitter"
-			rotation: 0.0d
-			width: 3.0d
-			x: 4.0d
-			y: -7.0d
-		}
-		{
-			height: 3.0d
-			image: "gtceu:item/zpm_robot_arm"
-			rotation: 0.0d
-			width: 3.0d
-			x: -4.5d
-			y: -7.0d
-		}
-		{
-			height: 3.0d
-			image: "gtceu:item/zpm_fluid_regulator"
-			rotation: 0.0d
-			width: 3.0d
-			x: -13.0d
-			y: -7.0d
-		}
-		{
-			height: 3.0d
-			image: "gtceu:block/multiblock/fusion_reactor/fusion/overlay_front"
-			rotation: 0.0d
-			width: 3.0d
-			x: -10.0d
-			y: 5.5d
-		}
-	]
 	order_index: 8
 	progression_mode: "flexible"
 	quest_links: [ ]

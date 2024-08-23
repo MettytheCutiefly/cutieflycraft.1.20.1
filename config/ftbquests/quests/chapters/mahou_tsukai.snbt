@@ -267,6 +267,9 @@
 					}
 				}
 				id: "mahoutsukai:scroll_strengthening"
+				tag: {
+					MAHOUTSUKAI_CASTER_NAME: ""
+				}
 			}
 			id: "08903890F577D43A"
 			rewards: [{
@@ -290,7 +293,7 @@
 				}
 				{
 					id: "34905AC6DD4F593D"
-					item: { Count: 64, id: "mahoutsukai:spell_cloth" }
+					item: "mahoutsukai:spell_cloth"
 					type: "item"
 				}
 			]

@@ -5,33 +5,6 @@
 	group: "2084F3F6FB861C5B"
 	icon: "functionalstorage:creative_vending_upgrade"
 	id: "16956970FF49BB4D"
-	images: [
-		{
-			height: 4.0d
-			hover: ["What do I do with the ATM Star?"]
-			image: "atm:textures/questpics/creative.png"
-			rotation: 0.0d
-			width: 16.0d
-			x: 0.0d
-			y: -4.0d
-		}
-		{
-			height: 2.0d
-			image: "allthetweaks:textures/item/atm_star.png"
-			rotation: 20.0d
-			width: 2.0d
-			x: 4.0d
-			y: -3.5d
-		}
-		{
-			height: 2.0d
-			image: "allthetweaks:textures/item/atm_star.png"
-			rotation: -20.0d
-			width: 2.0d
-			x: -4.0d
-			y: -3.5d
-		}
-	]
 	order_index: 2
 	progression_mode: "flexible"
 	quest_links: [ ]

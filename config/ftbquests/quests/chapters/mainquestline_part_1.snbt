@@ -15,15 +15,6 @@
 			y: 9.0d
 		}
 		{
-			height: 3.0d
-			image: "atm:textures/questpics/gettingstarted/titleimage1.png"
-			order: -1
-			rotation: 0.0d
-			width: 13.671d
-			x: 7.5d
-			y: -3.0d
-		}
-		{
 			height: 0.01d
 			image: "ftbquests:textures/shapes/square/outline.png"
 			rotation: 0.0d
@@ -38,32 +29,6 @@
 			width: 2.0d
 			x: -3.0d
 			y: -2.5d
-		}
-		{
-			height: 1.5d
-			image: "farmersdelight:item/hamburger"
-			rotation: 0.0d
-			width: 1.5d
-			x: -3.0d
-			y: 9.0d
-		}
-		{
-			height: 1.0d
-			image: "tombstone:item/bag_of_seeds"
-			order: -1
-			rotation: 0.0d
-			width: 1.0d
-			x: -2.5d
-			y: 9.23d
-		}
-		{
-			height: 1.0d
-			image: "tombstone:item/bag_of_seeds"
-			order: -1
-			rotation: 0.0d
-			width: 1.0d
-			x: -3.573d
-			y: 9.23d
 		}
 		{
 			height: 1.0d
@@ -81,38 +46,6 @@
 			width: 1.0d
 			x: -4.5d
 			y: 0.0d
-		}
-		{
-			height: 4.0d
-			image: "atm:textures/questpics/gettingstarted/sniffer3.png"
-			rotation: 0.0d
-			width: 4.0d
-			x: 2.5d
-			y: 12.5d
-		}
-		{
-			height: 1.0d
-			image: "minecraft:block/torchflower"
-			rotation: 0.0d
-			width: 1.0d
-			x: 2.5d
-			y: 14.5d
-		}
-		{
-			height: 1.0d
-			image: "minecraft:block/torchflower"
-			rotation: 0.0d
-			width: 1.0d
-			x: 0.5d
-			y: 13.0d
-		}
-		{
-			height: 1.0d
-			image: "minecraft:block/torchflower"
-			rotation: 0.0d
-			width: 1.0d
-			x: 3.6845d
-			y: 13.8523d
 		}
 		{
 			height: 1.0d
@@ -173,38 +106,6 @@
 			y: 2.0d
 		}
 		{
-			height: 5.0d
-			image: "atm:textures/questpics/gettingstarted/wither2.png"
-			rotation: 0.0d
-			width: 5.0d
-			x: 26.5d
-			y: 7.5d
-		}
-		{
-			height: 5.0d
-			image: "atm:textures/questpics/gettingstarted/enderdragon.png"
-			rotation: 0.0d
-			width: 5.0d
-			x: 21.5d
-			y: 2.0d
-		}
-		{
-			height: 5.0d
-			image: "atm:textures/questpics/gettingstarted/warden_roar.png"
-			rotation: 0.0d
-			width: 5.0d
-			x: 21.5d
-			y: 12.5d
-		}
-		{
-			height: 1.0d
-			image: "minecraft:block/torchflower"
-			rotation: 0.0d
-			width: 1.0d
-			x: 1.0d
-			y: 14.0d
-		}
-		{
 			alpha: 200
 			height: 1.25d
 			image: "allthemodium:block/fluid/atm_molten_still"
@@ -247,14 +148,6 @@
 			width: 3.0d
 			x: 16.0d
 			y: 1.5d
-		}
-		{
-			height: 8.0d
-			image: "atm:textures/questpics/gettingstarted/confused1.png"
-			rotation: 0.0d
-			width: 8.0d
-			x: -9.0d
-			y: 3.5d
 		}
 		{
 			alpha: 200
@@ -1076,7 +969,7 @@
 				{
 					count: 10L
 					id: "6206DC761D4CDDFE"
-					item: { Count: 10, id: "minecraft:obsidian" }
+					item: "minecraft:obsidian"
 					type: "item"
 				}
 				{

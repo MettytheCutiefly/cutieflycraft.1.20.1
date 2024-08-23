@@ -7,54 +7,6 @@
 	id: "05E614FDA677D85E"
 	images: [
 		{
-			height: 2.0d
-			image: "minecraft:textures/item/cake.png"
-			rotation: 0.0d
-			width: 2.0d
-			x: 0.5d
-			y: -3.5d
-		}
-		{
-			height: 1.0d
-			image: "minecraft:textures/item/wheat.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: 1.5102040816326507d
-			y: -3.0714285714285765d
-		}
-		{
-			height: 1.0d
-			image: "minecraft:textures/item/wheat.png"
-			rotation: -90.0d
-			width: 1.0d
-			x: -0.5d
-			y: -3.0d
-		}
-		{
-			height: 1.0d
-			image: "minecraft:textures/item/wheat_seeds.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: 0.48979591836734215d
-			y: -2.5d
-		}
-		{
-			height: 2.0d
-			image: "minecraft:textures/block/birch_sapling.png"
-			rotation: 0.0d
-			width: 2.0d
-			x: 5.0d
-			y: 3.5d
-		}
-		{
-			height: 2.0d
-			image: "farmersdelight:textures/block/cutting_board.png"
-			rotation: -90.0d
-			width: 2.0d
-			x: 0.5d
-			y: 11.0d
-		}
-		{
 			height: 1.0d
 			image: "croptopia:textures/item/cantaloupe_seed.png"
 			rotation: 0.0d
@@ -72,35 +24,11 @@
 		}
 		{
 			height: 1.0d
-			image: "minecraft:textures/item/cooked_chicken.png"
-			rotation: 0.0d
-			width: 1.0d
-			x: 3.0d
-			y: 1.0d
-		}
-		{
-			height: 1.0d
 			image: "minecraft:textures/item/cooked_porkchop.png"
 			rotation: 0.0d
 			width: 1.0d
 			x: 4.5d
 			y: -1.0d
-		}
-		{
-			height: 2.0d
-			image: "aquaculture:textures/item/catfish.png"
-			rotation: 0.0d
-			width: 2.0d
-			x: -4.0d
-			y: 4.0d
-		}
-		{
-			height: 3.0d
-			image: "atm:textures/questpics/food_and_farming.png"
-			rotation: 0.0d
-			width: 12.0d
-			x: 0.5d
-			y: -5.5d
 		}
 	]
 	order_index: 2

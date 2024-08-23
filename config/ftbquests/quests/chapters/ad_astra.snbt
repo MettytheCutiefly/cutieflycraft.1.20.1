@@ -11,57 +11,6 @@
 		}
 	}
 	id: "769974FDAD5DBEB1"
-	images: [
-		{
-			height: 0.3d
-			hover: ["{atm9.quest.ae2.img.star}"]
-			image: "allthetweaks:item/atm_star"
-			rotation: 0.0d
-			width: 0.3d
-			x: 4.1d
-			y: 4.0d
-		}
-		{
-			height: 2.5d
-			image: "atm:textures/questpics/adastra/title.png"
-			rotation: 0.0d
-			width: 11.7875d
-			x: -0.2d
-			y: -2.0d
-		}
-		{
-			height: 2.0d
-			image: "ad_astra:textures/painting/earth.png"
-			rotation: 0.0d
-			width: 2.0d
-			x: -5.5d
-			y: 4.0d
-		}
-		{
-			height: 2.0d
-			image: "ad_astra:textures/painting/mars.png"
-			rotation: 0.0d
-			width: 2.0d
-			x: -3.0d
-			y: 8.5d
-		}
-		{
-			height: 2.0d
-			image: "ad_astra:textures/painting/venus.png"
-			rotation: 0.0d
-			width: 2.0d
-			x: 3.0d
-			y: 8.5d
-		}
-		{
-			height: 2.0d
-			image: "ad_astra:textures/painting/glacio.png"
-			rotation: 0.0d
-			width: 2.0d
-			x: 5.5d
-			y: 4.0d
-		}
-	]
 	order_index: 0
 	progression_mode: "flexible"
 	quest_links: [ ]
@@ -192,7 +141,7 @@
 				{
 					count: 4L
 					id: "1376E9EEBB16D83E"
-					item: { Count: 4, id: "ad_astra:desh_ingot" }
+					item: "ad_astra:desh_ingot"
 					type: "item"
 				}
 			]
@@ -283,7 +232,7 @@
 				{
 					count: 4L
 					id: "65AE7D0A17C3DB4E"
-					item: { Count: 4, id: "ad_astra:ostrum_ingot" }
+					item: "ad_astra:ostrum_ingot"
 					type: "item"
 				}
 			]

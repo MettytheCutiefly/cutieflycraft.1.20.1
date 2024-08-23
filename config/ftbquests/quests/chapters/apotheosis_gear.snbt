@@ -7,54 +7,6 @@
 	id: "6693050B0EE71CEB"
 	images: [
 		{
-			height: 2.0d
-			image: "atm:textures/questpics/apotheosis/apotheosis_gear.png"
-			rotation: 0.0d
-			width: 7.135483870967742d
-			x: 0.0d
-			y: -2.5d
-		}
-		{
-			height: 2.0d
-			image: "atm:textures/questpics/apotheosis/gear_simple.png"
-			rotation: 0.0d
-			width: 1.9281437125748504d
-			x: -2.0d
-			y: 7.0d
-		}
-		{
-			height: 2.0d
-			image: "atm:textures/questpics/apotheosis/gear_reforge.png"
-			rotation: 0.0d
-			width: 1.844155844155844d
-			x: 0.0d
-			y: 7.0d
-		}
-		{
-			height: 2.0d
-			image: "atm:textures/questpics/apotheosis/gear_augment.png"
-			rotation: 0.0d
-			width: 1.7777777777777777d
-			x: 2.0d
-			y: 7.0d
-		}
-		{
-			height: 2.0d
-			image: "atm:textures/questpics/apotheosis/gear_smith.png"
-			rotation: 0.0d
-			width: 1.8533333333333333d
-			x: -3.0d
-			y: 3.0d
-		}
-		{
-			height: 2.0d
-			image: "atm:textures/questpics/apotheosis/gear_gem.png"
-			rotation: 0.0d
-			width: 2.0709219858156027d
-			x: -5.5d
-			y: 3.0d
-		}
-		{
 			height: 1.0d
 			image: "apotheosis:items/sigils/enhancement"
 			rotation: 0.0d
