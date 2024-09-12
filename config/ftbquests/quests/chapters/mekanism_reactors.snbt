@@ -8,6 +8,38 @@
 	id: "0A093D8C4429B627"
 	images: [
 		{
+			height: 3.0d
+			image: "ftbquests:tasks/input_only"
+			rotation: 45.0d
+			width: 3.0d
+			x: 17.0d
+			y: -7.0d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:tasks/input_only"
+			rotation: 0.0d
+			width: 3.0d
+			x: 17.0d
+			y: -7.0d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:block/barrier_open"
+			rotation: 0.0d
+			width: 3.0d
+			x: 2.0d
+			y: -7.0d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:block/barrier_open"
+			rotation: 45.0d
+			width: 3.0d
+			x: 2.0d
+			y: -7.0d
+		}
+		{
 			height: 1.0d
 			image: "mekanism:item/hazmat_mask"
 			rotation: 0.0d
@@ -56,6 +88,31 @@
 			y: 3.5d
 		}
 		{
+			alpha: 150
+			height: 1.5d
+			image: "ae2:block/controller_column_lights"
+			rotation: 90.0d
+			width: 1.5d
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "mob_grinding_utils:block/fan_front_on"
+			rotation: -45.0d
+			width: 1.0d
+			x: 11.0d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "mob_grinding_utils:block/fan_front_on"
+			rotation: -45.0d
+			width: 1.0d
+			x: 11.0d
+			y: 1.5d
+		}
+		{
 			height: 1.0d
 			image: "ftbquests:block/screen_side"
 			order: -1
@@ -88,8 +145,26 @@
 			x: 13.0d
 			y: -4.0d
 		}
+		{
+			height: 0.3d
+			hover: ["{atm9.quest.ae2.img.star}"]
+			image: "allthetweaks:item/atm_star"
+			rotation: 0.0d
+			width: 0.3d
+			x: 2.0d
+			y: -9.0d
+		}
+		{
+			height: 0.3d
+			hover: ["{atm9.quest.ae2.img.star}"]
+			image: "allthetweaks:item/atm_star"
+			rotation: 0.0d
+			width: 0.3d
+			x: 4.0d
+			y: 0.15d
+		}
 	]
-	order_index: 7
+	order_index: 8
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
@@ -207,8 +282,6 @@
 				"{atm9.quest.mekanismReactors.desc.fissionReactorPorts.6}"
 				""
 				"{atm9.quest.mekanismReactors.desc.fissionReactorPorts.7}"
-				""
-				"{image:atm:textures/questpics/mek/port_example.png width:200 height:200 align:1}"
 			]
 			id: "0696B725E840B996"
 			min_width: 400
@@ -246,8 +319,6 @@
 				"{atm9.quest.mekanismReactors.desc.reactorSafety.3}"
 				""
 				"{atm9.quest.mekanismReactors.desc.reactorSafety.4}"
-				""
-				"{image:atm:textures/questpics/mek/logic_adapter.png width:150 height:125 align:1}"
 			]
 			id: "5FDB48511EC1C580"
 			min_width: 300
@@ -274,8 +345,6 @@
 				"{atm9.quest.mekanismReactors.desc.reactorAssembly.1}"
 				""
 				"{atm9.quest.mekanismReactors.desc.reactorAssembly.2}"
-				""
-				"{image:atm:textures/questpics/mek/rod_example.png width:250 height:200 align:1}"
 			]
 			id: "3F5010269469EBE0"
 			min_width: 250
@@ -324,8 +393,6 @@
 				"{atm9.quest.mekanismReactors.desc.circuitBreaker.5}"
 				""
 				"{atm9.quest.mekanismReactors.desc.circuitBreaker.6}"
-				""
-				"{image:atm:textures/questpics/mek/example_circuit.png width:200 height:250 align:1}"
 			]
 			icon: "minecraft:observer"
 			id: "7B0764DDE94E73D0"
@@ -447,9 +514,6 @@
 				"{atm9.quest.mekanismReactors.desc.reactorCompletion.4}"
 				""
 				"{atm9.quest.mekanismReactors.desc.reactorCompletion.5}"
-				""
-				"{image:atm:textures/questpics/mek/reactor_interface_1.png width:200 height:150 align:1}"
-				"{image:atm:textures/questpics/mek/reactor_interface_2.png width:200 height:150 align:1}"
 			]
 			icon: "mekanism:geiger_counter"
 			id: "1DE8B0C9A7195720"
@@ -982,13 +1046,11 @@
 				"{atm9.quest.mekanismReactors.desc.fusionReactor.2}"
 				""
 				"{atm9.quest.mekanismReactors.desc.fusionReactor.3}"
-				"{image:atm:textures/questpics/mek/fusion_pattern.png width:175 height:175 align:1}"
 				""
 				"{atm9.quest.mekanismReactors.desc.fusionReactor.4}"
 				""
 				"{atm9.quest.mekanismReactors.desc.fusionReactor.5}"
 				""
-				"{image:atm:textures/questpics/mek/completed_fusion_reactor.png width:175 height:150 align:1}"
 			]
 			id: "0152C49AB74B9D32"
 			min_width: 500
@@ -1045,7 +1107,6 @@
 				""
 				"{atm9.quest.mekanismReactors.desc.superchargedCoils.2}"
 				""
-				"{image:atm:textures/questpics/mek/sps_coils.png width:200 height:125 align:1}"
 			]
 			id: "2331FCDD2F2B709A"
 			min_width: 300
@@ -1083,13 +1144,11 @@
 				""
 				"{atm9.quest.mekanismReactors.desc.buildSPS.2}"
 				""
-				"{image:atm:textures/questpics/mek/basic_sps_shape.png width:250 height:225 align:1}"
 				""
 				"{atm9.quest.mekanismReactors.desc.buildSPS.3}"
 				""
 				"{atm9.quest.mekanismReactors.desc.buildSPS.4}"
 				""
-				"{image:atm:textures/questpics/mek/sps_complete.png width:300 height:250 align:1}"
 			]
 			id: "2B3F2F470E06BC40"
 			min_width: 350
@@ -1162,7 +1221,6 @@
 				""
 				"{atm9.quest.mekanismReactors.desc.laserFocusArray.5}"
 				""
-				"{image:atm:textures/questpics/mek/laser_example.png width:200 height:150 align:1} "
 			]
 			id: "320CC038A64A3195"
 			min_width: 400
@@ -1370,8 +1428,6 @@
 				""
 				"{atm9.quest.mekanismReactors.desc.fusionReactorPrep.5}"
 				""
-				""
-				"{image:atm:textures/questpics/mek/fusion_activated.png width:225 height:150 align:1}"
 			]
 			icon: "mekanismgenerators:fusion_reactor_controller"
 			id: "54D8B9CB3F98040F"
@@ -1433,8 +1489,6 @@
 				"{atm9.quest.mekanismReactors.desc.fusionReactorIntro.3}"
 				""
 				"{atm9.quest.mekanismReactors.desc.fusionReactorIntro.4}"
-				""
-				"{image:atm:textures/questpics/mek/fusion_fuelui1.png width:175 height:150 align:1}"
 			]
 			id: "26D306418545A2D6"
 			min_width: 300
@@ -1476,8 +1530,6 @@
 				"{atm9.quest.mekanismReactors.desc.industrialTurbine.3}"
 				""
 				"{atm9.quest.mekanismReactors.desc.industrialTurbine.4}"
-				""
-				"{image:atm:textures/questpics/mek/turbine_completed.png width:200 height:225 align:1}"
 			]
 			id: "6313B18820445882"
 			min_width: 300
@@ -1744,8 +1796,6 @@
 				"{atm9.quest.mekanismReactors.desc.inductionMatrix.2}"
 				""
 				"{atm9.quest.mekanismReactors.desc.inductionMatrix.3}"
-				""
-				"{image:atm:textures/questpics/mek/induction_matrix.png width:200 height:200 align:1}"
 			]
 			hide: false
 			id: "673FCBF8685D0EEE"
@@ -1799,8 +1849,6 @@
 				"{atm9.quest.mekanismReactors.desc.inductionMatrixDetails.3}"
 				""
 				"{atm9.quest.mekanismReactors.desc.inductionMatrixDetails.4}"
-				""
-				"{image:atm:textures/questpics/mek/induction_inside.png width:300 height:200 align:1}"
 			]
 			hide: false
 			id: "14D772808D1BEAE2"

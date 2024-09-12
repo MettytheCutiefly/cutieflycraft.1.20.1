@@ -5,15 +5,302 @@
 	group: "2B51AC12041E3F89"
 	icon: "powah:player_transmitter_nitro"
 	id: "2A6EBEEBAB882679"
-	images: [{
-		height: 0.025d
-		image: "minecraft:block/black_concrete"
-		rotation: 0.0d
-		width: 22.0d
-		x: -0.5d
-		y: 12.0d
-	}]
-	order_index: 8
+	images: [
+		{
+			height: 1.0d
+			image: "powah:item/capacitor_basic"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: 12.5d
+		}
+		{
+			height: 1.0d
+			image: "powah:item/capacitor_basic_tiny"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: 11.5d
+		}
+		{
+			height: 1.0d
+			image: "powah:item/capacitor_hardened"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: 13.5d
+		}
+		{
+			height: 1.0d
+			image: "powah:item/capacitor_blazing"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: 14.5d
+		}
+		{
+			height: 1.0d
+			image: "powah:item/capacitor_niotic"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: 15.5d
+		}
+		{
+			height: 1.0d
+			image: "powah:item/capacitor_spirited"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: 16.5d
+		}
+		{
+			height: 1.0d
+			image: "powah:item/capacitor_nitro"
+			rotation: 0.0d
+			width: 1.0d
+			x: -9.5d
+			y: 17.5d
+		}
+		{
+			height: 1.0d
+			image: "powah:item/capacitor_nitro"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: 17.5d
+		}
+		{
+			height: 1.0d
+			image: "powah:item/capacitor_spirited"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: 16.5d
+		}
+		{
+			height: 1.0d
+			image: "powah:item/capacitor_niotic"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: 15.5d
+		}
+		{
+			height: 1.0d
+			image: "powah:item/capacitor_blazing"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: 14.5d
+		}
+		{
+			height: 1.0d
+			image: "powah:item/capacitor_hardened"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: 13.5d
+		}
+		{
+			height: 1.0d
+			image: "powah:item/capacitor_basic"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: 12.5d
+		}
+		{
+			height: 1.0d
+			image: "powah:item/capacitor_basic_tiny"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: 11.5d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:tasks/input_only"
+			rotation: 45.0d
+			width: 2.0d
+			x: -0.5d
+			y: 4.5d
+		}
+		{
+			height: 2.0d
+			image: "ftbquests:block/barrier_open"
+			rotation: 0.0d
+			width: 2.0d
+			x: -0.5d
+			y: 8.0d
+		}
+		{
+			height: 1.0d
+			image: "powah:block/nitro_crystal_block"
+			rotation: 45.0d
+			width: 1.0d
+			x: -0.5d
+			y: 19.0d
+		}
+		{
+			height: 3.0d
+			image: "ftbquests:tasks/input_only"
+			rotation: 0.0d
+			width: 3.0d
+			x: -0.5d
+			y: 4.5d
+		}
+		{
+			alpha: 150
+			color: 0
+			height: 10.0d
+			image: "ftbquests:textures/shapes/square/outline.png"
+			order: -1
+			rotation: 0.0d
+			width: 24.0d
+			x: -0.5d
+			y: 14.5d
+		}
+		{
+			alpha: 200
+			height: 0.1d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 22.0d
+			x: -0.5d
+			y: 11.0d
+		}
+		{
+			height: 0.025d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 22.0d
+			x: -0.5d
+			y: 12.0d
+		}
+		{
+			alpha: 200
+			height: 0.1d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 22.0d
+			x: -0.5d
+			y: 12.0d
+		}
+		{
+			alpha: 200
+			height: 0.1d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 22.0d
+			x: -0.5d
+			y: 13.0d
+		}
+		{
+			alpha: 200
+			height: 0.1d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 22.0d
+			x: -0.5d
+			y: 14.0d
+		}
+		{
+			alpha: 200
+			height: 0.1d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 22.0d
+			x: -0.5d
+			y: 15.0d
+		}
+		{
+			alpha: 200
+			height: 0.1d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 22.0d
+			x: -0.5d
+			y: 16.0d
+		}
+		{
+			alpha: 200
+			height: 0.1d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 22.0d
+			x: -0.5d
+			y: 17.0d
+		}
+		{
+			alpha: 200
+			height: 0.1d
+			image: "minecraft:block/black_concrete"
+			rotation: 0.0d
+			width: 22.0d
+			x: -0.5d
+			y: 18.0d
+		}
+		{
+			height: 1.0d
+			image: "powah:block/niotic_crystal_block"
+			rotation: 45.0d
+			width: 1.0d
+			x: -0.5d
+			y: 10.0d
+		}
+		{
+			height: 1.0d
+			image: "powah:item/uraninite_raw"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: 10.5d
+		}
+		{
+			height: 1.0d
+			image: "powah:item/uraninite_raw"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.5d
+			y: 18.5d
+		}
+		{
+			height: 1.0d
+			image: "powah:item/uraninite_raw"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.5d
+			y: 10.5d
+		}
+		{
+			height: 1.0d
+			image: "powah:item/uraninite_raw"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.5d
+			y: 18.5d
+		}
+		{
+			height: 0.3d
+			hover: ["{atm9.quest.ae2.img.star}"]
+			image: "allthetweaks:item/atm_star"
+			rotation: 0.0d
+			width: 0.3d
+			x: -5.5d
+			y: 18.1d
+		}
+		{
+			height: 0.3d
+			hover: ["{atm9.quest.ae2.img.star}"]
+			image: "allthetweaks:item/atm_star"
+			rotation: 0.0d
+			width: 0.3d
+			x: -6.5d
+			y: 18.1d
+		}
+	]
+	order_index: 9
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [

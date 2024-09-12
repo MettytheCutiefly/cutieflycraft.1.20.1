@@ -643,11 +643,7 @@
 		}
 		{
 			dependencies: ["477B411F84342EEA"]
-			description: [
-				"{atm9.quest.power.desc.more}"
-				""
-				"{image:atm:textures/questpics/mek/mek_induction_matrix_small.png width:125 height:150 align:1}"
-			]
+			description: ["{atm9.quest.power.desc.more}"]
 			id: "682034C680FDEDC2"
 			min_width: 300
 			rewards: [{
@@ -888,11 +884,7 @@
 		}
 		{
 			dependencies: ["36DEA17CBB696CC7"]
-			description: [
-				"{atm9.quest.power.desc.controller}"
-				""
-				"{image:atm:textures/questpics/flux/wireless_ui.png width:125 height:150 align:1}"
-			]
+			description: ["{atm9.quest.power.desc.controller}"]
 			id: "27A4FA38992448A0"
 			min_width: 300
 			rewards: [

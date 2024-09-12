@@ -7,6 +7,16 @@
 	id: "3C78926E5D301BA0"
 	images: [
 		{
+			height: 0.5d
+			hover: ["Needed For The ATM Star"]
+			image: "allthetweaks:item/atm_star"
+			order: 1
+			rotation: 0.0d
+			width: 0.5d
+			x: -2.0d
+			y: 16.5d
+		}
+		{
 			height: 1.75d
 			image: "ftbquests:tasks/input_only"
 			rotation: 90.0d
@@ -22,6 +32,22 @@
 			width: 1.75d
 			x: -5.5d
 			y: 8.0d
+		}
+		{
+			height: 2.25d
+			image: "forbidden_arcanus:block/clibano_combustion/soul_fire/clibano_center_front"
+			rotation: 180.0d
+			width: 2.25d
+			x: -2.0d
+			y: 15.5d
+		}
+		{
+			height: 2.0d
+			image: "bigreactors:fluid/fluid.fuelcolumn.flowing"
+			rotation: 0.0d
+			width: 2.0d
+			x: -2.0d
+			y: 15.5d
 		}
 		{
 			height: 1.5d
@@ -59,7 +85,7 @@
 			y: 0.5d
 		}
 	]
-	order_index: 2
+	order_index: 3
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
@@ -394,8 +420,6 @@
 				"{atm9.quest.gregtech.desc.reactorControlRods.1}"
 				""
 				"{atm9.quest.gregtech.desc.reactorControlRods.2}"
-				""
-				"{image:atm:textures/questpics/extremereactors/importexample.png width:150 height:150 align:1}"
 			]
 			id: "14E5349DD740D026"
 			min_width: 400
@@ -818,7 +842,6 @@
 				""
 				"{atm9.quest.gregtech.desc.turbinePorts.5}"
 				""
-				"{image:atm:textures/questpics/extremereactors/maxbasicturbine.png width:100 height:150 align:1}"
 			]
 			id: "67AFCBCE7AAC3089"
 			min_width: 300
@@ -1126,7 +1149,6 @@
 				""
 				"{atm9.quest.gregtech.desc.turbineConstruction.3}"
 				""
-				"{image:atm:textures/questpics/extremereactors/turbineui.png width:200 height:150 align:1}"
 			]
 			id: "775D176081DD75F5"
 			min_width: 400

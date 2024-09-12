@@ -31,6 +31,32 @@
 			y: -2.5d
 		}
 		{
+			height: 1.5d
+			image: "farmersdelight:item/hamburger"
+			rotation: 0.0d
+			width: 1.5d
+			x: -3.0d
+			y: 9.0d
+		}
+		{
+			height: 1.0d
+			image: "tombstone:item/bag_of_seeds"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: 9.23d
+		}
+		{
+			height: 1.0d
+			image: "tombstone:item/bag_of_seeds"
+			order: -1
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.573d
+			y: 9.23d
+		}
+		{
 			height: 1.0d
 			image: "mysticalagriculture:item/awakened_supremium_essence"
 			order: -1
@@ -563,11 +589,7 @@
 		}
 		{
 			dependencies: ["7975C7145572C438"]
-			description: [
-				"{atm9.quest.chapter1.desc.stone}"
-				""
-				""
-			]
+			description: ["{atm9.quest.chapter1.desc.stone}"]
 			icon: "minecraft:furnace"
 			id: "7D38BC3DB3406F51"
 			rewards: [{
@@ -644,11 +666,7 @@
 		}
 		{
 			dependencies: ["7D38BC3DB3406F51"]
-			description: [
-				"{atm9.quest.chapter1.desc.furnace}"
-				""
-				""
-			]
+			description: ["{atm9.quest.chapter1.desc.furnace}"]
 			icon: {
 				Count: 1
 				id: "ftbquests:custom_icon"
@@ -681,10 +699,7 @@
 		}
 		{
 			dependencies: ["7D38BC3DB3406F51"]
-			description: [
-				"{atm9.quest.chapter1.desc.metal}"
-				""
-			]
+			description: ["{atm9.quest.chapter1.desc.metal}"]
 			id: "051E0C85E7B71CE0"
 			rewards: [
 				{
@@ -943,11 +958,7 @@
 		}
 		{
 			dependencies: ["76406EFFF8CBA6B4"]
-			description: [
-				"{atm9.quest.chapter1.desc.nether}"
-				""
-				"{image:atm:textures/questpics/gettingstarted/example_netherportal.png width:175 height:201 align:1}"
-			]
+			description: ["{atm9.quest.chapter1.desc.nether}"]
 			id: "0F3D51FFD2FE8DCB"
 			min_width: 300
 			rewards: [
@@ -1327,12 +1338,7 @@
 		}
 		{
 			dependencies: ["4E9229FBA875C0BE"]
-			description: [
-				"{atm9.quest.chapter1.desc.apotheosis}"
-				""
-				""
-				"{image:atm:textures/questpics/gettingstarted/apoth_exampleitem.png width:170 height:86 align:1}"
-			]
+			description: ["{atm9.quest.chapter1.desc.apotheosis}"]
 			id: "780DE5A24ED53F60"
 			rewards: [
 				{
@@ -1380,14 +1386,7 @@
 		}
 		{
 			dependencies: ["4E9229FBA875C0BE"]
-			description: [
-				"{atm9.quest.chapter1.desc.spell}"
-				""
-				""
-				""
-				""
-				"{image:atm:textures/questpics/gettingstarted/ironspells_example.png width:199 height:125 align:1}"
-			]
+			description: ["{atm9.quest.chapter1.desc.spell}"]
 			id: "58541EEDCB2C7CEE"
 			min_width: 350
 			rewards: [

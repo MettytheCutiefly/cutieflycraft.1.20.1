@@ -5,7 +5,7 @@
 	group: "2B51AC12041E3F89"
 	icon: "draconicevolution:draconium_core"
 	id: "0B826D13BAD43EEB"
-	order_index: 4
+	order_index: 5
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
@@ -641,10 +641,9 @@
 			}]
 			shape: "square"
 			tasks: [{
-				entity: "draconicevolution:guardian_crystal"
-				id: "1F5C8CEC7E04F9CE"
-				type: "kill"
-				value: 14L
+				id: "6A516E772C246DFE"
+				item: "draconicevolution:infused_obsidian"
+				type: "item"
 			}]
 			title: "{atm9.quest.draconic.destroy}"
 			x: 0.5d
@@ -778,11 +777,7 @@
 		}
 		{
 			dependencies: ["389655CD41C7A691"]
-			description: [
-				"{atm9.quest.draconic.desc.2)"
-				"{image:atm:textures/questpics/draconic/draconic_core_2off.png width:100 height:100 align:1}"
-				"{image:atm:textures/questpics/draconic/draconic_core_2on.png width:100 height:100 align:1}"
-			]
+			description: ["{atm9.quest.draconic.desc.2)"]
 			icon: "minecraft:iron_ingot"
 			id: "35767977FB9E0B1B"
 			rewards: [{
@@ -813,11 +808,7 @@
 		}
 		{
 			dependencies: ["35767977FB9E0B1B"]
-			description: [
-				"{atm9.quest.draconic.desc.3}"
-				"{image:atm:textures/questpics/draconic/draconic_core_3off.png width:100 height:100 align:1}"
-				"{image:atm:textures/questpics/draconic/draconic_core_3on.png width:100 height:100 align:1}"
-			]
+			description: ["{atm9.quest.draconic.desc.3}"]
 			icon: "minecraft:gold_ingot"
 			id: "713D3B3954E58C4A"
 			rewards: [
@@ -856,11 +847,7 @@
 		}
 		{
 			dependencies: ["713D3B3954E58C4A"]
-			description: [
-				"{atm9.quest.draconic.desc.4}"
-				"{image:atm:textures/questpics/draconic/draconic_core_4off.png width:100 height:100 align:1}"
-				"{image:atm:textures/questpics/draconic/draconic_core_4on.png width:100 height:100 align:1}"
-			]
+			description: ["{atm9.quest.draconic.desc.4}"]
 			icon: "minecraft:diamond"
 			id: "1F7D147C9AF6A4FC"
 			rewards: [
@@ -905,11 +892,7 @@
 		}
 		{
 			dependencies: ["0817FD6E45C127E8"]
-			description: [
-				"{atm9.quest.draconic.desc.5}"
-				"{image:atm:textures/questpics/draconic/draconic_core_5off.png width:100 height:100 align:1}"
-				"{image:atm:textures/questpics/draconic/draconic_core_5on.png width:100 height:100 align:1}"
-			]
+			description: ["{atm9.quest.draconic.desc.5}"]
 			icon: "minecraft:netherite_scrap"
 			id: "131AA933D59D3017"
 			rewards: [
@@ -954,11 +937,7 @@
 		}
 		{
 			dependencies: ["131AA933D59D3017"]
-			description: [
-				"{atm9.quest.draconic.desc.6}"
-				"{image:atm:textures/questpics/draconic/draconic_core_6off.png width:100 height:100 align:1}"
-				"{image:atm:textures/questpics/draconic/draconic_core_6on.png width:100 height:100 align:1}"
-			]
+			description: ["{atm9.quest.draconic.desc.6}"]
 			icon: "allthemodium:allthemodium_ingot"
 			id: "2DB2A4A1182FE0BB"
 			rewards: [
@@ -1003,11 +982,7 @@
 		}
 		{
 			dependencies: ["3B4CEE8A8CE0D6CB"]
-			description: [
-				"{atm9.quest.draconic.desc.8}"
-				"{image:atm:textures/questpics/draconic/draconic_core_8off.png width:100 height:100 align:1}"
-				"{image:atm:textures/questpics/draconic/draconic_core_8on.png width:100 height:100 align:1}"
-			]
+			description: ["{atm9.quest.draconic.desc.8}"]
 			icon: "allthemodium:unobtainium_ingot"
 			id: "04BF68E4554D69AA"
 			rewards: [
@@ -1081,11 +1056,7 @@
 		}
 		{
 			dependencies: ["2DB2A4A1182FE0BB"]
-			description: [
-				"{atm9.quest.draconic.desc.7}"
-				"{image:atm:textures/questpics/draconic/draconic_core_7off.png width:100 height:100 align:1}"
-				"{image:atm:textures/questpics/draconic/draconic_core_7on.png width:100 height:100 align:1}"
-			]
+			description: ["{atm9.quest.draconic.desc.7}"]
 			icon: "allthemodium:vibranium_ingot"
 			id: "3B4CEE8A8CE0D6CB"
 			rewards: [
@@ -2669,11 +2640,7 @@
 				"6616A62426ED4D15"
 				"69986817D58AC8BE"
 			]
-			description: [
-				"{atm9.quest.draconic.desc.RCore}"
-				"{image:atm:textures/questpics/draconic/draconic_reactor_off_down.png width:200 height:100 align:1}"
-				"{image:atm:textures/questpics/draconic/draconic_reactor_off_up.png width:150 height:150 align:1}"
-			]
+			description: ["{atm9.quest.draconic.desc.RCore}"]
 			icon_scale: 2.0d
 			id: "5BC6CC3C09F512A7"
 			min_width: 300
@@ -2782,11 +2749,7 @@
 				"129E09C03E40BA57"
 				"6601ACCDDF6CA5FF"
 			]
-			description: [
-				"{atm9.quest.draconic.desc.on}"
-				"{image:atm:textures/questpics/draconic/draconic_reactor_on_down.png width:200 height:100 align:1}"
-				"{image:atm:textures/questpics/draconic/draconic_reactor_on_up.png width:150 height:150 align:1}"
-			]
+			description: ["{atm9.quest.draconic.desc.on}"]
 			id: "7D159D333B2AC57E"
 			rewards: [{
 				id: "2CC933DAF73F7D73"

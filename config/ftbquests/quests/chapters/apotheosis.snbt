@@ -5,6 +5,16 @@
 	group: "02FE661031A105D8"
 	icon: "minecraft:enchanting_table"
 	id: "282448C70744895F"
+	images: [{
+		click: "https://allthemods.github.io/alltheguides/atm9/apotheosis/"
+		height: 1.0d
+		hover: ["atm9.quest.enchant.img.guide"]
+		image: "minecraft:block/enchanting_table_side"
+		rotation: 0.0d
+		width: 1.0d
+		x: -5.5d
+		y: 3.5d
+	}]
 	order_index: 0
 	progression_mode: "flexible"
 	quest_links: [ ]

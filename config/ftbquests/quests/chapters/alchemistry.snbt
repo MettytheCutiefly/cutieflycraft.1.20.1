@@ -155,11 +155,6 @@
 				"{atm9.quest.alchem.desc.bothreactors}"
 				""
 				"{atm9.quest.alchem.desc.fission}"
-				""
-				""
-				"{image:atm:textures/questpics/alchemistry/fission_controller_1.png width:175 height:135 align:1}"
-				""
-				"{image:atm:textures/questpics/alchemistry/fission_controller_2.png width:175 height:135 align:1}"
 			]
 			icon: "alchemistry:fission_chamber_controller"
 			id: "01448392C2A13D94"
@@ -235,10 +230,6 @@
 				""
 				"{atm9.quest.alchem.desc.fission}"
 				""
-				""
-				"{image:atm:textures/questpics/alchemistry/fusion_controller_1.png width:175 height:135 align:1}"
-				""
-				"{image:atm:textures/questpics/alchemistry/fusion_controller_2.png width:175 height:135 align:1}"
 			]
 			icon: "alchemistry:fusion_chamber_controller"
 			id: "1A988BE2A5158A43"

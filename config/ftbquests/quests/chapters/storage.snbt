@@ -5,6 +5,14 @@
 	group: "1AC60211DE7427FC"
 	icon: "minecraft:chest"
 	id: "1DB294A8F8686321"
+	images: [{
+		height: 5.0d
+		image: "minecraft:textures/item/chest_minecart.png"
+		rotation: 0.0d
+		width: 5.0d
+		x: -2.0d
+		y: -3.0d
+	}]
 	order_index: 0
 	progression_mode: "flexible"
 	quest_links: [ ]

@@ -5,16 +5,266 @@
 	group: "2B51AC12041E3F89"
 	icon: "industrialforegoing:common_black_hole_unit"
 	id: "193F91842D2ED7D9"
-	images: [{
-		height: 0.3d
-		hover: ["{atm9.quest.ae2.img.star}"]
-		image: "allthetweaks:item/atm_star"
-		rotation: 0.0d
-		width: 0.3d
-		x: 12.506802721088391d
-		y: 7.437925170068027d
-	}]
-	order_index: 5
+	images: [
+		{
+			height: 0.3d
+			hover: ["{atm9.quest.ae2.img.star}"]
+			image: "allthetweaks:item/atm_star"
+			rotation: 0.0d
+			width: 0.3d
+			x: 12.506802721088391d
+			y: 7.437925170068027d
+		}
+		{
+			height: 0.3d
+			hover: ["{atm9.quest.ae2.img.star}"]
+			image: "allthetweaks:item/atm_star"
+			rotation: 0.0d
+			width: 0.3d
+			x: 11.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			hover: [
+				"{atm9.quest.industrialForegoing.hover.mycelialReactorFeatures.1}"
+				"{atm9.quest.industrialForegoing.hover.mycelialReactorFeatures.2}"
+			]
+			image: "industrialforegoing:block/reactor_front_mycelial"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.0d
+			y: 17.0d
+		}
+		{
+			height: 1.0d
+			hover: ["{atm9.quest.industrialForegoing.crimedMycelialGenerator}"]
+			image: "industrialforegoing:block/generators/generator_front_crimed"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: 14.5d
+		}
+		{
+			height: 1.0d
+			hover: ["{atm9.quest.industrialForegoing.culinaryMycelialGenerator}"]
+			image: "industrialforegoing:block/generators/generator_front_culinary"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: 14.5d
+		}
+		{
+			height: 1.0d
+			hover: ["{atm9.quest.industrialForegoing.deathMycelialGenerator}"]
+			image: "industrialforegoing:block/generators/generator_front_death"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.5d
+			y: 14.5d
+		}
+		{
+			height: 1.0d
+			hover: ["{atm9.quest.industrialForegoing.disenchantmentMycelialGenerator}"]
+			image: "industrialforegoing:block/generators/generator_front_disenchantment"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: 14.5d
+		}
+		{
+			height: 1.0d
+			hover: ["{atm9.quest.industrialForegoing.enderMycelialGenerator}"]
+			image: "industrialforegoing:block/generators/generator_front_ender"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: 15.5d
+		}
+		{
+			height: 1.0d
+			hover: ["{atm9.quest.industrialForegoing.explosiveMycelialGenerator}"]
+			image: "industrialforegoing:block/generators/generator_front_explosive"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: 16.5d
+		}
+		{
+			height: 1.0d
+			hover: ["{atm9.quest.industrialForegoing.frostyMycelialGenerator}"]
+			image: "industrialforegoing:block/generators/generator_front_frosty"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: 17.5d
+		}
+		{
+			height: 1.0d
+			hover: ["{atm9.quest.industrialForegoing.furnaceMycelialGenerator}"]
+			image: "industrialforegoing:block/generators/generator_front_furnace"
+			rotation: 0.0d
+			width: 1.0d
+			x: 10.5d
+			y: 18.5d
+		}
+		{
+			height: 1.0d
+			hover: ["{atm9.quest.industrialForegoing.halitosisMycelialGenerator}"]
+			image: "industrialforegoing:block/generators/generator_front_halitosis"
+			rotation: 0.0d
+			width: 1.0d
+			x: 9.5d
+			y: 19.5d
+		}
+		{
+			height: 1.0d
+			hover: ["{atm9.quest.industrialForegoing.magmaMycelialGenerator}"]
+			image: "industrialforegoing:block/generators/generator_front_magmatic"
+			rotation: 0.0d
+			width: 1.0d
+			x: 8.5d
+			y: 19.5d
+		}
+		{
+			height: 1.0d
+			hover: ["{atm9.quest.industrialForegoing.meatallurgicMycelialGenerator}"]
+			image: "industrialforegoing:block/generators/generator_front_meatallurgic"
+			rotation: 0.0d
+			width: 1.0d
+			x: 7.5d
+			y: 19.5d
+		}
+		{
+			height: 1.0d
+			hover: ["{atm9.quest.industrialForegoing.netherstarMycelialGenerator}"]
+			image: "industrialforegoing:block/generators/generator_front_netherstar"
+			rotation: 0.0d
+			width: 1.0d
+			x: 6.5d
+			y: 19.5d
+		}
+		{
+			height: 1.0d
+			hover: ["{atm9.quest.industrialForegoing.pinkMycelialGenerator}"]
+			image: "industrialforegoing:block/generators/generator_front_pink"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: 18.5d
+		}
+		{
+			height: 1.0d
+			hover: ["{atm9.quest.industrialForegoing.potionMycelialGenerator}"]
+			image: "industrialforegoing:block/generators/generator_front_potion"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: 17.5d
+		}
+		{
+			height: 1.0d
+			hover: ["{atm9.quest.industrialForegoing.rocketMycelialGenerator}"]
+			image: "industrialforegoing:block/generators/generator_front_rocket"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: 16.5d
+		}
+		{
+			height: 1.0d
+			hover: ["{atm9.quest.industrialForegoing.slimeyMycelialGenerator}"]
+			image: "industrialforegoing:block/generators/generator_front_slimey"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: 15.5d
+		}
+		{
+			click: "#0EC2053B191C55C6"
+			height: 1.0d
+			hover: ["{atm9.quest.industrialForegoing.fluidExtractor}"]
+			image: "industrialforegoing:block/tree_fluid_extractor_back"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.3346938775509756d
+			y: 2.910034013605461d
+		}
+		{
+			click: "#294C729B9EBD7A3C"
+			height: 1.0d
+			hover: ["{atm9.quest.industrialForegoing.blockPlacer}"]
+			image: "industrialforegoing:block/block_placer_back"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.4367346938775043d
+			y: 2.01207482993199d
+		}
+		{
+			height: 1.0d
+			hover: ["{atm9.quest.industrialForegoing.acaciaLogs}"]
+			image: "chipped:block/acacia_log/firewood_acacia_log"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.4399659863945189d
+			y: 2.909523809523833d
+		}
+		{
+			click: "#0EC2053B191C55C6"
+			height: 1.0d
+			hover: ["{atm9.quest.industrialForegoing.fluidExtractor}"]
+			image: "industrialforegoing:block/tree_fluid_extractor_back"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.4367346938775043d
+			y: 3.828401360544234d
+		}
+		{
+			click: "#0EC2053B191C55C6"
+			height: 1.0d
+			hover: ["{atm9.quest.industrialForegoing.fluidExtractor}"]
+			image: "industrialforegoing:block/tree_fluid_extractor_back"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.461224489795967d
+			y: 2.910034013605461d
+		}
+		{
+			click: "#6FF04DD735346BED"
+			height: 1.0d
+			hover: ["{atm9.quest.industrialForegoing.latexProcessingUnit}"]
+			image: "industrialforegoing:block/latex_processing_unit_front"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.1301020408163396d
+			y: 2.9013605442176953d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/icons/arrow_next.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.130612244897911d
+			y: 2.8896258503401455d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/furnace_front_on"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.967346938775449d
+			y: 2.8896258503401455d
+		}
+		{
+			height: 1.0d
+			image: "jei:textures/jei/atlas/gui/icons/arrow_next.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.028571428571368d
+			y: 2.8896258503401455d
+		}
+	]
+	order_index: 6
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
