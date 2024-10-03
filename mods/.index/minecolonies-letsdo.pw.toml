@@ -1,0 +1,13 @@
+filename = 'MineColonies_LetsDo-1.20.1-1.6.jar'
+name = "Let's Do addon for MineColonies"
+side = 'both'
+
+[download]
+hash = 'f3224a185c0f1221b264b2ab40993ab660dc7cc1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5742432
+project-id = 1085479

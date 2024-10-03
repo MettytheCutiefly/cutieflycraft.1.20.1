@@ -1,0 +1,13 @@
+filename = 'loafcats-1.2-1.20.1.jar'
+name = 'Loaf Cats'
+side = 'both'
+
+[download]
+hash = '93d700989698283cf390b362bfd9fbd3e41a3b257d5f97ba87381b395764350869ed49a82ad46d473406e1d601a77e376765007862ff68b1c014e48e517bd39f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XoNFzpmn/versions/I9PxDAbl/loafcats-1.2-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'XoNFzpmn'
+version = 'I9PxDAbl'

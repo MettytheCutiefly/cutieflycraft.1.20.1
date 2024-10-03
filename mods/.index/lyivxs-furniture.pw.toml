@@ -1,0 +1,13 @@
+filename = 'ls_furniture-1.0.3-SNAPSHOT-1.20.1-Forge.jar'
+name = "LYIVX's Furniture"
+side = 'both'
+
+[download]
+hash = '6fc717d388b3bdc5c86f71604ba8a792c1527bd31076c5a67825ccb122eda5a39e97d46031c547eaf1af27f9fc3e2f755d28ea05a91985e25f2ce83066c5caf2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/CR0S3SGP/versions/urJ09ZMm/ls_furniture-1.0.3-SNAPSHOT-1.20.1-Forge.jar'
+
+[update.modrinth]
+mod-id = 'CR0S3SGP'
+version = 'urJ09ZMm'

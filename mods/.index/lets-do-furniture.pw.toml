@@ -1,0 +1,13 @@
+filename = 'letsdo-furniture-forge-1.0.2.jar'
+name = "[Let's Do] Furniture"
+side = 'both'
+
+[download]
+hash = '5cc4dbba09f6069bc4cbd77602265eb44bae3f1f85fe78cc026899b9b14d7eb075aeb8ae954dc0cbf759b426b79c089915bb367cf857b8a77b804df7f78aa264'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/3JQDJrYW/versions/EKX4QiLg/letsdo-furniture-forge-1.0.2.jar'
+
+[update.modrinth]
+mod-id = '3JQDJrYW'
+version = 'EKX4QiLg'

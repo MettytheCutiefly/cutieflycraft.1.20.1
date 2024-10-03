@@ -1,0 +1,13 @@
+filename = 'easy_mob_farm_1.20.1-7.0.0.jar'
+name = 'Easy Mob Farm'
+side = 'both'
+
+[download]
+hash = 'f9238be6abca21a3b64bd62b370ef78ab7455f49d9836b829db8e306545319861ffa6010257fba65a55d6c38643b4f3b8bdeb8a907459c6c055be5adf40d52e7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/crxsDbEo/versions/xzqoFjVU/easy_mob_farm_1.20.1-7.0.0.jar'
+
+[update.modrinth]
+mod-id = 'crxsDbEo'
+version = 'xzqoFjVU'

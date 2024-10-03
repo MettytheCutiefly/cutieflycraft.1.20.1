@@ -1,0 +1,13 @@
+filename = 'BotanyTrees-Forge-1.20.1-9.0.15.jar'
+name = 'Botany Trees'
+side = 'both'
+
+[download]
+hash = '2bf71cef93efa4667b031173891294bc23a721f5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5588128
+project-id = 411357
