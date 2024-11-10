@@ -985,11 +985,7 @@
 		}
 		{
 			dependencies: ["63E4529AF8894018"]
-			description: [
-				"{atm9.quest.modular_router.desc.mob_farm.1}"
-				""
-				"{image:atm:textures/questpics/router/router_mob.png width:200 height:75 align:center}"
-			]
+			description: ["{atm9.quest.modular_router.desc.mob_farm.1}"]
 			id: "53A5F5E49EA8D5AF"
 			shape: "rsquare"
 			size: 1.3d
@@ -1068,11 +1064,7 @@
 		}
 		{
 			dependencies: ["63E4529AF8894018"]
-			description: [
-				"{atm9.quest.modular_router.desc.farming.1}"
-				""
-				"{image:atm:textures/questpics/router/router_farm.png width:50 height:150 align:center}"
-			]
+			description: ["{atm9.quest.modular_router.desc.farming.1}"]
 			id: "0D5691403AEC25A8"
 			shape: "rsquare"
 			size: 1.3d
@@ -1090,46 +1082,6 @@
 			]
 			x: 0.0d
 			y: -3.0d
-		}
-		{
-			can_repeat: false
-			description: [
-				"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks."
-				"As all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by the &6AllTheMods Team&r, without explicit permission."
-				""
-				""
-				""
-				"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
-			]
-			disable_toast: true
-			hide: true
-			hide_details_until_startable: true
-			icon: {
-				Count: 1
-				id: "ftbquests:custom_icon"
-				tag: {
-					Icon: "minecraft:item/barrier"
-				}
-			}
-			id: "08A4EDA69B82A561"
-			invisible: true
-			optional: true
-			shape: "octagon"
-			tasks: [
-				{
-					disable_toast: true
-					id: "0C6181FC8C5D87ED"
-					title: "Quests By AllTheMods"
-					type: "checkmark"
-				}
-				{
-					id: "78F00C85E7E8A042"
-					title: "Quests By AllTheMods"
-					type: "checkmark"
-				}
-			]
-			x: 0.0d
-			y: -4.0d
 		}
 	]
 	title: "{atm9.chapters.59.title}"

@@ -184,7 +184,7 @@
 				{
 					count: 4L
 					id: "1376E9EEBB16D83E"
-					item: "ad_astra:desh_ingot"
+					item: { Count: 4, id: "ad_astra:desh_ingot" }
 					type: "item"
 				}
 			]
@@ -275,7 +275,7 @@
 				{
 					count: 4L
 					id: "65AE7D0A17C3DB4E"
-					item: "ad_astra:ostrum_ingot"
+					item: { Count: 4, id: "ad_astra:ostrum_ingot" }
 					type: "item"
 				}
 			]
@@ -1058,8 +1058,8 @@
 				"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
 			]
 			disable_toast: true
-			hide: true
 			hide_details_until_startable: true
+			hide_until_deps_visible: true
 			icon: {
 				Count: 1
 				id: "ftbquests:custom_icon"

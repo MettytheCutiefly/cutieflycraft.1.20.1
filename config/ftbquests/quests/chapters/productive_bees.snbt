@@ -13,14 +13,6 @@
 	id: "26E6ED94168A05C4"
 	images: [
 		{
-			height: 5.0d
-			image: "atm:textures/questpics/bees/productive_bees.png"
-			rotation: 0.0d
-			width: 20.0d
-			x: 1.0d
-			y: -10.0d
-		}
-		{
 			height: 2.0d
 			image: "minecraft:textures/item/honeycomb.png"
 			rotation: 0.0d
@@ -210,7 +202,7 @@
 				""
 				"{atm9.quest.productiveBees.desc.nests.3}"
 			]
-			hide: false
+			hide_until_deps_visible: false
 			id: "00A17728A387B426"
 			rewards: [{
 				id: "13A6FF7C32F2A33F"
@@ -257,8 +249,8 @@
 		{
 			dependencies: ["120BDCB70AD352AC"]
 			description: ["{atm9.quest.productiveBees.desc.stoneNest}"]
-			hide: false
 			hide_dependency_lines: true
+			hide_until_deps_visible: false
 			id: "369D3AF332181DA8"
 			rewards: [{
 				id: "2FAF74F05A3FB855"
@@ -281,7 +273,7 @@
 				""
 				"{atm9.quest.productiveBees.desc.dirtNest.2}"
 			]
-			hide: false
+			hide_until_deps_visible: false
 			id: "73C70B15582958A5"
 			rewards: [{
 				id: "7BF7221FDB6D90C9"
@@ -300,8 +292,8 @@
 		{
 			dependencies: ["120BDCB70AD352AC"]
 			description: ["{atm9.quest.productiveBees.desc.sandNest}"]
-			hide: false
 			hide_dependency_lines: true
+			hide_until_deps_visible: false
 			id: "06044B4452A6B720"
 			rewards: [{
 				id: "73C97FC16BFC308A"
@@ -320,8 +312,8 @@
 		{
 			dependencies: ["120BDCB70AD352AC"]
 			description: ["{atm9.quest.productiveBees.desc.snowNest}"]
-			hide: false
 			hide_dependency_lines: true
+			hide_until_deps_visible: false
 			id: "264BFB8C5F79616F"
 			rewards: [{
 				id: "5109858DAD10D79F"
@@ -344,8 +336,8 @@
 				""
 				"{atm9.quest.productiveBees.desc.gravelNest.2}"
 			]
-			hide: false
 			hide_dependency_lines: true
+			hide_until_deps_visible: false
 			id: "09FD3D0B9BCAEB5A"
 			rewards: [{
 				id: "12F728528AF6A6D3"
@@ -364,8 +356,8 @@
 		{
 			dependencies: ["120BDCB70AD352AC"]
 			description: ["{atm9.quest.productiveBees.desc.reedNest}"]
-			hide: false
 			hide_dependency_lines: true
+			hide_until_deps_visible: false
 			id: "5CC9CB0911954215"
 			rewards: [{
 				id: "53A40EE86E11B2C0"
@@ -384,8 +376,8 @@
 		{
 			dependencies: ["120BDCB70AD352AC"]
 			description: ["{atm9.quest.productiveBees.desc.slimyNest}"]
-			hide: false
 			hide_dependency_lines: true
+			hide_until_deps_visible: false
 			id: "79D6A251FE3761B3"
 			rewards: [{
 				id: "4D2E30FE89E3148F"
@@ -404,8 +396,8 @@
 		{
 			dependencies: ["120BDCB70AD352AC"]
 			description: ["{atm9.quest.productiveBees.desc.glowstoneNest}"]
-			hide: false
 			hide_dependency_lines: true
+			hide_until_deps_visible: false
 			id: "41CF7CAEE4F60CCD"
 			rewards: [{
 				id: "310F333754B88B57"
@@ -423,8 +415,8 @@
 		}
 		{
 			dependencies: ["120BDCB70AD352AC"]
-			hide: false
 			hide_dependency_lines: true
+			hide_until_deps_visible: false
 			id: "027FD9135DEC4949"
 			rewards: [{
 				id: "1EC49763E8E46D47"
@@ -449,8 +441,8 @@
 				""
 				"{atm9.quest.productiveBees.desc.crystallineNest.3}"
 			]
-			hide: false
 			hide_dependency_lines: true
+			hide_until_deps_visible: false
 			id: "6D484150536536B9"
 			rewards: [{
 				id: "5A21046DE47F6AD0"
@@ -469,8 +461,8 @@
 		{
 			dependencies: ["120BDCB70AD352AC"]
 			description: ["{atm9.quest.productiveBees.desc.netherBrickNest}"]
-			hide: false
 			hide_dependency_lines: true
+			hide_until_deps_visible: false
 			id: "349D19F2FCC34B84"
 			rewards: [{
 				id: "4A620DDFDE9BDB88"
@@ -489,8 +481,8 @@
 		{
 			dependencies: ["120BDCB70AD352AC"]
 			description: ["{atm9.quest.productiveBees.desc.enderNest}"]
-			hide: false
 			hide_dependency_lines: true
+			hide_until_deps_visible: false
 			id: "1E9BD4B74DAEA9FC"
 			rewards: [{
 				id: "121400F2EFEEB64C"
@@ -513,8 +505,8 @@
 				""
 				"{atm9.quest.productiveBees.desc.obsidianNest.2}"
 			]
-			hide: false
 			hide_dependency_lines: true
+			hide_until_deps_visible: false
 			id: "3155E4212045BC8E"
 			rewards: [{
 				id: "69CAC89B71A6CB41"
@@ -768,8 +760,8 @@
 		{
 			dependencies: ["17419401147B5C02"]
 			description: [""]
-			hide: false
 			hide_dependency_lines: true
+			hide_until_deps_visible: false
 			icon: "minecraft:gold_ingot"
 			id: "029AA03790F055E8"
 			rewards: [{
@@ -4359,46 +4351,6 @@
 			}]
 			x: -8.0d
 			y: 0.5d
-		}
-		{
-			can_repeat: false
-			description: [
-				"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks."
-				"As all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by the &6AllTheMods Team&r, without explicit permission."
-				""
-				""
-				""
-				"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
-			]
-			disable_toast: true
-			hide: true
-			hide_details_until_startable: true
-			icon: {
-				Count: 1
-				id: "ftbquests:custom_icon"
-				tag: {
-					Icon: "minecraft:item/barrier"
-				}
-			}
-			id: "23ABDBFC4123E6DC"
-			invisible: true
-			optional: true
-			shape: "octagon"
-			tasks: [
-				{
-					disable_toast: true
-					id: "7B7D16D9A49B8308"
-					title: "Quests By AllTheMods"
-					type: "checkmark"
-				}
-				{
-					id: "012F21258836AF43"
-					title: "Quests By AllTheMods"
-					type: "checkmark"
-				}
-			]
-			x: 1.0d
-			y: -7.5d
 		}
 	]
 	title: "{atm9.chapters.17.title}"

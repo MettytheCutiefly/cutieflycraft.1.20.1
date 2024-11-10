@@ -590,7 +590,7 @@
 			tasks: [{
 				count: 5L
 				id: "0D221A5709E45811"
-				item: "draconicevolution:chaos_shard"
+				item: { Count: 5, id: "draconicevolution:chaos_shard" }
 				type: "item"
 			}]
 			title: "{atm9.quest.draconic.shard}"
@@ -777,7 +777,11 @@
 		}
 		{
 			dependencies: ["389655CD41C7A691"]
-			description: ["{atm9.quest.draconic.desc.2)"]
+			description: [
+				"{atm9.quest.draconic.desc.2)"
+				"{image:atm:textures/questpics/draconic/draconic_core_2off.png width:100 height:100 align:1}"
+				"{image:atm:textures/questpics/draconic/draconic_core_2on.png width:100 height:100 align:1}"
+			]
 			icon: "minecraft:iron_ingot"
 			id: "35767977FB9E0B1B"
 			rewards: [{
@@ -808,7 +812,11 @@
 		}
 		{
 			dependencies: ["35767977FB9E0B1B"]
-			description: ["{atm9.quest.draconic.desc.3}"]
+			description: [
+				"{atm9.quest.draconic.desc.3}"
+				"{image:atm:textures/questpics/draconic/draconic_core_3off.png width:100 height:100 align:1}"
+				"{image:atm:textures/questpics/draconic/draconic_core_3on.png width:100 height:100 align:1}"
+			]
 			icon: "minecraft:gold_ingot"
 			id: "713D3B3954E58C4A"
 			rewards: [
@@ -847,7 +855,11 @@
 		}
 		{
 			dependencies: ["713D3B3954E58C4A"]
-			description: ["{atm9.quest.draconic.desc.4}"]
+			description: [
+				"{atm9.quest.draconic.desc.4}"
+				"{image:atm:textures/questpics/draconic/draconic_core_4off.png width:100 height:100 align:1}"
+				"{image:atm:textures/questpics/draconic/draconic_core_4on.png width:100 height:100 align:1}"
+			]
 			icon: "minecraft:diamond"
 			id: "1F7D147C9AF6A4FC"
 			rewards: [
@@ -892,7 +904,11 @@
 		}
 		{
 			dependencies: ["0817FD6E45C127E8"]
-			description: ["{atm9.quest.draconic.desc.5}"]
+			description: [
+				"{atm9.quest.draconic.desc.5}"
+				"{image:atm:textures/questpics/draconic/draconic_core_5off.png width:100 height:100 align:1}"
+				"{image:atm:textures/questpics/draconic/draconic_core_5on.png width:100 height:100 align:1}"
+			]
 			icon: "minecraft:netherite_scrap"
 			id: "131AA933D59D3017"
 			rewards: [
@@ -937,7 +953,11 @@
 		}
 		{
 			dependencies: ["131AA933D59D3017"]
-			description: ["{atm9.quest.draconic.desc.6}"]
+			description: [
+				"{atm9.quest.draconic.desc.6}"
+				"{image:atm:textures/questpics/draconic/draconic_core_6off.png width:100 height:100 align:1}"
+				"{image:atm:textures/questpics/draconic/draconic_core_6on.png width:100 height:100 align:1}"
+			]
 			icon: "allthemodium:allthemodium_ingot"
 			id: "2DB2A4A1182FE0BB"
 			rewards: [
@@ -982,7 +1002,11 @@
 		}
 		{
 			dependencies: ["3B4CEE8A8CE0D6CB"]
-			description: ["{atm9.quest.draconic.desc.8}"]
+			description: [
+				"{atm9.quest.draconic.desc.8}"
+				"{image:atm:textures/questpics/draconic/draconic_core_8off.png width:100 height:100 align:1}"
+				"{image:atm:textures/questpics/draconic/draconic_core_8on.png width:100 height:100 align:1}"
+			]
 			icon: "allthemodium:unobtainium_ingot"
 			id: "04BF68E4554D69AA"
 			rewards: [
@@ -1056,7 +1080,11 @@
 		}
 		{
 			dependencies: ["2DB2A4A1182FE0BB"]
-			description: ["{atm9.quest.draconic.desc.7}"]
+			description: [
+				"{atm9.quest.draconic.desc.7}"
+				"{image:atm:textures/questpics/draconic/draconic_core_7off.png width:100 height:100 align:1}"
+				"{image:atm:textures/questpics/draconic/draconic_core_7on.png width:100 height:100 align:1}"
+			]
 			icon: "allthemodium:vibranium_ingot"
 			id: "3B4CEE8A8CE0D6CB"
 			rewards: [
@@ -1859,7 +1887,6 @@
 					}
 				}
 				id: "draconicevolution:wyvern_capacitor"
-				tag: { }
 			}
 			id: "26DF1427AC3966DE"
 			rewards: [{
@@ -1873,7 +1900,7 @@
 			tasks: [{
 				count: 6L
 				id: "76BCC3C288514737"
-				item: "draconicevolution:draconium_dust"
+				item: { Count: 6, id: "draconicevolution:draconium_dust" }
 				type: "item"
 			}]
 			title: "{atm9.quest.draconic.endstone}"
@@ -2577,7 +2604,7 @@
 			tasks: [{
 				count: 9L
 				id: "48C475EE944E4AC6"
-				item: "draconicevolution:energy_core_stabilizer"
+				item: { Count: 9, id: "draconicevolution:energy_core_stabilizer" }
 				type: "item"
 			}]
 			title: "{atm9.quest.draconic.more_stabilizers}"
@@ -2607,7 +2634,7 @@
 			tasks: [{
 				count: 8L
 				id: "1185E056FCB6918C"
-				item: "draconicevolution:energy_pylon"
+				item: { Count: 8, id: "draconicevolution:energy_pylon" }
 				type: "item"
 			}]
 			title: "{atm9.quest.draconic.more_pylons}"
@@ -2640,7 +2667,11 @@
 				"6616A62426ED4D15"
 				"69986817D58AC8BE"
 			]
-			description: ["{atm9.quest.draconic.desc.RCore}"]
+			description: [
+				"{atm9.quest.draconic.desc.RCore}"
+				"{image:atm:textures/questpics/draconic/draconic_reactor_off_down.png width:200 height:100 align:1}"
+				"{image:atm:textures/questpics/draconic/draconic_reactor_off_up.png width:150 height:150 align:1}"
+			]
 			icon_scale: 2.0d
 			id: "5BC6CC3C09F512A7"
 			min_width: 300
@@ -2677,7 +2708,7 @@
 			tasks: [{
 				count: 4L
 				id: "2184F68F4DDA4834"
-				item: "draconicevolution:reactor_stabilizer"
+				item: { Count: 4, id: "draconicevolution:reactor_stabilizer" }
 				type: "item"
 			}]
 			title: "{atm9.quest.draconic.RStabilizer}"
@@ -2719,7 +2750,7 @@
 			tasks: [{
 				count: 8L
 				id: "47941C447E669A0E"
-				item: "draconicevolution:awakened_draconium_block"
+				item: { Count: 8, id: "draconicevolution:awakened_draconium_block" }
 				type: "item"
 			}]
 			title: "{atm9.quest.draconic.fuel}"
@@ -2749,7 +2780,11 @@
 				"129E09C03E40BA57"
 				"6601ACCDDF6CA5FF"
 			]
-			description: ["{atm9.quest.draconic.desc.on}"]
+			description: [
+				"{atm9.quest.draconic.desc.on}"
+				"{image:atm:textures/questpics/draconic/draconic_reactor_on_down.png width:200 height:100 align:1}"
+				"{image:atm:textures/questpics/draconic/draconic_reactor_on_up.png width:150 height:150 align:1}"
+			]
 			id: "7D159D333B2AC57E"
 			rewards: [{
 				id: "2CC933DAF73F7D73"
@@ -3750,46 +3785,6 @@
 			title: "{atm9.quest.draconic.NVM}"
 			x: 21.0d
 			y: -0.75d
-		}
-		{
-			can_repeat: false
-			description: [
-				"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks."
-				"As all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by the &6AllTheMods Team&r, without explicit permission."
-				""
-				""
-				""
-				"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
-			]
-			disable_toast: true
-			hide: true
-			hide_details_until_startable: true
-			icon: {
-				Count: 1
-				id: "ftbquests:custom_icon"
-				tag: {
-					Icon: "minecraft:item/barrier"
-				}
-			}
-			id: "366431661CC43A6E"
-			invisible: true
-			optional: true
-			shape: "octagon"
-			tasks: [
-				{
-					disable_toast: true
-					id: "2AE8A0F6A6C2D453"
-					title: "Quests By AllTheMods"
-					type: "checkmark"
-				}
-				{
-					id: "1EFD3D7C04F9682A"
-					title: "Quests By AllTheMods"
-					type: "checkmark"
-				}
-			]
-			x: 8.0d
-			y: -12.5d
 		}
 	]
 	title: "{atm9.chapters.56.title}"

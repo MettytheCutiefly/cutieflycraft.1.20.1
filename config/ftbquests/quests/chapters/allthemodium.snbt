@@ -17,8 +17,8 @@
 				""
 				"{atm9.quest.allthemodium.desc.atm_ore2}"
 			]
-			hide: false
 			hide_dependency_lines: false
+			hide_until_deps_visible: false
 			id: "5BDBE666E604FCAC"
 			rewards: [
 				{
@@ -388,8 +388,8 @@
 		{
 			dependencies: ["5BDBE666E604FCAC"]
 			description: ["{atm9.quest.allthemodium.desc.atm_tools}"]
-			hide: false
 			hide_dependency_lines: true
+			hide_until_deps_visible: false
 			id: "30E6C6825D78B5F1"
 			rewards: [
 				{
@@ -453,8 +453,8 @@
 				""
 				"{atm9.quest.allthemodium.desc.teleport4}"
 			]
-			hide: true
 			hide_dependency_lines: true
+			hide_until_deps_visible: true
 			id: "3C322474D2F2BA99"
 			rewards: [
 				{
@@ -608,7 +608,7 @@
 			y: 3.0d
 		}
 		{
-			hide: true
+			hide_until_deps_visible: true
 			id: "2DB81CE6F647D08A"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -627,7 +627,7 @@
 			y: 10.5d
 		}
 		{
-			hide: true
+			hide_until_deps_visible: true
 			id: "3E0A6D2FAEEF22A8"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -646,7 +646,7 @@
 			y: 10.0d
 		}
 		{
-			hide: true
+			hide_until_deps_visible: true
 			id: "38135FFD9ED64395"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -1161,46 +1161,6 @@
 			title: "{atm9.quest.allthemodium.beyond}"
 			x: 0.0d
 			y: 9.0d
-		}
-		{
-			can_repeat: false
-			description: [
-				"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks."
-				"As all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by the &6AllTheMods Team&r, without explicit permission."
-				""
-				""
-				""
-				"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
-			]
-			disable_toast: true
-			hide: true
-			hide_details_until_startable: true
-			icon: {
-				Count: 1
-				id: "ftbquests:custom_icon"
-				tag: {
-					Icon: "minecraft:item/barrier"
-				}
-			}
-			id: "532048F1D6759FF6"
-			invisible: true
-			optional: true
-			shape: "octagon"
-			tasks: [
-				{
-					disable_toast: true
-					id: "2B5A232033859FBC"
-					title: "Quests By AllTheMods"
-					type: "checkmark"
-				}
-				{
-					id: "782BF0528469C296"
-					title: "Quests By AllTheMods"
-					type: "checkmark"
-				}
-			]
-			x: 0.0d
-			y: -2.5d
 		}
 	]
 	title: "{atm9.chapters.2.title}"

@@ -1,0 +1,13 @@
+filename = 'botany_fields-A0.2-forge-1.20.1.jar'
+name = 'Botany Fields'
+side = 'both'
+
+[download]
+hash = '9692f2c1f428c3d98bb7c169068ab112db3ab3871184e1b0dc6c3ab9898096d69af9086af02c6d096f2671c02032b6f068784d047cdacd318f831b3d42f2e53c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/TW1Iuv8z/versions/xgylUp02/botany_fields-A0.2-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'TW1Iuv8z'
+version = 'xgylUp02'

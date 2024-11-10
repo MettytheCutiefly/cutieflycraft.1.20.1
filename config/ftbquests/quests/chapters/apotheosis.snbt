@@ -216,10 +216,7 @@
 		}
 		{
 			dependencies: ["50EEDDDE129D2742"]
-			description: [
-				"{atm9.quest.enchant.desc.infused_hellshelf}"
-				"{image:atm:textures/questpics/apotheosis/enchant_hell.png width:100 height:100 align:1}"
-			]
+			description: ["{atm9.quest.enchant.desc.infused_hellshelf}"]
 			id: "218803812A9C332B"
 			rewards: [
 				{
@@ -247,10 +244,7 @@
 		}
 		{
 			dependencies: ["5B3CC3F66F2C3DE5"]
-			description: [
-				"{atm9.quest.enchant.desc.infused_seashelf}"
-				"{image:atm:textures/questpics/apotheosis/enchant_sea.png width:100 height:100 align:1}"
-			]
+			description: ["{atm9.quest.enchant.desc.infused_seashelf}"]
 			id: "076DFB0B39A4259F"
 			rewards: [
 				{
@@ -355,10 +349,7 @@
 		}
 		{
 			dependencies: ["076DFB0B39A4259F"]
-			description: [
-				"{atm9.quest.enchant.desc.crystalline}"
-				"{image:atm:textures/questpics/apotheosis/enchant_seadeep.png width:200 height:150 align:1}"
-			]
+			description: ["{atm9.quest.enchant.desc.crystalline}"]
 			icon: "apotheosis:crystal_seashelf"
 			id: "751189465F91B353"
 			rewards: [
@@ -378,13 +369,13 @@
 				{
 					count: 9L
 					id: "5FE3BF20BB4ABFFB"
-					item: "apotheosis:crystal_seashelf"
+					item: { Count: 9, id: "apotheosis:crystal_seashelf" }
 					type: "item"
 				}
 				{
 					count: 2L
 					id: "398CE6B12CC89712"
-					item: "apotheosis:heart_seashelf"
+					item: { Count: 2, id: "apotheosis:heart_seashelf" }
 					type: "item"
 				}
 			]
@@ -413,10 +404,7 @@
 		}
 		{
 			dependencies: ["218803812A9C332B"]
-			description: [
-				"{atm9.quest.enchant.desc.glowing}"
-				"{image:atm:textures/questpics/apotheosis/enchant_helldeep.png width:150 height:100 align:1}"
-			]
+			description: ["{atm9.quest.enchant.desc.glowing}"]
 			id: "0F77A9AD1F422537"
 			rewards: [
 				{
@@ -676,7 +664,7 @@
 			tasks: [{
 				count: 3L
 				id: "1ACDB5822E2F5713"
-				item: "minecraft:lapis_lazuli"
+				item: { Count: 3, id: "minecraft:lapis_lazuli" }
 				type: "item"
 			}]
 			title: "{atm9.quest.enchant.other}"
@@ -685,10 +673,7 @@
 		}
 		{
 			dependencies: ["44D1B410550B6C28"]
-			description: [
-				"{atm9.quest.enchant.desc.charms}"
-				"{image:atm:textures/questpics/apotheosis/enchant_charm.png width:100 height:100 align:1}"
-			]
+			description: ["{atm9.quest.enchant.desc.charms}"]
 			icon: {
 				Count: 1
 				id: "apotheosis:potion_charm"
@@ -760,10 +745,7 @@
 		}
 		{
 			dependencies: ["6244032FE2E5F1E1"]
-			description: [
-				"{atm9.quest.enchant.desc.perfect}"
-				"{image:atm:textures/questpics/apotheosis/enchant_perfect.png width:200 height:100 align:1}"
-			]
+			description: ["{atm9.quest.enchant.desc.perfect}"]
 			icon: "apotheosis:treasure_shelf"
 			id: "4C446F22771E2B53"
 			rewards: [{
@@ -812,10 +794,7 @@
 				"44D1B410550B6C28"
 				"314E41B84C8DD464"
 			]
-			description: [
-				"{atm9.quest.enchant.desc.alexandria}"
-				"{image:atm:textures/questpics/apotheosis/enchant_library.png width:150 height:100 align:1}"
-			]
+			description: ["{atm9.quest.enchant.desc.alexandria}"]
 			id: "5FD4F40CEC37D9FD"
 			rewards: [{
 				id: "2651F1CE1044AC2B"
@@ -843,10 +822,7 @@
 		}
 		{
 			dependencies: ["44D1B410550B6C28"]
-			description: [
-				"{atm9.quest.enchant.desc.trident}"
-				"{image:atm:textures/questpics/apotheosis/enchant_trident.png width:100 height:100 align:1}"
-			]
+			description: ["{atm9.quest.enchant.desc.trident}"]
 			id: "24526FFBA093805A"
 			rewards: [{
 				id: "60BFDFEDBA2E930C"
@@ -898,46 +874,6 @@
 			title: "{atm9.quest.enchant.library}"
 			x: -1.0d
 			y: 0.5d
-		}
-		{
-			can_repeat: false
-			description: [
-				"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks."
-				"As all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by the &6AllTheMods Team&r, without explicit permission."
-				""
-				""
-				""
-				"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
-			]
-			disable_toast: true
-			hide: true
-			hide_details_until_startable: true
-			icon: {
-				Count: 1
-				id: "ftbquests:custom_icon"
-				tag: {
-					Icon: "minecraft:item/barrier"
-				}
-			}
-			id: "238556F4074D52B2"
-			invisible: true
-			optional: true
-			shape: "octagon"
-			tasks: [
-				{
-					disable_toast: true
-					id: "68EBBA284DFE0E53"
-					title: "Quests By AllTheMods"
-					type: "checkmark"
-				}
-				{
-					id: "726CDC928AF8CE05"
-					title: "Quests By AllTheMods"
-					type: "checkmark"
-				}
-			]
-			x: -4.5d
-			y: 3.5d
 		}
 		{
 			dependencies: ["076DFB0B39A4259F"]

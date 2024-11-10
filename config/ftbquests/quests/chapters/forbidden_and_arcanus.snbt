@@ -20,7 +20,7 @@
 		x: 9.5d
 		y: 2.25d
 	}]
-	order_index: 7
+	order_index: 9
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
@@ -371,8 +371,8 @@
 				""
 				"{atm9.quest.forbiddenAndArcanus.desc.endCityLootFeatures.2}"
 			]
-			hide: true
 			hide_dependency_lines: true
+			hide_until_deps_visible: true
 			id: "709118898CF960BE"
 			optional: true
 			rewards: [{
@@ -453,8 +453,8 @@
 		}
 		{
 			dependencies: ["5523A71F1688EA88"]
-			hide: true
 			hide_dependency_lines: true
+			hide_until_deps_visible: true
 			id: "6780984A7CE63392"
 			optional: true
 			rewards: [{
@@ -474,8 +474,8 @@
 		}
 		{
 			dependencies: ["5523A71F1688EA88"]
-			hide: true
 			hide_dependency_lines: true
+			hide_until_deps_visible: true
 			id: "371DF7589239CB78"
 			optional: true
 			rewards: [{
@@ -495,8 +495,8 @@
 		}
 		{
 			dependencies: ["5523A71F1688EA88"]
-			hide: true
 			hide_dependency_lines: true
+			hide_until_deps_visible: true
 			id: "6C832BFE4D07D897"
 			optional: true
 			rewards: [{
@@ -553,7 +553,7 @@
 				""
 				"{atm9.quest.forbiddenAndArcanus.desc.mortemArmorFeatures.2}"
 			]
-			hide: true
+			hide_until_deps_visible: true
 			id: "5EFC63CF97D97AB5"
 			rewards: [
 				{
@@ -1001,8 +1001,6 @@
 				"{atm9.quest.forbiddenAndArcanus.desc.hephaestusForgeFeatures.1}"
 				""
 				"{atm9.quest.forbiddenAndArcanus.desc.hephaestusForgeFeatures.2}"
-				""
-				"{image:atm:textures/questpics/forbidden/forge.png width:200 height:200 align:1}"
 				""
 				"{atm9.quest.forbiddenAndArcanus.desc.hephaestusForgeFeatures.3}"
 				""
@@ -1582,46 +1580,6 @@
 			}]
 			x: 8.0d
 			y: 3.0d
-		}
-		{
-			can_repeat: false
-			description: [
-				"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks."
-				"As all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by the &6AllTheMods Team&r, without explicit permission."
-				""
-				""
-				""
-				"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
-			]
-			disable_toast: true
-			hide: true
-			hide_details_until_startable: true
-			icon: {
-				Count: 1
-				id: "ftbquests:custom_icon"
-				tag: {
-					Icon: "minecraft:item/barrier"
-				}
-			}
-			id: "44A78A8D55B84840"
-			invisible: true
-			optional: true
-			shape: "octagon"
-			tasks: [
-				{
-					disable_toast: true
-					id: "5E5BFDD637C07C75"
-					title: "Quests By AllTheMods"
-					type: "checkmark"
-				}
-				{
-					id: "53D83F35B62D8374"
-					title: "Quests By AllTheMods"
-					type: "checkmark"
-				}
-			]
-			x: -9.0d
-			y: 9.5d
 		}
 	]
 	title: "{atm9.chapters.43.title}"

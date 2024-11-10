@@ -1,13 +1,13 @@
-filename = 'BotanyPots-Forge-1.20.1-13.0.38.jar'
+filename = 'BotanyPots-Forge-1.20.1-13.0.39.jar'
 name = 'Botany Pots'
 side = 'both'
 
 [download]
-hash = 'b4b12020c30116710833a6c9fa0712a535be26b8'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash = 'af43e1f3a38ccf6d6cb55b474ec3230728a3433920c73bc96716ad1dc20da5ff4a447be8a9ee57a8786461b74412dc6ee2c7c4ebcb71f573e538533cb1b314f2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/U6BUTZ7K/versions/7GoC3OB5/BotanyPots-Forge-1.20.1-13.0.39.jar'
 
-[update.curseforge]
-file-id = 5586279
-project-id = 353928
+[update.modrinth]
+mod-id = 'U6BUTZ7K'
+version = '7GoC3OB5'

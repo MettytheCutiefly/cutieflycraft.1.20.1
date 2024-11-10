@@ -1,0 +1,28 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "MettytheCutiefly",
+      "uniqueId": "efe75375-3298-48a6-9d63-d716978ce054"
+    },
+    "time": 1730673884528,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/S2t6d8vOdx"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "MettytheCutiefly",
+      "uniqueId": "efe75375-3298-48a6-9d63-d716978ce054"
+    },
+    "time": 1730673453005,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/wEJn72lI6N"
+    }
+  }
+]

@@ -14,9 +14,7 @@ ServerEvents.recipes(allthemods => {
         let underscore = inputString.split('_')
         let returnString = ''
         // account for special bee names
-        if (underscore.length == 1 && inputString != 'bee' && inputString != 'creeper_bee') { // && inputString != 'chocolate' && inputString != 'pepto_bismol' && inputString != 'zombie' && inputString != 'basalz' && inputString != 'ruby' && inputString != 'cheese' && inputString != 'sky_ingot' && inputString != 'grave' && inputString != 'spacial' && inputString != 'neutronium' && inputString != 'soul_shard' && inputString != 'prosperity' && inputString != 'blitz' && inputString != 'gregstar' && inputString != 'red_shroom' && inputString != 'aluminum' && inputString != 'blizz' && inputString != 'infinity' && inputString != 'arcance_crystal' && inputString != 'netherite') {
-            returnString = inputString.charAt(0).toUpperCase() + inputString.slice(1) + ' Bee'
-        } else if (inputString == 'bee') {
+        if (inputString == 'bee') {
             returnString = 'Bee'
         } else if (inputString == 'creeper_bee') {
             returnString = 'CreeBee'
@@ -60,6 +58,8 @@ ServerEvents.recipes(allthemods => {
             returnString = 'Arcanus Bee'
         } else if (inputString == 'netherite') {
             returnString = 'Ancient Bee'
+        } else if (underscore.length == 1) {
+            returnString = inputString.charAt(0).toUpperCase() + inputString.slice(1) + ' Bee'
         } else {
             returnString = underscore[0].charAt(0).toUpperCase() + underscore[0].slice(1) + ' ' + underscore[1].charAt(0).toUpperCase() + underscore[1].slice(1) + ' Bee'
         }
@@ -114,7 +114,7 @@ ServerEvents.recipes(allthemods => {
                 }
             })
             if (flower instanceof $FluidStackJS) {
-                recipeBuilder.chancedFluidInput(flower, 0, 0)
+                recipeBuilder.notConsumableFluid(flower)
             } else {
                 recipeBuilder.notConsumable(flower)
             }
@@ -283,7 +283,7 @@ ServerEvents.recipes(allthemods => {
                     } else if (beeType == "salty") {
                         flower = "mekanism:brine" // I think the salty bee should use brine as a flower and not water
                     }
-                    recipeBuilder.chancedFluidInput(Fluid.of(flower, 1000), 0, 0)
+                    recipeBuilder.notConsumableFluid(Fluid.of(flower, 1000))
                     flowerThing = Fluid.of(flower, 1000)
                 } else if (beeData.hasOwnProperty('flowerBlock')) {
                     flower = beeData.flowerBlock
@@ -433,13 +433,13 @@ ServerEvents.recipes(allthemods => {
                 // handle items, should have either item or tag key
                 if (output.item.hasOwnProperty('tag')) {
                     if (chance != 10000) {
-                        combRecipeBuilder.chancedOutput(IngredientHelper.tag(output.item.tag).withCount(count).kjs$asIngredient(), chance, 0)
-                        combBlockRecipeBuilder.chancedOutput(IngredientHelper.tag(output.item.tag).withCount(count * 4).kjs$asIngredient(), chance, 0)
+                        combRecipeBuilder.chancedOutput(IngredientHelper.tag(output.item.tag).withCount(count), chance, 0)
+                        combBlockRecipeBuilder.chancedOutput(IngredientHelper.tag(output.item.tag).withCount(count * 4), chance, 0)
                     } else {
-                        combRecipeBuilder.itemOutputs(IngredientHelper.tag(output.item.tag).withCount(count).kjs$asIngredient())
+                        combRecipeBuilder.itemOutputs(IngredientHelper.tag(output.item.tag).withCount(count))
                         if (output.item.tag != 'forge:wax') {
                             // don't give wax for combBlockRecipes
-                            combBlockRecipeBuilder.itemOutputs(IngredientHelper.tag(output.item.tag).withCount(count * 4).kjs$asIngredient())
+                            combBlockRecipeBuilder.itemOutputs(IngredientHelper.tag(output.item.tag).withCount(count * 4))
                         }
                     }
                 } else if (output.item.hasOwnProperty('item')) {

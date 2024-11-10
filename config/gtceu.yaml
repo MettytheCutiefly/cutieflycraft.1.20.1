@@ -81,6 +81,10 @@ recipes:
   # Default: false
   harderCircuitRecipes: false
 
+  # Whether to nerf machine controller recipes.
+  # Default: false
+  hardMultiRecipes: false
+
   # Whether tools should have enchants or not. Like the flint sword getting fire aspect.
   # Default: true
   enchantedTools: true
@@ -221,7 +225,7 @@ machines:
 
   # Whether to use GT6-style pipe and cable connections, meaning they will not auto-connect unless placed directly onto another pipe or cable.
   # Default: true
-  gt6StylePipesCables: true
+  gt6StylePipesCables: false
 
   # Whether the machine's circuit slot need to be inserted a real circuit.
   ghostCircuit: true
@@ -251,6 +255,14 @@ machines:
   # Default: 50
   ldFluidPipeMinDistance: 50
 
+  # Whether non owners can open a machine gui
+  # Default: false
+  machineOwnerGUI: true
+
+  # Whether non owners can break a machine
+  # Default: false
+  machineOwnerBreak: true
+
   # If High Tier (>UV-tier) GT content should be registered.
   # Items and Machines enabled with this config will have missing recipes by default.
   # This is intended for modpack developers only, and is not playable without custom tweaks or addons.
@@ -260,17 +272,21 @@ machines:
 
   # Whether the Assembly Line should require the item inputs to be in order.
   # Default: true
-  orderedAssemblyLineItems: true
+  orderedAssemblyLineItems: false
 
   # Whether the Assembly Line should require the fluid inputs to be in order.
   # (Requires Ordered Assembly Line Item Inputs to be enabled.)
   # Default: false
   orderedAssemblyLineFluids: false
 
-  # Let Dual Hatch has more ability.
+  # Let Dual Hatch has more ability. (DEPRECATED: does nothing now)
   # When enabled it, Dual Hatch will can used to assemble line and so on.
   # Need restart Minecraft to apply.
   enableMoreDualHatchAbility: false
+
+  # Default maximum parallel of steam multiblocks
+  # Default: 8
+  steamMultiParallelAmount: 8
 
   # Small Steam Boiler Options
   smallBoilers:
@@ -447,7 +463,7 @@ tools:
 gameplay:
   # Enable hazardous materials
   # Default: true
-  hazardsEnabled: true
+  hazardsEnabled: false
 
   # Whether hazards are applied to all valid items, or just GT's.
   # true = all, false = GT only.
@@ -483,7 +499,7 @@ compat:
     # Platform native Energy to GTEU ratio for converting FE to EU.
     # Only affects converters.
     # Default: 4 FE/Energy == 1 EU
-    platformToEuRatio: 4
+    platformToEuRatio: 1
 
     # GTEU to Platform native Energy ratio for converting EU to FE.
     # Affects native conversion and Converters.

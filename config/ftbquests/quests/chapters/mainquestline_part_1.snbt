@@ -666,7 +666,11 @@
 		}
 		{
 			dependencies: ["7D38BC3DB3406F51"]
-			description: ["{atm9.quest.chapter1.desc.furnace}"]
+			description: [
+				"{atm9.quest.chapter1.desc.furnace}"
+				""
+				""
+			]
 			icon: {
 				Count: 1
 				id: "ftbquests:custom_icon"
@@ -895,8 +899,8 @@
 		{
 			dependencies: ["698A959C9E449592"]
 			description: ["{atm9.quest.chapter1.desc.redstone}"]
-			hide: false
 			hide_dependency_lines: false
+			hide_until_deps_visible: false
 			id: "4DE1158931F84F22"
 			rewards: [
 				{
@@ -980,7 +984,7 @@
 				{
 					count: 10L
 					id: "6206DC761D4CDDFE"
-					item: "minecraft:obsidian"
+					item: { Count: 10, id: "minecraft:obsidian" }
 					type: "item"
 				}
 				{
@@ -1523,7 +1527,7 @@
 		{
 			dependencies: ["0F3D51FFD2FE8DCB"]
 			description: ["{atm9.quest.chapter1.desc.end}"]
-			hide: false
+			hide_until_deps_visible: false
 			icon: "minecraft:end_portal_frame"
 			id: "61C49BC2B384FB80"
 			rewards: [{
@@ -1557,7 +1561,7 @@
 		{
 			dependencies: ["61C49BC2B384FB80"]
 			description: ["{atm9.quest.chapter1.desc.ender_dragon}"]
-			hide: false
+			hide_until_deps_visible: false
 			icon: "minecraft:dragon_head"
 			id: "6EE5BE5693E8ACE4"
 			rewards: [
@@ -1817,8 +1821,8 @@
 		{
 			dependencies: ["051E0C85E7B71CE0"]
 			description: ["{atm9.quest.chapter1.desc.archeology}"]
-			hide: false
 			hide_dependency_lines: true
+			hide_until_deps_visible: false
 			id: "3ADCAD65EA6900BA"
 			rewards: [
 				{
@@ -2063,7 +2067,7 @@
 		{
 			dependencies: ["6EDAB29FBD3C60A3"]
 			description: ["{atm9.quest.chapter1.desc.warden}"]
-			hide: false
+			hide_until_deps_visible: false
 			id: "6D09511D64DDC282"
 			rewards: [
 				{
@@ -2132,8 +2136,8 @@
 		{
 			dependencies: ["4A4C71C43519D5FE"]
 			description: ["{atm9.quest.chapter1.desc.wither}"]
-			hide: false
 			hide_dependency_lines: false
+			hide_until_deps_visible: false
 			icon: {
 				Count: 1
 				id: "ftbquests:custom_icon"
@@ -2353,7 +2357,7 @@
 		{
 			dependencies: ["0F3D51FFD2FE8DCB"]
 			description: ["{atm9.quest.chapter1.desc.wither_skeleton}"]
-			hide: false
+			hide_until_deps_visible: false
 			icon: "minecraft:wither_skeleton_skull"
 			id: "4A4C71C43519D5FE"
 			shape: "hexagon"
@@ -2413,11 +2417,7 @@
 		}
 		{
 			dependencies: ["76406EFFF8CBA6B4"]
-			description: [
-				"{atm9.quest.chapter1.desc.twilight}"
-				""
-				"{image:atm:textures/questpics/gettingstarted/twilight_portal.png width:241 height:180 align:1}"
-			]
+			description: ["{atm9.quest.chapter1.desc.twilight}"]
 			id: "23CA641A3D3BE22F"
 			min_width: 300
 			rewards: [{
@@ -2440,16 +2440,7 @@
 			dependencies: ["0F3D51FFD2FE8DCB"]
 			description: [
 				"{atm9.quest.chapter1.desc.ore_sight1}"
-				""
 				"{@pagebreak}"
-				""
-				"{atm9.quest.chapter1.desc.ore_sight2}"
-				""
-				"{image:atm:textures/questpics/gettingstarted/iron_powder.png width:217 height:69 align:1}"
-				""
-				"{atm9.quest.chapter1.desc.ore_sight3}"
-				""
-				"{image:atm:textures/questpics/gettingstarted/iron_potions.png width:217 height:105 align:1}"
 			]
 			icon: {
 				Count: 1
@@ -2772,8 +2763,8 @@
 				"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
 			]
 			disable_toast: true
-			hide: true
 			hide_details_until_startable: true
+			hide_until_deps_visible: true
 			icon: {
 				Count: 1
 				id: "ftbquests:custom_icon"

@@ -49,22 +49,29 @@
 				}
 			}
 			id: "611891F4FB775BD3"
-			rewards: [{
-				id: "1CBDAF4C25DE4840"
-				type: "xp"
-				xp: 10
-			}]
+			rewards: [
+				{
+					id: "46C14608A3DD15AA"
+					item: {
+						Count: 1
+						id: "patchouli:guide_book"
+						tag: {
+							"patchouli:book": "alchemistry:alchemistry_book"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3B09B8AC63A96138"
+					type: "xp"
+					xp: 10
+				}
+			]
 			size: 1.5d
 			subtitle: "{atm9.quest.alchem.subt.basics}"
 			tasks: [{
-				id: "16669E81DC33327A"
-				item: {
-					Count: 1
-					id: "patchouli:guide_book"
-					tag: {
-						"patchouli:book": "alchemistry:alchemistry_book"
-					}
-				}
+				id: "37801C29C0F1525E"
+				item: "minecraft:redstone"
 				type: "item"
 			}]
 			title: "{atm9.quest.alchem.basics}"
@@ -155,6 +162,11 @@
 				"{atm9.quest.alchem.desc.bothreactors}"
 				""
 				"{atm9.quest.alchem.desc.fission}"
+				""
+				""
+				"{image:atm:textures/questpics/alchemistry/fission_controller_1.png width:175 height:135 align:1}"
+				""
+				"{image:atm:textures/questpics/alchemistry/fission_controller_2.png width:175 height:135 align:1}"
 			]
 			icon: "alchemistry:fission_chamber_controller"
 			id: "01448392C2A13D94"
@@ -183,7 +195,7 @@
 				{
 					count: 59L
 					id: "4690256035AA565D"
-					item: "alchemistry:reactor_casing"
+					item: { Count: 59, id: "alchemistry:reactor_casing" }
 					type: "item"
 				}
 				{
@@ -204,7 +216,7 @@
 				{
 					count: 35L
 					id: "0ADC9B709C1E0FE1"
-					item: "alchemistry:reactor_glass"
+					item: { Count: 35, id: "alchemistry:reactor_glass" }
 					type: "item"
 				}
 				{
@@ -215,7 +227,7 @@
 				{
 					count: 3L
 					id: "6BA040CAA6019ACC"
-					item: "alchemistry:fission_core"
+					item: { Count: 3, id: "alchemistry:fission_core" }
 					type: "item"
 				}
 			]
@@ -230,6 +242,10 @@
 				""
 				"{atm9.quest.alchem.desc.fission}"
 				""
+				""
+				"{image:atm:textures/questpics/alchemistry/fusion_controller_1.png width:175 height:135 align:1}"
+				""
+				"{image:atm:textures/questpics/alchemistry/fusion_controller_2.png width:175 height:135 align:1}"
 			]
 			icon: "alchemistry:fusion_chamber_controller"
 			id: "1A988BE2A5158A43"
@@ -258,7 +274,7 @@
 				{
 					count: 59L
 					id: "0F04C9D7BDF30BF7"
-					item: "alchemistry:reactor_casing"
+					item: { Count: 59, id: "alchemistry:reactor_casing" }
 					type: "item"
 				}
 				{
@@ -279,7 +295,7 @@
 				{
 					count: 35L
 					id: "3D746822FB63295B"
-					item: "alchemistry:reactor_glass"
+					item: { Count: 35, id: "alchemistry:reactor_glass" }
 					type: "item"
 				}
 				{
@@ -624,9 +640,9 @@
 			id: "42B681C59981532C"
 			rewards: [{
 				exclude_from_claim_all: true
-				id: "3CC730F489B2CEA8"
+				id: "3C64C9F7838C3EB6"
 				table_id: 6257329497410426516L
-				type: "loot"
+				type: "random"
 			}]
 			subtitle: "{atm9.quest.alchem.subt.oxide}"
 			tasks: [{
@@ -1609,7 +1625,7 @@
 			tasks: [{
 				count: 64L
 				id: "774ED308B068D0B2"
-				item: "chemlib:dysprosium"
+				item: { Count: 64, id: "chemlib:dysprosium" }
 				type: "item"
 			}]
 			x: 15.0d
@@ -1649,7 +1665,7 @@
 			tasks: [{
 				count: 64L
 				id: "5F5177384C91A83A"
-				item: "chemlib:titanium"
+				item: { Count: 64, id: "chemlib:titanium" }
 				type: "item"
 			}]
 			x: 12.0d
@@ -1669,7 +1685,7 @@
 			tasks: [{
 				count: 64L
 				id: "20C233EDB2490C7A"
-				item: "chemlib:mendelevium"
+				item: { Count: 64, id: "chemlib:mendelevium" }
 				type: "item"
 			}]
 			x: 12.0d
@@ -2744,7 +2760,7 @@
 			y: 13.0d
 		}
 		{
-			dependencies: ["1A988BE2A5158A43"]
+			dependencies: ["71815B287D0F162A"]
 			description: ["{atm9.quest.alchem.desc.Og}"]
 			hide_dependency_lines: true
 			id: "376A8F925F139D7F"
@@ -3306,46 +3322,6 @@
 			}]
 			x: 13.0d
 			y: 15.5d
-		}
-		{
-			can_repeat: false
-			description: [
-				"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks."
-				"As all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by the &6AllTheMods Team&r, without explicit permission."
-				""
-				""
-				""
-				"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
-			]
-			disable_toast: true
-			hide: true
-			hide_details_until_startable: true
-			icon: {
-				Count: 1
-				id: "ftbquests:custom_icon"
-				tag: {
-					Icon: "minecraft:item/barrier"
-				}
-			}
-			id: "741CF79592C729C5"
-			invisible: true
-			optional: true
-			shape: "octagon"
-			tasks: [
-				{
-					disable_toast: true
-					id: "1955A724EC26AC9E"
-					title: "Quests By AllTheMods"
-					type: "checkmark"
-				}
-				{
-					id: "26B2473C746FB5AF"
-					title: "Quests By AllTheMods"
-					type: "checkmark"
-				}
-			]
-			x: -1.5d
-			y: 1.5d
 		}
 	]
 	title: "{atm9.chapters.54.title}"

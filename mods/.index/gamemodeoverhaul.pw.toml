@@ -1,0 +1,13 @@
+filename = 'gamemodeoverhaul-forge-2.2.0+1.20.1.jar'
+name = 'GamemodeOverhaul'
+side = 'both'
+
+[download]
+hash = '5559e06bd74f9bfabd0893daaae0394e4ba86730d99543bf0249448e6aeba1f2f8bd7e515dcf798067f3c29e4865f44bd7ca767aa7196c5b6669384a0c2c5b62'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/a6oRhHOA/versions/l6GWajp8/gamemodeoverhaul-forge-2.2.0%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'a6oRhHOA'
+version = 'l6GWajp8'
