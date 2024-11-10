@@ -29,6 +29,30 @@
 			y: 3.4000000000000004d
 		}
 		{
+			height: 7.0d
+			image: "atm:textures/questpics/pneumaticcraft/pressure_chamber.png"
+			rotation: 0.0d
+			width: 12.413333333333334d
+			x: 2.0d
+			y: 7.0d
+		}
+		{
+			height: 8.0d
+			image: "atm:textures/questpics/pneumaticcraft/assembly_line.png"
+			rotation: 0.0d
+			width: 15.21514629948365d
+			x: 27.0d
+			y: 8.0d
+		}
+		{
+			height: 8.0d
+			image: "atm:textures/questpics/pneumaticcraft/pneumatic_set.png"
+			rotation: 0.0d
+			width: 8.806722689075631d
+			x: 19.0d
+			y: 0.0d
+		}
+		{
 			height: 1.0d
 			image: "pneumaticcraft:item/pneumatic_helmet"
 			rotation: 0.0d
@@ -117,6 +141,22 @@
 			width: 1.0d
 			x: 7.0d
 			y: 2.5d
+		}
+		{
+			height: 5.0d
+			image: "atm:textures/questpics/pneumaticcraft/pnc_title.png"
+			rotation: 0.0d
+			width: 20.88888888888889d
+			x: 6.0d
+			y: -7.0d
+		}
+		{
+			height: 4.0d
+			image: "atm:textures/questpics/pneumaticcraft/pnc_logo.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 23.0d
+			y: -4.0d
 		}
 	]
 	order_index: 10
@@ -258,8 +298,8 @@
 			dependencies: ["371A34B297C8A8EF"]
 			dependency_requirement: "one_completed"
 			description: ["{atm9.quest.pneumatic.desc.autoCompressedIron}"]
+			hide: true
 			hide_dependency_lines: false
-			hide_until_deps_visible: true
 			id: "6FD65139CD50A8C0"
 			min_required_dependencies: 1
 			optional: true
@@ -330,7 +370,7 @@
 		{
 			dependencies: ["3E16CF590C911129"]
 			description: ["{atm9.quest.pneumatic.desc.understand}"]
-			hide_until_deps_visible: true
+			hide: true
 			id: "7B2008977702D0C8"
 			rewards: [{
 				id: "75CB05A0CB74D837"
@@ -1132,7 +1172,7 @@
 		{
 			dependencies: ["54169B69725C49DF"]
 			description: ["{atm9.quest.pneumatic.desc.autoPlastic}"]
-			hide_until_deps_visible: true
+			hide: true
 			id: "3F657CF4EBDDC3C4"
 			optional: true
 			rewards: [
@@ -1395,8 +1435,8 @@
 		{
 			dependencies: ["371A34B297C8A8EF"]
 			description: ["{atm9.quest.pneumatic.desc.upgrades}"]
+			hide: true
 			hide_dependency_lines: true
-			hide_until_deps_visible: true
 			icon: "pneumaticcraft:upgrade_matrix"
 			id: "2AED15E3AC0346FE"
 			min_width: 250
@@ -1892,6 +1932,44 @@
 			}]
 			x: 13.5d
 			y: 7.0d
+		}
+		{
+			can_repeat: false
+			description: [
+				"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks."
+				"As all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by the &6AllTheMods Team&r, without explicit permission."
+				""
+				"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
+			]
+			disable_toast: true
+			hide: true
+			hide_details_until_startable: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "minecraft:item/barrier"
+				}
+			}
+			id: "682BCE7AD73B2D45"
+			invisible: true
+			optional: true
+			shape: "octagon"
+			tasks: [
+				{
+					disable_toast: true
+					id: "0CD2482221534ED9"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+				{
+					id: "7AAE25A5D1C4E2FA"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+			]
+			x: 2.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["1427B3AB09510D20"]
@@ -2888,7 +2966,7 @@
 		{
 			dependencies: ["2E8F851A4E98F741"]
 			description: ["{atm9.quest.pneumatic.desc.armor}"]
-			hide_until_deps_visible: true
+			hide: true
 			id: "762B8309E1A31B99"
 			rewards: [{
 				id: "1F50DA45FF043213"
@@ -2911,7 +2989,7 @@
 				"{atm9.quest.pneumatic.desc.blockTracker}\\n"
 				"{image:atm:textures/questpics/pneumaticcraft/block_tracker.png width:150 height:150 align:center}"
 			]
-			hide_until_deps_visible: true
+			hide: true
 			id: "002163B909070CF8"
 			rewards: [{
 				id: "3E2940849E104602"
@@ -2931,7 +3009,7 @@
 		{
 			dependencies: ["2E8F851A4E98F741"]
 			description: ["{atm9.quest.pneumatic.desc.chargingU}"]
-			hide_until_deps_visible: true
+			hide: true
 			id: "15007DCAF701B361"
 			rewards: [{
 				id: "4184F7AA1CFDA194"
@@ -2951,7 +3029,7 @@
 		{
 			dependencies: ["2E8F851A4E98F741"]
 			description: ["{atm9.quest.pneumatic.desc.CoordinateTracker}"]
-			hide_until_deps_visible: true
+			hide: true
 			id: "0D9560C8E247F9E7"
 			rewards: [{
 				id: "63B943916BC1038D"
@@ -2971,7 +3049,7 @@
 		{
 			dependencies: ["2E8F851A4E98F741"]
 			description: ["{atm9.quest.pneumatic.desc.elytra}"]
-			hide_until_deps_visible: true
+			hide: true
 			id: "5103C817381181DE"
 			rewards: [{
 				id: "78E81C79E8102C79"
@@ -2991,7 +3069,7 @@
 		{
 			dependencies: ["2E8F851A4E98F741"]
 			description: ["{atm9.quest.pneumatic.desc.visor}"]
-			hide_until_deps_visible: true
+			hide: true
 			id: "46BE62C20C720D10"
 			rewards: [{
 				id: "683702485F8C3DF5"
@@ -3011,7 +3089,7 @@
 		{
 			dependencies: ["2E8F851A4E98F741"]
 			description: ["{atm9.quest.pneumatic.desc.entityTracker}"]
-			hide_until_deps_visible: true
+			hide: true
 			id: "00D7BCC68D971A53"
 			rewards: [{
 				id: "1D6F067C86456070"
@@ -3031,7 +3109,7 @@
 		{
 			dependencies: ["2E8F851A4E98F741"]
 			description: ["{atm9.quest.pneumatic.desc.flippers}"]
-			hide_until_deps_visible: true
+			hide: true
 			id: "7BFC24607189B6D0"
 			rewards: [{
 				id: "19D8C47FAA715BED"
@@ -3051,7 +3129,7 @@
 		{
 			dependencies: ["2E8F851A4E98F741"]
 			description: ["{atm9.quest.pneumatic.desc.gilded}"]
-			hide_until_deps_visible: true
+			hide: true
 			id: "5D71ED16FD4E725A"
 			rewards: [{
 				id: "20E24F58991736B9"
@@ -3071,7 +3149,7 @@
 		{
 			dependencies: ["2E8F851A4E98F741"]
 			description: ["{atm9.quest.pneumatic.desc.jetBootsI}"]
-			hide_until_deps_visible: true
+			hide: true
 			id: "7953C87C488A2AF7"
 			rewards: [{
 				id: "4F65FCD4DFE82F0C"
@@ -3167,7 +3245,7 @@
 		{
 			dependencies: ["2E8F851A4E98F741"]
 			description: ["{atm9.quest.pneumatic.desc.jumpingI}"]
-			hide_until_deps_visible: true
+			hide: true
 			id: "6674270897997BF7"
 			rewards: [{
 				id: "2C60D8B870084CE8"
@@ -3244,7 +3322,7 @@
 		{
 			dependencies: ["2E8F851A4E98F741"]
 			description: ["{atm9.quest.pneumatic.desc.vision}"]
-			hide_until_deps_visible: true
+			hide: true
 			id: "718DABA6C9E5982A"
 			rewards: [{
 				id: "39DC46812FF22559"
@@ -3264,7 +3342,7 @@
 		{
 			dependencies: ["2E8F851A4E98F741"]
 			description: ["{atm9.quest.pneumatic.desc.radiation}"]
-			hide_until_deps_visible: true
+			hide: true
 			id: "2DE7CC686B56881F"
 			rewards: [{
 				id: "13A94C21CBAB3800"
@@ -3284,7 +3362,7 @@
 		{
 			dependencies: ["2E8F851A4E98F741"]
 			description: ["{atm9.quest.pneumatic.desc.scuba}"]
-			hide_until_deps_visible: true
+			hide: true
 			id: "4B4F5341D6DBDD19"
 			rewards: [{
 				id: "065A28BBF33279B1"
@@ -3307,7 +3385,7 @@
 				"{atm9.quest.pneumatic.desc.itemSearch}\\n"
 				"{image:atm:textures/questpics/pneumaticcraft/item_search_upgrade.png width:200 height:200 align:center}"
 			]
-			hide_until_deps_visible: true
+			hide: true
 			id: "7386A8433698946C"
 			rewards: [{
 				id: "43E18EE34C2DFE89"
@@ -3327,7 +3405,7 @@
 		{
 			dependencies: ["2E8F851A4E98F741"]
 			description: ["{atm9.quest.pneumatic.desc.stomp}"]
-			hide_until_deps_visible: true
+			hide: true
 			id: "0F49E9167B5E97C9"
 			rewards: [{
 				id: "0B2FD870C2FB9E0D"
@@ -3777,7 +3855,7 @@
 		{
 			dependencies: ["2E8F851A4E98F741"]
 			description: ["{atm9.quest.pneumatic.desc.magnet}"]
-			hide_until_deps_visible: true
+			hide: true
 			id: "61AD2207E770CD7F"
 			rewards: [{
 				id: "477F33B522B44F3D"
@@ -3824,5 +3902,5 @@
 			y: 3.0d
 		}
 	]
-	title: "{atm9.chapters.62.title}"
+	title: "{atm9.chapters.67.title}"
 }
