@@ -390,8 +390,6 @@
 				"{atm9.quest.powah.desc.energizingOrb.2}"
 				""
 				"{atm9.quest.powah.desc.energizingOrb.3}"
-				""
-				"{image:atm:textures/questpics/powah/powah_energizing.png width:200 height:200 align:1}"
 			]
 			hide_dependency_lines: false
 			icon: "powah:energizing_orb"

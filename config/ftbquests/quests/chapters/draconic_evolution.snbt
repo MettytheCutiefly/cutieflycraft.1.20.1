@@ -590,7 +590,7 @@
 			tasks: [{
 				count: 5L
 				id: "0D221A5709E45811"
-				item: { Count: 5, id: "draconicevolution:chaos_shard" }
+				item: "draconicevolution:chaos_shard"
 				type: "item"
 			}]
 			title: "{atm9.quest.draconic.shard}"
@@ -621,10 +621,7 @@
 		}
 		{
 			dependencies: ["45EE60207C466D6C"]
-			description: [
-				"{atm9.quest.draconic.desc.destroy}"
-				"{image:atm:textures/questpics/draconic/draconic_end_crystal.png width:150 height:100 align:1}"
-			]
+			description: ["{atm9.quest.draconic.desc.destroy}"]
 			icon: {
 				Count: 1
 				id: "draconicevolution:mob_soul"
@@ -1887,6 +1884,7 @@
 					}
 				}
 				id: "draconicevolution:wyvern_capacitor"
+				tag: { }
 			}
 			id: "26DF1427AC3966DE"
 			rewards: [{
@@ -1900,7 +1898,7 @@
 			tasks: [{
 				count: 6L
 				id: "76BCC3C288514737"
-				item: { Count: 6, id: "draconicevolution:draconium_dust" }
+				item: "draconicevolution:draconium_dust"
 				type: "item"
 			}]
 			title: "{atm9.quest.draconic.endstone}"
@@ -2604,7 +2602,7 @@
 			tasks: [{
 				count: 9L
 				id: "48C475EE944E4AC6"
-				item: { Count: 9, id: "draconicevolution:energy_core_stabilizer" }
+				item: "draconicevolution:energy_core_stabilizer"
 				type: "item"
 			}]
 			title: "{atm9.quest.draconic.more_stabilizers}"
@@ -2634,7 +2632,7 @@
 			tasks: [{
 				count: 8L
 				id: "1185E056FCB6918C"
-				item: { Count: 8, id: "draconicevolution:energy_pylon" }
+				item: "draconicevolution:energy_pylon"
 				type: "item"
 			}]
 			title: "{atm9.quest.draconic.more_pylons}"
@@ -2667,11 +2665,7 @@
 				"6616A62426ED4D15"
 				"69986817D58AC8BE"
 			]
-			description: [
-				"{atm9.quest.draconic.desc.RCore}"
-				"{image:atm:textures/questpics/draconic/draconic_reactor_off_down.png width:200 height:100 align:1}"
-				"{image:atm:textures/questpics/draconic/draconic_reactor_off_up.png width:150 height:150 align:1}"
-			]
+			description: ["{atm9.quest.draconic.desc.RCore}"]
 			icon_scale: 2.0d
 			id: "5BC6CC3C09F512A7"
 			min_width: 300
@@ -2708,7 +2702,7 @@
 			tasks: [{
 				count: 4L
 				id: "2184F68F4DDA4834"
-				item: { Count: 4, id: "draconicevolution:reactor_stabilizer" }
+				item: "draconicevolution:reactor_stabilizer"
 				type: "item"
 			}]
 			title: "{atm9.quest.draconic.RStabilizer}"
@@ -2750,7 +2744,7 @@
 			tasks: [{
 				count: 8L
 				id: "47941C447E669A0E"
-				item: { Count: 8, id: "draconicevolution:awakened_draconium_block" }
+				item: "draconicevolution:awakened_draconium_block"
 				type: "item"
 			}]
 			title: "{atm9.quest.draconic.fuel}"

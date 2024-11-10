@@ -526,6 +526,7 @@
 				"3EC90ADA4E322B14"
 				"0EFD0A4AE82153E8"
 			]
+			description: ["{atm9.quest.naturesaura.desc.offering.1}"]
 			icon: "naturesaura:offering_table"
 			id: "5C990F7E5D345A6F"
 			rewards: [

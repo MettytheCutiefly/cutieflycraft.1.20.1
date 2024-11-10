@@ -862,11 +862,7 @@
 		}
 		{
 			dependencies: ["36DEA17CBB696CC7"]
-			description: [
-				"{atm9.quest.power.desc.UI}"
-				""
-				"{image:atm:textures/questpics/flux/flux_ui.png width:125 height:150 align:1}"
-			]
+			description: ["{atm9.quest.power.desc.UI}"]
 			icon: "fluxnetworks:admin_configurator"
 			id: "2EB7784D5296F410"
 			min_width: 350
@@ -888,11 +884,7 @@
 		}
 		{
 			dependencies: ["36DEA17CBB696CC7"]
-			description: [
-				"{atm9.quest.power.desc.controller}"
-				""
-				"{image:atm:textures/questpics/flux/wireless_ui.png width:125 height:150 align:1}"
-			]
+			description: ["{atm9.quest.power.desc.controller}"]
 			id: "27A4FA38992448A0"
 			min_width: 300
 			rewards: [

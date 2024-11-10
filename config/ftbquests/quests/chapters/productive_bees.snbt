@@ -4130,7 +4130,6 @@
 				"{atm9.quest.productiveBees.desc.bottlerUses.3}"
 				""
 				"{atm9.quest.productiveBees.desc.bottlerUses.4}"
-				"{image:atm:textures/questpics/bees/bottler.png width:100 height:150 align:1}"
 			]
 			hide_dependency_lines: true
 			id: "6F978C4D561F35EC"

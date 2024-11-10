@@ -984,7 +984,7 @@
 				{
 					count: 10L
 					id: "6206DC761D4CDDFE"
-					item: { Count: 10, id: "minecraft:obsidian" }
+					item: "minecraft:obsidian"
 					type: "item"
 				}
 				{

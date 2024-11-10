@@ -242,7 +242,7 @@
 		}
 		{
 			dependencies: ["34CFE1439262AA72"]
-			description: [""]
+			description: ["{atm9.quest.basic_logistics.desc.mechanicalpipes.1}"]
 			id: "1834B5C1F8435D7A"
 			rewards: [{
 				count: 16
