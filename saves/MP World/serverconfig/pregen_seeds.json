@@ -1,0 +1,262 @@
+{
+	"level_seeds": [
+		{
+			"dim": "deeperdarker:otherside",
+			"seed": 3500983
+		},
+		{
+			"dim": "sgjourney:chulak",
+			"seed": 3500983
+		},
+		{
+			"dim": "ad_astra:mars_orbit",
+			"seed": 3500983
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": 3500983
+		},
+		{
+			"dim": "ad_astra:venus_orbit",
+			"seed": 3500983
+		},
+		{
+			"dim": "undergarden:undergarden",
+			"seed": 3500983
+		},
+		{
+			"dim": "ad_astra:mercury",
+			"seed": 3500983
+		},
+		{
+			"dim": "ad_astra:venus",
+			"seed": 3500983
+		},
+		{
+			"dim": "lostcities:lostcity",
+			"seed": 3500983
+		},
+		{
+			"dim": "sgjourney:abydos",
+			"seed": 3500983
+		},
+		{
+			"dim": "sgjourney:lantea",
+			"seed": 3500983
+		},
+		{
+			"dim": "ad_astra:mars",
+			"seed": 3500983
+		},
+		{
+			"dim": "blue_skies:everdawn",
+			"seed": 3500983
+		},
+		{
+			"dim": "blue_skies:everbright",
+			"seed": 3500983
+		},
+		{
+			"dim": "mythicbotany:alfheim",
+			"seed": 3500983
+		},
+		{
+			"dim": "ad_astra:glacio",
+			"seed": 3500983
+		},
+		{
+			"dim": "twilightforest:twilight_forest",
+			"seed": 3500983
+		},
+		{
+			"dim": "minecraft:the_end",
+			"seed": 3500983
+		},
+		{
+			"dim": "ad_astra:moon_orbit",
+			"seed": 3500983
+		},
+		{
+			"dim": "aether:the_aether",
+			"seed": 3500983
+		},
+		{
+			"dim": "mahoutsukai:reality_marble",
+			"seed": 3500983
+		},
+		{
+			"dim": "ad_astra:earth_orbit",
+			"seed": 3500983
+		},
+		{
+			"dim": "allthemodium:mining",
+			"seed": 3500983
+		},
+		{
+			"dim": "bloodmagic:dungeon",
+			"seed": 3500983
+		},
+		{
+			"dim": "sgjourney:cavum_tenebrae",
+			"seed": 3500983
+		},
+		{
+			"dim": "voidscape:void",
+			"seed": 3500983
+		},
+		{
+			"dim": "ad_astra:glacio_orbit",
+			"seed": 3500983
+		},
+		{
+			"dim": "allthemodium:the_other",
+			"seed": 3500983
+		},
+		{
+			"dim": "minecraft:overworld",
+			"seed": 3500983
+		},
+		{
+			"dim": "ad_astra:moon",
+			"seed": 3500983
+		},
+		{
+			"dim": "ad_astra:mercury_orbit",
+			"seed": 3500983
+		},
+		{
+			"dim": "allthemodium:the_beyond",
+			"seed": 3500983
+		}
+	],
+	"structure_seeds": [
+		{
+			"dim": "deeperdarker:otherside",
+			"seed": 3500983
+		},
+		{
+			"dim": "sgjourney:chulak",
+			"seed": 3500983
+		},
+		{
+			"dim": "ad_astra:mars_orbit",
+			"seed": 3500983
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": 3500983
+		},
+		{
+			"dim": "ad_astra:venus_orbit",
+			"seed": 3500983
+		},
+		{
+			"dim": "undergarden:undergarden",
+			"seed": 3500983
+		},
+		{
+			"dim": "ad_astra:mercury",
+			"seed": 3500983
+		},
+		{
+			"dim": "ad_astra:venus",
+			"seed": 3500983
+		},
+		{
+			"dim": "lostcities:lostcity",
+			"seed": 3500983
+		},
+		{
+			"dim": "sgjourney:abydos",
+			"seed": 3500983
+		},
+		{
+			"dim": "sgjourney:lantea",
+			"seed": 3500983
+		},
+		{
+			"dim": "ad_astra:mars",
+			"seed": 3500983
+		},
+		{
+			"dim": "blue_skies:everdawn",
+			"seed": 3500983
+		},
+		{
+			"dim": "blue_skies:everbright",
+			"seed": 3500983
+		},
+		{
+			"dim": "mythicbotany:alfheim",
+			"seed": 3500983
+		},
+		{
+			"dim": "ad_astra:glacio",
+			"seed": 3500983
+		},
+		{
+			"dim": "twilightforest:twilight_forest",
+			"seed": 3500983
+		},
+		{
+			"dim": "minecraft:the_end",
+			"seed": 3500983
+		},
+		{
+			"dim": "ad_astra:moon_orbit",
+			"seed": 3500983
+		},
+		{
+			"dim": "aether:the_aether",
+			"seed": 3500983
+		},
+		{
+			"dim": "mahoutsukai:reality_marble",
+			"seed": 3500983
+		},
+		{
+			"dim": "ad_astra:earth_orbit",
+			"seed": 3500983
+		},
+		{
+			"dim": "allthemodium:mining",
+			"seed": 3500983
+		},
+		{
+			"dim": "bloodmagic:dungeon",
+			"seed": 3500983
+		},
+		{
+			"dim": "sgjourney:cavum_tenebrae",
+			"seed": 3500983
+		},
+		{
+			"dim": "voidscape:void",
+			"seed": 3500983
+		},
+		{
+			"dim": "ad_astra:glacio_orbit",
+			"seed": 3500983
+		},
+		{
+			"dim": "allthemodium:the_other",
+			"seed": 3500983
+		},
+		{
+			"dim": "minecraft:overworld",
+			"seed": 3500983
+		},
+		{
+			"dim": "ad_astra:moon",
+			"seed": 3500983
+		},
+		{
+			"dim": "ad_astra:mercury_orbit",
+			"seed": 3500983
+		},
+		{
+			"dim": "allthemodium:the_beyond",
+			"seed": 3500983
+		}
+	]
+}
