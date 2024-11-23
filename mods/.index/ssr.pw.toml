@@ -1,0 +1,16 @@
+filename = 'sparsestructuresreforged-1.20.1-1.0.0.jar'
+name = 'Sparse Structures Reforged'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6ab89bc3ddcb6056b341ca89138d8753d5416d14'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5014001
+project-id = 912104

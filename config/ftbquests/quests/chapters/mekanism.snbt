@@ -2776,8 +2776,6 @@
 				"{atm9.quest.mekanism.desc.factoryLayout.2}"
 				""
 				"{atm9.quest.mekanism.desc.factoryLayout.3}"
-				""
-				"{image:atm:textures/questpics/mek/mekanism_flowchart.png width:300 height:150 align:1 fit:true}"
 			]
 			id: "3C49F2EEDCCAF1DF"
 			min_width: 300

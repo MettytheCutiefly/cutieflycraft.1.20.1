@@ -320,7 +320,7 @@
 			tasks: [{
 				count: 16L
 				id: "78082DDA22FC7B9B"
-				item: "pneumaticcraft:pressure_tube"
+				item: { Count: 16, id: "pneumaticcraft:pressure_tube" }
 				type: "item"
 			}]
 			title: "{atm9.quest.pneumatic.moving}"
@@ -385,7 +385,7 @@
 				{
 					count: 2L
 					id: "22F4EC53E46518B1"
-					item: "pneumaticcraft:pressure_chamber_interface"
+					item: { Count: 2, id: "pneumaticcraft:pressure_chamber_interface" }
 					type: "item"
 				}
 			]
@@ -414,7 +414,7 @@
 			tasks: [{
 				count: 2L
 				id: "6914FD46650A6B01"
-				item: "pneumaticcraft:security_upgrade"
+				item: { Count: 2, id: "pneumaticcraft:security_upgrade" }
 				type: "item"
 			}]
 			title: "{atm9.quest.pneumatic.explosions}"
@@ -762,7 +762,7 @@
 				{
 					count: 32L
 					id: "4DFB6DCDCBFF7A2C"
-					item: "pneumaticcraft:drill_pipe"
+					item: { Count: 64, id: "pneumaticcraft:drill_pipe" }
 					type: "item"
 				}
 				{
@@ -814,13 +814,13 @@
 				{
 					count: 4L
 					id: "35E1DCDF9712B702"
-					item: "pneumaticcraft:refinery_output"
+					item: { Count: 4, id: "pneumaticcraft:refinery_output" }
 					type: "item"
 				}
 				{
 					count: 19L
 					id: "77B3A5EDBE2053B2"
-					item: "pneumaticcraft:thermal_lagging"
+					item: { Count: 19, id: "pneumaticcraft:thermal_lagging" }
 					type: "item"
 				}
 			]
@@ -1410,7 +1410,7 @@
 			tasks: [{
 				count: 4L
 				id: "1DF996B4E387DB41"
-				item: "minecraft:lapis_lazuli"
+				item: { Count: 4, id: "minecraft:lapis_lazuli" }
 				type: "item"
 			}]
 			title: "{atm9.quest.pneumatic.upgrades}"
@@ -1529,7 +1529,7 @@
 			tasks: [{
 				count: 2L
 				id: "6F954349AC36A8EE"
-				item: "pneumaticcraft:capacitor"
+				item: { Count: 2, id: "pneumaticcraft:capacitor" }
 				type: "item"
 			}]
 			title: "{atm9.quest.pneumatic.capacitors}"

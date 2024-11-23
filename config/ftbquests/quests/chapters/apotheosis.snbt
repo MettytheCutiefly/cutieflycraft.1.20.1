@@ -369,13 +369,13 @@
 				{
 					count: 9L
 					id: "5FE3BF20BB4ABFFB"
-					item: "apotheosis:crystal_seashelf"
+					item: { Count: 9, id: "apotheosis:crystal_seashelf" }
 					type: "item"
 				}
 				{
 					count: 2L
 					id: "398CE6B12CC89712"
-					item: "apotheosis:heart_seashelf"
+					item: { Count: 2, id: "apotheosis:heart_seashelf" }
 					type: "item"
 				}
 			]
@@ -664,7 +664,7 @@
 			tasks: [{
 				count: 3L
 				id: "1ACDB5822E2F5713"
-				item: "minecraft:lapis_lazuli"
+				item: { Count: 3, id: "minecraft:lapis_lazuli" }
 				type: "item"
 			}]
 			title: "{atm9.quest.enchant.other}"

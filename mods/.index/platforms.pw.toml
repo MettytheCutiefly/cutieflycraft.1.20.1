@@ -1,0 +1,16 @@
+filename = 'platforms-forge-1.20.1-1.1.jar'
+name = 'Platforms'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '70cb43046454ae2d5fae8b9a67d5fad3e06ff83b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4859170
+project-id = 244786

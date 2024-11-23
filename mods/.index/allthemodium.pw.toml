@@ -1,0 +1,16 @@
+filename = 'allthemodium-1.20.1-47.1.25-2.5.1.jar'
+name = 'Allthemodium'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4dfa6d458b5065162cb947699a5e2506f942c26c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5439699
+project-id = 364466

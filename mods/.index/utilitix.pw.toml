@@ -1,0 +1,16 @@
+filename = 'UtilitiX-1.20.1-0.8.23.jar'
+name = 'UtilitiX'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = '6a3aa9104cc5a8d002849eb50ed05070b4dd0761'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5700545
+project-id = 463703

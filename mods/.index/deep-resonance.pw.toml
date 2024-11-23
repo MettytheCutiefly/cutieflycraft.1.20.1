@@ -1,0 +1,16 @@
+filename = 'deepresonance-1.20-5.0.4.jar'
+name = 'Deep Resonance'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'deb4fb1e1fed770e07ec581841617e8a381518b7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5283913
+project-id = 233398

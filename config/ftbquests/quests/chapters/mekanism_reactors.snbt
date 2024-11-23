@@ -282,8 +282,6 @@
 				"{atm9.quest.mekanismReactors.desc.fissionReactorPorts.6}"
 				""
 				"{atm9.quest.mekanismReactors.desc.fissionReactorPorts.7}"
-				""
-				"{image:atm:textures/questpics/mek/port_example.png width:200 height:200 align:1}"
 			]
 			id: "0696B725E840B996"
 			min_width: 400
@@ -321,8 +319,6 @@
 				"{atm9.quest.mekanismReactors.desc.reactorSafety.3}"
 				""
 				"{atm9.quest.mekanismReactors.desc.reactorSafety.4}"
-				""
-				"{image:atm:textures/questpics/mek/logic_adapter.png width:150 height:125 align:1}"
 			]
 			id: "5FDB48511EC1C580"
 			min_width: 300
@@ -349,8 +345,6 @@
 				"{atm9.quest.mekanismReactors.desc.reactorAssembly.1}"
 				""
 				"{atm9.quest.mekanismReactors.desc.reactorAssembly.2}"
-				""
-				"{image:atm:textures/questpics/mek/rod_example.png width:250 height:200 align:1}"
 			]
 			id: "3F5010269469EBE0"
 			min_width: 250
@@ -399,8 +393,6 @@
 				"{atm9.quest.mekanismReactors.desc.circuitBreaker.5}"
 				""
 				"{atm9.quest.mekanismReactors.desc.circuitBreaker.6}"
-				""
-				"{image:atm:textures/questpics/mek/example_circuit.png width:200 height:250 align:1}"
 			]
 			icon: "minecraft:observer"
 			id: "7B0764DDE94E73D0"
@@ -1026,13 +1018,10 @@
 				"{atm9.quest.mekanismReactors.desc.fusionReactor.2}"
 				""
 				"{atm9.quest.mekanismReactors.desc.fusionReactor.3}"
-				"{image:atm:textures/questpics/mek/fusion_pattern.png width:175 height:175 align:1}"
 				""
 				"{atm9.quest.mekanismReactors.desc.fusionReactor.4}"
 				""
 				"{atm9.quest.mekanismReactors.desc.fusionReactor.5}"
-				""
-				"{image:atm:textures/questpics/mek/completed_fusion_reactor.png width:175 height:150 align:1}"
 			]
 			id: "0152C49AB74B9D32"
 			min_width: 500
@@ -1127,13 +1116,10 @@
 				""
 				"{atm9.quest.mekanismReactors.desc.buildSPS.2}"
 				""
-				"{image:atm:textures/questpics/mek/basic_sps_shape.png width:250 height:225 align:1}"
 				""
 				"{atm9.quest.mekanismReactors.desc.buildSPS.3}"
 				""
 				"{atm9.quest.mekanismReactors.desc.buildSPS.4}"
-				""
-				"{image:atm:textures/questpics/mek/sps_complete.png width:300 height:250 align:1}"
 			]
 			id: "2B3F2F470E06BC40"
 			min_width: 350
@@ -1204,8 +1190,6 @@
 				"{atm9.quest.mekanismReactors.desc.laserFocusArray.4}"
 				""
 				"{atm9.quest.mekanismReactors.desc.laserFocusArray.5}"
-				""
-				"{image:atm:textures/questpics/mek/laser_example.png width:200 height:150 align:1} "
 			]
 			id: "320CC038A64A3195"
 			min_width: 400
@@ -1412,9 +1396,6 @@
 				"{atm9.quest.mekanismReactors.desc.fusionReactorPrep.4}"
 				""
 				"{atm9.quest.mekanismReactors.desc.fusionReactorPrep.5}"
-				""
-				""
-				"{image:atm:textures/questpics/mek/fusion_activated.png width:225 height:150 align:1}"
 			]
 			icon: "mekanismgenerators:fusion_reactor_controller"
 			id: "54D8B9CB3F98040F"
@@ -1468,8 +1449,6 @@
 				"{atm9.quest.mekanismReactors.desc.fusionReactorIntro.3}"
 				""
 				"{atm9.quest.mekanismReactors.desc.fusionReactorIntro.4}"
-				""
-				"{image:atm:textures/questpics/mek/fusion_fuelui1.png width:175 height:150 align:1}"
 			]
 			id: "26D306418545A2D6"
 			min_width: 300
@@ -1834,7 +1813,6 @@
 				""
 				"{atm9.quest.mekanismReactors.desc.inductionMatrixDetails.4}"
 				""
-				"{image:atm:textures/questpics/mek/induction_inside.png width:300 height:200 align:1}"
 			]
 			hide_until_deps_visible: false
 			id: "14D772808D1BEAE2"

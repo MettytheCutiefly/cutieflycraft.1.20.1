@@ -2071,6 +2071,13 @@
 			]
 			icon: {
 				Count: 1
+				ForgeCaps: {
+					Parent: {
+						Amount: 10000
+						FluidName: "evilcraft:blood"
+						capacity: 10000
+					}
+				}
 				id: "evilcraft:broom"
 				tag: {
 					Fluid: {

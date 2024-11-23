@@ -310,7 +310,7 @@
 	["Netherite Mob Farms"."Netherite Animal Plains Farms"]
 		#Defines after how many seconds a loot drop is performed.
 		#Range: 10 ~ 3600
-		netheriteAnimalPlainsFarmProcessTime = 75
+		netheriteAnimalPlainsFarmProcessTime = 10
 		#Defines the sound which is played when a loot drop is performed.
 		netheriteAnimalPlainsFarmDropSound = "minecraft:entity.chicken.egg"
 		#Supported Mobs for the animal plains farm. (Use empty list to allow all mobs.)
@@ -321,7 +321,7 @@
 	["Netherite Mob Farms"."Netherite Bee Hive Farms"]
 		#Defines after how many seconds a loot drop is performed.
 		#Range: 10 ~ 3600
-		netheriteBeeHiveFarmProcessTime = 75
+		netheriteBeeHiveFarmProcessTime = 10
 		#Defines the sound which is played when a loot drop is performed.
 		netheriteBeeHiveFarmDropSound = "minecraft:block.beehive.exit"
 		#Supported Mobs for the bee hive farm. (Use empty list to allow all mobs.)
@@ -332,7 +332,7 @@
 	["Netherite Mob Farms"."Netherite Desert Farms"]
 		#Defines after how many seconds a loot drop is performed.
 		#Range: 10 ~ 3600
-		netheriteDesertFarmProcessTime = 75
+		netheriteDesertFarmProcessTime = 10
 		#Defines the sound which is played when a loot drop is performed.
 		netheriteDesertFarmDropSound = "minecraft:block.sand.hit"
 		#Supported Mobs for the desert farm. (Use empty list to allow all mobs.)
@@ -354,7 +354,7 @@
 	["Netherite Mob Farms"."Netherite Monster Plains Cave Farms"]
 		#Defines after how many seconds a loot drop is performed.
 		#Range: 10 ~ 3600
-		netheriteMonsterPlainsCaveFarmProcessTime = 75
+		netheriteMonsterPlainsCaveFarmProcessTime = 10
 		#Defines the sound which is played when a loot drop is performed.
 		netheriteMonsterPlainsCaveFarmDropSound = "minecraft:block.netherrack.fall"
 		#Supported Mobs for the plains cave farm. (Use empty list to allow all mobs.)
@@ -365,7 +365,7 @@
 	["Netherite Mob Farms"."Netherite Nether Fortress Farm"]
 		#Defines after how many seconds a loot drop is performed.
 		#Range: 10 ~ 3600
-		netheriteNetherFortressFarmProcessTime = 75
+		netheriteNetherFortressFarmProcessTime = 10
 		#Defines the sound which is played when a loot drop is performed.
 		netheriteNetherFortressFarmDropSound = "minecraft:block.nether_wart.break"
 		#Supported Mobs for the nether farm. (Use empty list to allow all mobs.)
@@ -376,7 +376,7 @@
 	["Netherite Mob Farms"."Netherite Ocean Farm"]
 		#Defines after how many seconds a loot drop is performed.
 		#Range: 10 ~ 3600
-		netheriteOceanFarmProcessTime = 75
+		netheriteOceanFarmProcessTime = 10
 		#Defines the sound which is played when a loot drop is performed.
 		netheriteOceanFarmDropSound = "minecraft:block.bubble_column.bubble_pop"
 		#Supported Mobs for the ocean farm. (Use empty list to allow all mobs.)

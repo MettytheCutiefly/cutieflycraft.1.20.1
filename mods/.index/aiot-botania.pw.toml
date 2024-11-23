@@ -1,0 +1,16 @@
+filename = 'aiotbotania-1.20.1-4.0.5.jar'
+name = 'AIOT Botania'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'fb119b0089af03e8989710c2f120c8189268c6aa'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5185199
+project-id = 294815

@@ -1,0 +1,16 @@
+filename = 'Stargate Journey-1.20.1-0.6.33.jar'
+name = 'Stargate Journey'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'e4df66dc3463769645d713927d0898f6d0b1b1ad'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5845042
+project-id = 689083

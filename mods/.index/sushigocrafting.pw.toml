@@ -1,0 +1,16 @@
+filename = 'sushigocrafting-1.20.1-0.5.3.jar'
+name = 'Sushi Go Crafting'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'abd15442389827d9196c2dc703a62cbe0a2f1090'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5638169
+project-id = 452500

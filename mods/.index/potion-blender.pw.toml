@@ -1,0 +1,16 @@
+filename = 'Potion-Blender-1.20.1-FORGE-3.1.1.1.jar'
+name = 'Potion Blender'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '497cd38b7ffb6dc50c2d5f2c73aa27627b9cb41e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5851806
+project-id = 697859

@@ -1,0 +1,28 @@
+filename = 'totw_modded-forge-1.20.1-1.0.5.jar'
+name = 'Towers of the Wild Modded'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [
+    '1.20',
+    '1.20-Snapshot',
+    '1.20.1',
+    '1.20.2',
+    '1.20.2-Snapshot',
+    '1.20.3',
+    '1.20.3-Snapshot',
+    '1.20.4',
+    '1.20.5',
+    '1.20.5-Snapshot',
+    '1.20.6'
+]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7222f155bb8f0acca583c3c7228eff92fc81f495'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5239660
+project-id = 859365

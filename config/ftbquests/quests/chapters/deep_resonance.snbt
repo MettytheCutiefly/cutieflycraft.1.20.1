@@ -260,7 +260,7 @@
 			tasks: [{
 				count: 2L
 				id: "7436A5E1167125C8"
-				item: "deepresonance:tank"
+				item: { Count: 2, id: "deepresonance:tank" }
 				type: "item"
 			}]
 			title: "{atm9.quest.deep.liquid}"

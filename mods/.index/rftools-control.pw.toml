@@ -1,0 +1,16 @@
+filename = 'rftoolscontrol-1.20-7.0.3.jar'
+name = 'RFTools Control'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '69c4cc728950225154c03af8814347a90d660ab3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5846562
+project-id = 250763
