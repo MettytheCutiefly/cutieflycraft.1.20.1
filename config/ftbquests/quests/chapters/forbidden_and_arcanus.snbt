@@ -20,7 +20,7 @@
 		x: 9.5d
 		y: 2.25d
 	}]
-	order_index: 9
+	order_index: 7
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
@@ -1002,6 +1002,8 @@
 				""
 				"{atm9.quest.forbiddenAndArcanus.desc.hephaestusForgeFeatures.2}"
 				""
+				"{image:atm:textures/questpics/forbidden/forge.png width:200 height:200 align:1}"
+				""
 				"{atm9.quest.forbiddenAndArcanus.desc.hephaestusForgeFeatures.3}"
 				""
 				"{atm9.quest.forbiddenAndArcanus.desc.hephaestusForgeFeatures.4}"
@@ -1580,6 +1582,46 @@
 			}]
 			x: 8.0d
 			y: 3.0d
+		}
+		{
+			can_repeat: false
+			description: [
+				"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks."
+				"As all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by the &6AllTheMods Team&r, without explicit permission."
+				""
+				""
+				""
+				"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
+			]
+			disable_toast: true
+			hide_details_until_startable: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "minecraft:item/barrier"
+				}
+			}
+			id: "44A78A8D55B84840"
+			invisible: true
+			optional: true
+			shape: "octagon"
+			tasks: [
+				{
+					disable_toast: true
+					id: "5E5BFDD637C07C75"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+				{
+					id: "53D83F35B62D8374"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+			]
+			x: -9.0d
+			y: 9.5d
 		}
 	]
 	title: "{atm9.chapters.43.title}"

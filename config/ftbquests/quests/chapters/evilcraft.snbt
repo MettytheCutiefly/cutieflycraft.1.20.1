@@ -190,7 +190,7 @@
 			y: 9.8d
 		}
 	]
-	order_index: 8
+	order_index: 6
 	progression_mode: "flexible"
 	quest_links: [ ]
 	quests: [
@@ -996,6 +996,8 @@
 				"{atm9.quest.evilcraft.desc.mobFarm.4}"
 				""
 				"{atm9.quest.evilcraft.desc.mobFarm.5}"
+				""
+				"{image:atm:textures/questpics/evilcraft/evilcraft_spiritfurnace.png width:125 height:150 align:1}"
 			]
 			id: "1DA0A87C471A38AC"
 			min_width: 400
@@ -1096,6 +1098,9 @@
 				"{atm9.quest.evilcraft.desc.colossalBloodChest.2}"
 				""
 				"{atm9.quest.evilcraft.desc.colossalBloodChest.3}"
+				""
+				""
+				"{image:atm:textures/questpics/evilcraft/bloodchest.png width:250 height:200 align:1}"
 			]
 			id: "0104C2E2E30B966B"
 			min_width: 250

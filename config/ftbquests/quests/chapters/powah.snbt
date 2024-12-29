@@ -242,6 +242,38 @@
 			y: 18.0d
 		}
 		{
+			height: 0.9d
+			image: "atm:textures/questpics/powah/text/storage_text.png"
+			rotation: 0.0d
+			width: 2.3019230769230767d
+			x: -2.5d
+			y: 10.75d
+		}
+		{
+			height: 0.8d
+			image: "atm:textures/questpics/powah/text/generation_text.png"
+			rotation: 0.0d
+			width: 3.3600000000000003d
+			x: 5.5d
+			y: 10.7d
+		}
+		{
+			height: 0.75d
+			image: "atm:textures/questpics/powah/text/useful_items_text.png"
+			rotation: 0.0d
+			width: 3.908823529411765d
+			x: -6.5d
+			y: 10.7d
+		}
+		{
+			height: 0.75d
+			image: "atm:textures/questpics/powah/text/transfer_text.png"
+			rotation: 0.0d
+			width: 2.6029411764705883d
+			x: 1.5d
+			y: 10.7d
+		}
+		{
 			height: 1.0d
 			image: "powah:block/niotic_crystal_block"
 			rotation: 45.0d
@@ -390,6 +422,8 @@
 				"{atm9.quest.powah.desc.energizingOrb.2}"
 				""
 				"{atm9.quest.powah.desc.energizingOrb.3}"
+				""
+				"{image:atm:textures/questpics/powah/powah_energizing.png width:200 height:200 align:1}"
 			]
 			hide_dependency_lines: false
 			icon: "powah:energizing_orb"
@@ -3382,6 +3416,46 @@
 			}]
 			x: -4.5d
 			y: 17.5d
+		}
+		{
+			can_repeat: false
+			description: [
+				"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks."
+				"As all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by the &6AllTheMods Team&r, without explicit permission."
+				""
+				""
+				""
+				"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
+			]
+			disable_toast: true
+			hide_details_until_startable: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "minecraft:item/barrier"
+				}
+			}
+			id: "1318BA3E5DA9B50C"
+			invisible: true
+			optional: true
+			shape: "octagon"
+			tasks: [
+				{
+					disable_toast: true
+					id: "0428F19A7F7919A1"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+				{
+					id: "652DD9984C65728A"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+			]
+			x: -0.5d
+			y: 3.0d
 		}
 	]
 	title: "{atm9.chapters.23.title}"

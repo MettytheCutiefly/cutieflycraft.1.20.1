@@ -212,6 +212,14 @@
 			y: 0.0d
 		}
 		{
+			height: 9.0d
+			image: "atm:textures/questpics/occultism/maridlogo.png"
+			rotation: 0.0d
+			width: 6.0d
+			x: 1.0d
+			y: 7.0d
+		}
+		{
 			color: 16766720
 			height: 0.5d
 			image: "occultism:block/chalk_glyph/8"
@@ -222,21 +230,19 @@
 		}
 		{
 			height: 0.3d
-			hover: ["{atm9.quest.ae2.img.star}"]
 			image: "allthetweaks:item/atm_star"
 			rotation: 0.0d
 			width: 0.3d
-			x: 6.0d
-			y: 5.5d
+			x: 7.0d
+			y: 4.4d
 		}
 		{
 			height: 0.3d
-			hover: ["atm9.quest.ae2.img.star"]
 			image: "allthetweaks:item/atm_star"
 			rotation: 0.0d
 			width: 0.3d
-			x: 17.2d
-			y: 7.0d
+			x: 16.5d
+			y: 6.4d
 		}
 	]
 	order_index: 10
@@ -604,6 +610,8 @@
 				"{atm9.quest.occultism.desc.firstRitual.5}"
 				""
 				"{atm9.quest.occultism.desc.firstRitual.6}"
+				""
+				"{image:atm:textures/questpics/occultism/aviarcircle.png width:200 height:200 align:1}"
 			]
 			icon: {
 				Count: 1
@@ -773,7 +781,12 @@
 					type: "item"
 				}
 				{
-					id: "594F7571F053C9EB"
+					id: "7A7B7E12E048B1D1"
+					item: "minecraft:gold_ingot"
+					type: "item"
+				}
+				{
+					id: "045AEF84AEFE12B3"
 					item: {
 						Count: 1
 						id: "occultism:book_of_binding_bound_djinni"
@@ -782,11 +795,6 @@
 						}
 					}
 					match_nbt: false
-					type: "item"
-				}
-				{
-					id: "7A7B7E12E048B1D1"
-					item: "minecraft:gold_ingot"
 					type: "item"
 				}
 			]
@@ -958,6 +966,8 @@
 				"{atm9.quest.occultism.desc.findIesnium.4}"
 				""
 				"{atm9.quest.occultism.desc.findIesnium.5}"
+				""
+				"{image:atm:textures/questpics/occultism/iesniumexample.png width:200 height:175 align:1}"
 			]
 			icon: "occultism:iesnium_ore"
 			id: "33106E24A3B5DDD8"
@@ -1220,6 +1230,8 @@
 				"{atm9.quest.occultism.desc.storageStabilizers.3}"
 				""
 				"{atm9.quest.occultism.desc.storageStabilizers.4}"
+				""
+				"{image:atm:textures/questpics/occultism/storageupgradeexample.png width:200 height:150 align:1}"
 			]
 			id: "42F50CE7FE715583"
 			min_width: 300
@@ -1374,6 +1386,46 @@
 			title: "{atm9.quest.occultism.familiars.2}"
 			x: 8.5d
 			y: 7.0d
+		}
+		{
+			can_repeat: false
+			description: [
+				"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks."
+				"As all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by the &6AllTheMods Team&r, without explicit permission."
+				""
+				""
+				""
+				"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
+			]
+			disable_toast: true
+			hide_details_until_startable: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "minecraft:item/barrier"
+				}
+			}
+			id: "7AEDD120E5FB0729"
+			invisible: true
+			optional: true
+			shape: "octagon"
+			tasks: [
+				{
+					disable_toast: true
+					id: "0ACA8BB2546698AA"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+				{
+					id: "341C85E18D1FCC42"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 6.0d
 		}
 	]
 	title: "{atm9.chapters.44.title}"

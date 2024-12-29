@@ -41,6 +41,8 @@
 				"{atm9.quest.blueSkies.desc.findGatekeeper.2}"
 				""
 				"{atm9.quest.blueSkies.desc.findGatekeeper.3}"
+				""
+				"{image:atm:textures/questpics/blueskies/blueskies_gatekeepershouse.png width:200 height:125 align:1}"
 			]
 			icon: "blue_skies:blue_journal"
 			id: "198EB5AE0E18E6C3"
@@ -86,6 +88,8 @@
 				"{atm9.quest.blueSkies.desc.brokenPortal.1}"
 				""
 				"{atm9.quest.blueSkies.desc.brokenPortal.2}"
+				""
+				"{image:atm:textures/questpics/blueskies/blueskies_gatekeeper_portal.png width:200 height:150 align:1}"
 			]
 			icon: {
 				Count: 1
@@ -1273,6 +1277,8 @@
 				"{atm9.quest.blueSkies.desc.dungeonExplorationFeatures.1}"
 				""
 				"{atm9.quest.blueSkies.desc.dungeonExplorationFeatures.2}"
+				""
+				"{image:atm:textures/questpics/blueskies/blueskies_everbright_structuredungeon.png width:150 height:125 align:1}"
 			]
 			id: "001C4388146BD377"
 			rewards: [
@@ -1307,6 +1313,8 @@
 				"{atm9.quest.blueSkies.desc.summonerFeatures.2}"
 				""
 				"{atm9.quest.blueSkies.desc.summonerFeatures.3}"
+				""
+				"{image:atm:textures/questpics/blueskies/blueskies_everbright_summonersdungeon.png width:175 height:200 align:1}"
 			]
 			icon: "blue_skies:summoner_spawn_egg"
 			id: "3C1212AA4663C39B"
@@ -1342,6 +1350,9 @@
 				"{atm9.quest.blueSkies.desc.alchemistFeatures.1}"
 				""
 				"{atm9.quest.blueSkies.desc.alchemistFeatures.2}"
+				""
+				""
+				"{image:atm:textures/questpics/blueskies/blueskies_everdawn_alchemistdungeon.png width:175 height:200 align:1}"
 			]
 			icon: "blue_skies:alchemist_spawn_egg"
 			id: "6832C9E6D2E2949E"
@@ -1379,6 +1390,8 @@
 				"{atm9.quest.blueSkies.desc.naturesDungeonFeatures.2}"
 				""
 				"{atm9.quest.blueSkies.desc.naturesDungeonFeatures.3}"
+				""
+				"{image:atm:textures/questpics/blueskies/blueskies_everbright_naturedungeon.png width:200 height:150 align:1}"
 			]
 			id: "1F944EEA0F397B95"
 			rewards: [
@@ -1415,6 +1428,8 @@
 				"{atm9.quest.blueSkies.desc.poisonDungeonFeatures.1}"
 				""
 				"{atm9.quest.blueSkies.desc.poisonDungeonFeatures.2}"
+				""
+				"{image:atm:textures/questpics/blueskies/blueskies_everdawn_poisondungeon.png width:175 height:200 align:1}"
 			]
 			id: "0DB1A5763EDD6A7F"
 			rewards: [

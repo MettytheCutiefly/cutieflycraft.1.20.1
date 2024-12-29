@@ -15,6 +15,15 @@
 			y: 9.0d
 		}
 		{
+			height: 3.0d
+			image: "atm:textures/questpics/gettingstarted/titleimage1.png"
+			order: -1
+			rotation: 0.0d
+			width: 13.671d
+			x: 7.5d
+			y: -3.0d
+		}
+		{
 			height: 0.01d
 			image: "ftbquests:textures/shapes/square/outline.png"
 			rotation: 0.0d
@@ -72,6 +81,38 @@
 			width: 1.0d
 			x: -4.5d
 			y: 0.0d
+		}
+		{
+			height: 4.0d
+			image: "atm:textures/questpics/gettingstarted/sniffer3.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 2.5d
+			y: 12.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/torchflower"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: 14.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/torchflower"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: 13.0d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/torchflower"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.6845d
+			y: 13.8523d
 		}
 		{
 			height: 1.0d
@@ -132,6 +173,38 @@
 			y: 2.0d
 		}
 		{
+			height: 5.0d
+			image: "atm:textures/questpics/gettingstarted/wither2.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: 26.5d
+			y: 7.5d
+		}
+		{
+			height: 5.0d
+			image: "atm:textures/questpics/gettingstarted/enderdragon.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: 21.5d
+			y: 2.0d
+		}
+		{
+			height: 5.0d
+			image: "atm:textures/questpics/gettingstarted/warden_roar.png"
+			rotation: 0.0d
+			width: 5.0d
+			x: 21.5d
+			y: 12.5d
+		}
+		{
+			height: 1.0d
+			image: "minecraft:block/torchflower"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.0d
+			y: 14.0d
+		}
+		{
 			alpha: 200
 			height: 1.25d
 			image: "allthemodium:block/fluid/atm_molten_still"
@@ -174,6 +247,14 @@
 			width: 3.0d
 			x: 16.0d
 			y: 1.5d
+		}
+		{
+			height: 8.0d
+			image: "atm:textures/questpics/gettingstarted/confused1.png"
+			rotation: 0.0d
+			width: 8.0d
+			x: -9.0d
+			y: 3.5d
 		}
 		{
 			alpha: 200
@@ -589,7 +670,11 @@
 		}
 		{
 			dependencies: ["7975C7145572C438"]
-			description: ["{atm9.quest.chapter1.desc.stone}"]
+			description: [
+				"{atm9.quest.chapter1.desc.stone}"
+				""
+				""
+			]
 			icon: "minecraft:furnace"
 			id: "7D38BC3DB3406F51"
 			rewards: [{
@@ -703,7 +788,10 @@
 		}
 		{
 			dependencies: ["7D38BC3DB3406F51"]
-			description: ["{atm9.quest.chapter1.desc.metal}"]
+			description: [
+				"{atm9.quest.chapter1.desc.metal}"
+				""
+			]
 			id: "051E0C85E7B71CE0"
 			rewards: [
 				{
@@ -962,7 +1050,11 @@
 		}
 		{
 			dependencies: ["76406EFFF8CBA6B4"]
-			description: ["{atm9.quest.chapter1.desc.nether}"]
+			description: [
+				"{atm9.quest.chapter1.desc.nether}"
+				""
+				"{image:atm:textures/questpics/gettingstarted/example_netherportal.png width:175 height:201 align:1}"
+			]
 			id: "0F3D51FFD2FE8DCB"
 			min_width: 300
 			rewards: [
@@ -1084,7 +1176,7 @@
 						value: "alltheores:ore_hammers"
 					}
 				}
-				title: "Ore Hammers"
+				title: "{atm9.quest.chapter1.hammer_task}"
 				type: "item"
 			}]
 			title: "{atm9.quest.chapter1.hammer}"
@@ -1342,7 +1434,12 @@
 		}
 		{
 			dependencies: ["4E9229FBA875C0BE"]
-			description: ["{atm9.quest.chapter1.desc.apotheosis}"]
+			description: [
+				"{atm9.quest.chapter1.desc.apotheosis}"
+				""
+				""
+				"{image:atm:textures/questpics/gettingstarted/apoth_exampleitem.png width:170 height:86 align:1}"
+			]
 			id: "780DE5A24ED53F60"
 			rewards: [
 				{
@@ -1390,7 +1487,14 @@
 		}
 		{
 			dependencies: ["4E9229FBA875C0BE"]
-			description: ["{atm9.quest.chapter1.desc.spell}"]
+			description: [
+				"{atm9.quest.chapter1.desc.spell}"
+				""
+				""
+				""
+				""
+				"{image:atm:textures/questpics/gettingstarted/ironspells_example.png width:199 height:125 align:1}"
+			]
 			id: "58541EEDCB2C7CEE"
 			min_width: 350
 			rewards: [
@@ -2417,7 +2521,11 @@
 		}
 		{
 			dependencies: ["76406EFFF8CBA6B4"]
-			description: ["{atm9.quest.chapter1.desc.twilight}"]
+			description: [
+				"{atm9.quest.chapter1.desc.twilight}"
+				""
+				"{image:atm:textures/questpics/gettingstarted/twilight_portal.png width:241 height:180 align:1}"
+			]
 			id: "23CA641A3D3BE22F"
 			min_width: 300
 			rewards: [{
@@ -2440,7 +2548,16 @@
 			dependencies: ["0F3D51FFD2FE8DCB"]
 			description: [
 				"{atm9.quest.chapter1.desc.ore_sight1}"
+				""
 				"{@pagebreak}"
+				""
+				"{atm9.quest.chapter1.desc.ore_sight2}"
+				""
+				"{image:atm:textures/questpics/gettingstarted/iron_powder.png width:217 height:69 align:1}"
+				""
+				"{atm9.quest.chapter1.desc.ore_sight3}"
+				""
+				"{image:atm:textures/questpics/gettingstarted/iron_potions.png width:217 height:105 align:1}"
 			]
 			icon: {
 				Count: 1
@@ -2751,6 +2868,46 @@
 			title: "{atm9.quest.chapter1.atm_star}"
 			x: 22.5d
 			y: 7.5d
+		}
+		{
+			can_repeat: false
+			description: [
+				"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks."
+				"As all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by the &6AllTheMods Team&r, without explicit permission."
+				""
+				""
+				""
+				"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
+			]
+			disable_toast: true
+			hide_details_until_startable: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "minecraft:item/barrier"
+				}
+			}
+			id: "48EAD15A211C3087"
+			invisible: true
+			optional: true
+			shape: "octagon"
+			tasks: [
+				{
+					disable_toast: true
+					id: "20D6D248995ED9EB"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+				{
+					id: "493C6AAD521D5A1E"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+			]
+			x: 4.0d
+			y: 6.0d
 		}
 	]
 	title: "{atm9.chapters.5.title}"

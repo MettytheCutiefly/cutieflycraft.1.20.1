@@ -94,6 +94,14 @@
 			x: -4.0d
 			y: 4.0d
 		}
+		{
+			height: 3.0d
+			image: "atm:textures/questpics/food_and_farming.png"
+			rotation: 0.0d
+			width: 12.0d
+			x: 0.5d
+			y: -5.5d
+		}
 	]
 	order_index: 2
 	progression_mode: "flexible"
@@ -1301,6 +1309,46 @@
 			title: "{atm9.quest.farm.botany}"
 			x: 3.5d
 			y: 5.0d
+		}
+		{
+			can_repeat: false
+			description: [
+				"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks."
+				"As all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by the &6AllTheMods Team&r, without explicit permission."
+				""
+				""
+				""
+				"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
+			]
+			disable_toast: true
+			hide_details_until_startable: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "minecraft:item/barrier"
+				}
+			}
+			id: "3EA60EB491270B5F"
+			invisible: true
+			optional: true
+			shape: "octagon"
+			tasks: [
+				{
+					disable_toast: true
+					id: "3807253D85162D5C"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+				{
+					id: "2BAD52B6D293140F"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+			]
+			x: 0.5d
+			y: -1.5d
 		}
 	]
 	title: "{atm9.chapters.15.title}"

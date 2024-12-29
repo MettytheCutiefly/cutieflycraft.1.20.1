@@ -43,6 +43,14 @@
 		}
 		{
 			height: 6.0d
+			image: "atm:textures/questpics/mek/sps_cutout.png"
+			rotation: 0.0d
+			width: 7.612612612612613d
+			x: 16.0d
+			y: -5.0d
+		}
+		{
+			height: 6.0d
 			image: "mekanism:item/pellet_antimatter"
 			rotation: 0.0d
 			width: 6.0d
@@ -132,6 +140,23 @@
 			width: 5.0d
 			x: 11.5d
 			y: 9.0d
+		}
+		{
+			height: 2.0d
+			image: "atm:textures/questpics/chp2.png"
+			rotation: 0.0d
+			width: 11.355263157894736d
+			x: 0.0d
+			y: -15.25d
+		}
+		{
+			height: 4.5d
+			image: "atm:textures/questpics/chap2/atmstar_title.png"
+			order: 1
+			rotation: 0.0d
+			width: 32.462566844919785d
+			x: 0.0d
+			y: -13.0d
 		}
 		{
 			height: 5.0d
@@ -251,7 +276,6 @@
 				"5D0C944F84E341BE"
 				"124BDAF91DA74910"
 				"356F450F4ADD22D7"
-				"73EFADE932DFEF86"
 			]
 			id: "73990028197AF1AB"
 			rewards: [
@@ -297,7 +321,6 @@
 				"2B539F4F290DC4CF"
 				"4D3D96B6019CA7F9"
 				"4A3DF999B969C875"
-				"73EFADE932DFEF86"
 				"7790E599B42A5DE5"
 			]
 			id: "048F2942436D3C46"
@@ -1115,7 +1138,6 @@
 				"050AAD831C0AE375"
 				"54277F570314DCE1"
 				"0301633594309CC6"
-				"73EFADE932DFEF86"
 			]
 			id: "4775F7326720251E"
 			rewards: [
@@ -2845,6 +2867,21 @@
 					item: "thermal_extra:abyssal_rf_coil_xfer_augment"
 					type: "item"
 				}
+				{
+					id: "79B45411428AE0A3"
+					item: "computercraft:pocket_computer_advanced"
+					type: "item"
+				}
+				{
+					id: "42EE6320BAD59620"
+					item: "rftoolsutility:flight_module"
+					type: "item"
+				}
+				{
+					id: "7089713515FCF89A"
+					item: "advgenerators:power_capacitor_tier3"
+					type: "item"
+				}
 			]
 			title: "{atm9.quest.chapter2.extras}"
 			x: 4.0d
@@ -3202,6 +3239,46 @@
 			}]
 			x: 4.0d
 			y: -5.5d
+		}
+		{
+			can_repeat: false
+			description: [
+				"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks."
+				"As all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by the &6AllTheMods Team&r, without explicit permission."
+				""
+				""
+				""
+				"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
+			]
+			disable_toast: true
+			hide_details_until_startable: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "minecraft:item/barrier"
+				}
+			}
+			id: "7EA9E1D1890BC4BE"
+			invisible: true
+			optional: true
+			shape: "octagon"
+			tasks: [
+				{
+					disable_toast: true
+					id: "61C5E5E6742910D8"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+				{
+					id: "721E0D1C9071505A"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: -10.0d
 		}
 	]
 	title: "{atm9.chapters.6.title}"

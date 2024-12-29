@@ -16,6 +16,14 @@
 		}
 	}
 	id: "5D045EF1AB73DF70"
+	images: [{
+		height: 5.0d
+		image: "atm:textures/questpics/allthepower.png"
+		rotation: 0.0d
+		width: 15.0d
+		x: -3.5d
+		y: -3.5d
+	}]
 	order_index: 0
 	progression_mode: "flexible"
 	quest_links: [ ]
@@ -862,7 +870,11 @@
 		}
 		{
 			dependencies: ["36DEA17CBB696CC7"]
-			description: ["{atm9.quest.power.desc.UI}"]
+			description: [
+				"{atm9.quest.power.desc.UI}"
+				""
+				"{image:atm:textures/questpics/flux/flux_ui.png width:125 height:150 align:1}"
+			]
 			icon: "fluxnetworks:admin_configurator"
 			id: "2EB7784D5296F410"
 			min_width: 350
@@ -884,7 +896,11 @@
 		}
 		{
 			dependencies: ["36DEA17CBB696CC7"]
-			description: ["{atm9.quest.power.desc.controller}"]
+			description: [
+				"{atm9.quest.power.desc.controller}"
+				""
+				"{image:atm:textures/questpics/flux/wireless_ui.png width:125 height:150 align:1}"
+			]
 			id: "27A4FA38992448A0"
 			min_width: 300
 			rewards: [
@@ -909,6 +925,46 @@
 			title: "{atm9.quest.power.controller}"
 			x: -9.0d
 			y: 7.5d
+		}
+		{
+			can_repeat: false
+			description: [
+				"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks."
+				"As all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by the &6AllTheMods Team&r, without explicit permission."
+				""
+				""
+				""
+				"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
+			]
+			disable_toast: true
+			hide_details_until_startable: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "minecraft:item/barrier"
+				}
+			}
+			id: "2FD7D264024592D7"
+			invisible: true
+			optional: true
+			shape: "octagon"
+			tasks: [
+				{
+					disable_toast: true
+					id: "330BFC92D5AEAD82"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+				{
+					id: "6AC2C9C3DA38E390"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+			]
+			x: -3.5d
+			y: -1.5d
 		}
 	]
 	title: "{atm9.chapters.13.title}"

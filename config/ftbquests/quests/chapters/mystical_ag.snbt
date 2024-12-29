@@ -1753,7 +1753,7 @@
 		}
 		{
 			dependencies: ["2FA6B8A1C8713DE0"]
-			description: ["{atm9.quest.ma.desc.star_seeds}"]
+			description: ["{atm9.quest.ma.desc.crux}"]
 			id: "4A96A0456680837C"
 			rewards: [
 				{
@@ -1780,7 +1780,7 @@
 		}
 		{
 			dependencies: ["2FA6B8A1C8713DE0"]
-			description: ["{atm9.quest.ma.desc.dragon_seeds}"]
+			description: ["{atm9.quest.ma.desc.crux}"]
 			id: "6AB1C7B6251FE9F5"
 			rewards: [
 				{
@@ -1867,6 +1867,7 @@
 				}
 			]
 			shape: "hexagon"
+			size: 1.25d
 			subtitle: "{atm9.quest.ma.subt.InEssence}"
 			tasks: [{
 				id: "667004CD0469493D"
@@ -3625,11 +3626,6 @@
 			id: "7AD83A26A52C0983"
 			rewards: [
 				{
-					id: "0353EB8E142438F7"
-					type: "xp"
-					xp: 250
-				}
-				{
 					exclude_from_claim_all: true
 					id: "07EE544812B65419"
 					table_id: 3663852184954822005L
@@ -3640,6 +3636,11 @@
 					id: "2FCBE7F7C07D6BFA"
 					table_id: 5325714992629626565L
 					type: "random"
+				}
+				{
+					id: "7E98206713443ED5"
+					type: "xp"
+					xp: 500
 				}
 			]
 			shape: "gear"
@@ -3755,7 +3756,7 @@
 				"0F031E62E5235251"
 				"67C4A4D6DD93DB0E"
 			]
-			description: ["{atm9.quest.ma.desc.atm}"]
+			description: ["{atm9.quest.ma.desc.crux}"]
 			id: "1B6C8C033901D5D6"
 			rewards: [{
 				count: 3
@@ -3777,7 +3778,7 @@
 				"0F031E62E5235251"
 				"67C4A4D6DD93DB0E"
 			]
-			description: ["{atm9.quest.ma.desc.vib}"]
+			description: ["{atm9.quest.ma.desc.crux}"]
 			id: "0E3B4EFE149E0C72"
 			rewards: [{
 				count: 3
@@ -3799,7 +3800,7 @@
 				"0F031E62E5235251"
 				"67C4A4D6DD93DB0E"
 			]
-			description: ["{atm9.quest.ma.desc.uno}"]
+			description: ["{atm9.quest.ma.desc.atm}"]
 			id: "06401FE7C8D75FC1"
 			rewards: [{
 				count: 3
@@ -3834,6 +3835,46 @@
 			title: "{atm9.quest.ma.magic}"
 			x: 6.5d
 			y: 3.5d
+		}
+		{
+			can_repeat: false
+			description: [
+				"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks."
+				"As all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by the &6AllTheMods Team&r, without explicit permission."
+				""
+				""
+				""
+				"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
+			]
+			disable_toast: true
+			hide_details_until_startable: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "minecraft:item/barrier"
+				}
+			}
+			id: "10F5112EDBE3ED0E"
+			invisible: true
+			optional: true
+			shape: "octagon"
+			tasks: [
+				{
+					disable_toast: true
+					id: "13EFAE42DD3F7B13"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+				{
+					id: "599F5834A5A18F01"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+			]
+			x: -18.5d
+			y: -0.5d
 		}
 	]
 	title: "{atm9.chapters.16.title}"

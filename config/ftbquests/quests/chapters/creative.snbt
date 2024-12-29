@@ -7,6 +7,15 @@
 	id: "16956970FF49BB4D"
 	images: [
 		{
+			height: 4.0d
+			hover: ["What do I do with the ATM Star?"]
+			image: "atm:textures/questpics/creative.png"
+			rotation: 0.0d
+			width: 16.0d
+			x: 0.0d
+			y: -4.0d
+		}
+		{
 			height: 2.0d
 			image: "allthetweaks:textures/item/atm_star.png"
 			rotation: 20.0d
@@ -33,11 +42,6 @@
 			hide_dependency_lines: true
 			id: "6E6FDF551EA4FF1A"
 			rewards: [
-				{
-					id: "625FC1DFA2B2A8B3"
-					type: "xp_levels"
-					xp_levels: 10000
-				}
 				{
 					id: "13C7B1760109C468"
 					item: {
@@ -77,6 +81,11 @@
 					id: "5AC6632FD554B8F2"
 					item: "reliquary:pedestals/passive/white_passive_pedestal"
 					type: "item"
+				}
+				{
+					id: "1F4E8436E25D423D"
+					type: "xp_levels"
+					xp_levels: 1000
 				}
 			]
 			shape: "hexagon"
@@ -221,6 +230,7 @@
 						Throttle: 1.0d
 					}
 				}
+				match_nbt: true
 				type: "item"
 			}]
 			title: "{atm9.quest.chapter3.jetpack}"
@@ -357,6 +367,11 @@
 			hide_dependency_lines: true
 			id: "0019BAE826902B4A"
 			optional: true
+			rewards: [{
+				id: "248CEF5CDCC4D98C"
+				type: "xp_levels"
+				xp_levels: 10000
+			}]
 			size: 3.0d
 			tasks: [{
 				id: "05EDE3C0706A89A7"
@@ -375,7 +390,7 @@
 				{
 					id: "0F1BEDEC9A4A479D"
 					type: "xp_levels"
-					xp_levels: 50000
+					xp_levels: 5000
 				}
 				{
 					id: "04566CE860FF3B61"
@@ -410,6 +425,46 @@
 			title: "{atm9.quest.chapter3.greg}"
 			x: 1.5d
 			y: 3.0d
+		}
+		{
+			can_repeat: false
+			description: [
+				"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks."
+				"As all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by the &6AllTheMods Team&r, without explicit permission."
+				""
+				""
+				""
+				"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
+			]
+			disable_toast: true
+			hide_details_until_startable: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "minecraft:item/barrier"
+				}
+			}
+			id: "7B82BB23454C6D44"
+			invisible: true
+			optional: true
+			shape: "octagon"
+			tasks: [
+				{
+					disable_toast: true
+					id: "543A08791D27BC62"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+				{
+					id: "71F7DA56C55F4676"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 1.5d
 		}
 	]
 	title: "{atm9.chapters.7.title}"

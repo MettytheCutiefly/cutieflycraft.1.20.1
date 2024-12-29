@@ -29,6 +29,30 @@
 			y: 3.4000000000000004d
 		}
 		{
+			height: 7.0d
+			image: "atm:textures/questpics/pneumaticcraft/pressure_chamber.png"
+			rotation: 0.0d
+			width: 12.413333333333334d
+			x: 2.0d
+			y: 7.0d
+		}
+		{
+			height: 8.0d
+			image: "atm:textures/questpics/pneumaticcraft/assembly_line.png"
+			rotation: 0.0d
+			width: 15.21514629948365d
+			x: 27.0d
+			y: 8.0d
+		}
+		{
+			height: 8.0d
+			image: "atm:textures/questpics/pneumaticcraft/pneumatic_set.png"
+			rotation: 0.0d
+			width: 8.806722689075631d
+			x: 19.0d
+			y: 0.0d
+		}
+		{
 			height: 1.0d
 			image: "pneumaticcraft:item/pneumatic_helmet"
 			rotation: 0.0d
@@ -117,6 +141,22 @@
 			width: 1.0d
 			x: 7.0d
 			y: 2.5d
+		}
+		{
+			height: 5.0d
+			image: "atm:textures/questpics/pneumaticcraft/pnc_title.png"
+			rotation: 0.0d
+			width: 20.88888888888889d
+			x: 6.0d
+			y: -7.0d
+		}
+		{
+			height: 4.0d
+			image: "atm:textures/questpics/pneumaticcraft/pnc_logo.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 23.0d
+			y: -4.0d
 		}
 	]
 	order_index: 10
@@ -1892,6 +1932,44 @@
 			}]
 			x: 13.5d
 			y: 7.0d
+		}
+		{
+			can_repeat: false
+			description: [
+				"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks."
+				"As all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by the &6AllTheMods Team&r, without explicit permission."
+				""
+				"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
+			]
+			disable_toast: true
+			hide_details_until_startable: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "minecraft:item/barrier"
+				}
+			}
+			id: "682BCE7AD73B2D45"
+			invisible: true
+			optional: true
+			shape: "octagon"
+			tasks: [
+				{
+					disable_toast: true
+					id: "0CD2482221534ED9"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+				{
+					id: "7AAE25A5D1C4E2FA"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+			]
+			x: 2.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["1427B3AB09510D20"]

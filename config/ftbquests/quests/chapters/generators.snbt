@@ -192,6 +192,22 @@
 		}
 		{
 			height: 1.0d
+			image: "atm:textures/questpics/furnaces/iron_furnaces.png"
+			rotation: 0.0d
+			width: 8.60759493670886d
+			x: -2.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "atm:textures/questpics/generator/generator_galore.png"
+			rotation: 0.0d
+			width: 11.10126582278481d
+			x: 9.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
 			image: "ironfurnaces:block/iron_furnace_front_on_blast"
 			rotation: 0.0d
 			width: 1.0d
@@ -263,7 +279,7 @@
 			y: 2.0d
 		}
 	]
-	order_index: 2
+	order_index: 5
 	quest_links: [ ]
 	quests: [
 		{
@@ -299,7 +315,7 @@
 				"61847F47CCA225D9"
 			]
 			dependency_requirement: "one_completed"
-			description: ["{atm9.quest.generators.desc.goldenfurnace.1}"]
+			description: ["{atm9.quest.generators.desc.goldenfurnace}"]
 			id: "420FE84DEE12CCE0"
 			rewards: [
 				{
@@ -398,8 +414,13 @@
 					type: "item"
 				}
 				{
+					id: "4B999B65E92B8A55"
+					item: "ironfurnaces:upgrade_obsidian"
+					type: "item"
+				}
+				{
 					count: 6
-					id: "0AB931260F94F729"
+					id: "01C4CD03549D7346"
 					item: "minecraft:coal_block"
 					type: "item"
 				}
@@ -1383,6 +1404,46 @@
 			title: "{atm9.quest.generators.title.rainbowgenerator}"
 			x: 0.0d
 			y: -2.0d
+		}
+		{
+			can_repeat: false
+			description: [
+				"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks."
+				"As all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by the &6AllTheMods Team&r, without explicit permission."
+				""
+				""
+				""
+				"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
+			]
+			disable_toast: true
+			hide_details_until_startable: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "minecraft:item/barrier"
+				}
+			}
+			id: "3C056BB1EA08B85A"
+			invisible: true
+			optional: true
+			shape: "octagon"
+			tasks: [
+				{
+					disable_toast: true
+					id: "1250A409C17F7F7C"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+				{
+					id: "24D94D6FD4DEDF41"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+			]
+			x: 3.0d
+			y: -7.5d
 		}
 	]
 	title: "{atm9.chapters.61.title}"

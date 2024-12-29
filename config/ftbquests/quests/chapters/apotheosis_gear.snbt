@@ -7,6 +7,54 @@
 	id: "6693050B0EE71CEB"
 	images: [
 		{
+			height: 2.0d
+			image: "atm:textures/questpics/apotheosis/apotheosis_gear.png"
+			rotation: 0.0d
+			width: 7.135483870967742d
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			height: 2.0d
+			image: "atm:textures/questpics/apotheosis/gear_simple.png"
+			rotation: 0.0d
+			width: 1.9281437125748504d
+			x: -2.0d
+			y: 7.0d
+		}
+		{
+			height: 2.0d
+			image: "atm:textures/questpics/apotheosis/gear_reforge.png"
+			rotation: 0.0d
+			width: 1.844155844155844d
+			x: 0.0d
+			y: 7.0d
+		}
+		{
+			height: 2.0d
+			image: "atm:textures/questpics/apotheosis/gear_augment.png"
+			rotation: 0.0d
+			width: 1.7777777777777777d
+			x: 2.0d
+			y: 7.0d
+		}
+		{
+			height: 2.0d
+			image: "atm:textures/questpics/apotheosis/gear_smith.png"
+			rotation: 0.0d
+			width: 1.8533333333333333d
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			height: 2.0d
+			image: "atm:textures/questpics/apotheosis/gear_gem.png"
+			rotation: 0.0d
+			width: 2.0709219858156027d
+			x: -5.5d
+			y: 3.0d
+		}
+		{
 			height: 1.0d
 			image: "apotheosis:items/sigils/enhancement"
 			rotation: 0.0d
@@ -553,6 +601,46 @@
 			title: "{atm9.quest.affixes.augment}"
 			x: 3.0d
 			y: 3.0d
+		}
+		{
+			can_repeat: false
+			description: [
+				"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks."
+				"As all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by the &6AllTheMods Team&r, without explicit permission."
+				""
+				""
+				""
+				"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
+			]
+			disable_toast: true
+			hide_details_until_startable: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "minecraft:item/barrier"
+				}
+			}
+			id: "1AA94E54CA6F011B"
+			invisible: true
+			optional: true
+			shape: "octagon"
+			tasks: [
+				{
+					disable_toast: true
+					id: "33D05E0254401672"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+				{
+					id: "67BD6B7EF48B9CA4"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+			]
+			x: -1.5d
+			y: -0.5d
 		}
 	]
 	title: "{atm9.chapters.8.title}"

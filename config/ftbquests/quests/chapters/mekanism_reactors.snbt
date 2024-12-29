@@ -88,6 +88,42 @@
 			y: 3.5d
 		}
 		{
+			height: 11.0d
+			hover: ["atm9.quest.mekanismReactors.fusionReactor"]
+			image: "atm:textures/questpics/mek/fusion_cutout.png"
+			rotation: 0.0d
+			width: 10.627118644067796d
+			x: 17.0d
+			y: -13.0d
+		}
+		{
+			height: 12.0d
+			hover: ["atm9.quest.mekanismReactors.industrialTurbine"]
+			image: "atm:textures/questpics/mek/turbine_cutout.png"
+			rotation: 0.0d
+			width: 10.536144578313253d
+			x: 20.0d
+			y: 0.0d
+		}
+		{
+			height: 10.0d
+			hover: ["atm9.quest.mekanismReactors.fissionReactor"]
+			image: "atm:textures/questpics/mek/fission_cutout.png"
+			rotation: 0.0d
+			width: 9.661016949152541d
+			x: 2.0d
+			y: 9.5d
+		}
+		{
+			height: 10.0d
+			hover: ["atm9.quest.mekanismReactors.supercriticalPhaseShifter"]
+			image: "atm:textures/questpics/mek/sps_cutout.png"
+			rotation: 0.0d
+			width: 12.687687687687689d
+			x: -4.5d
+			y: -7.0d
+		}
+		{
 			alpha: 150
 			height: 1.5d
 			image: "ae2:block/controller_column_lights"
@@ -282,6 +318,8 @@
 				"{atm9.quest.mekanismReactors.desc.fissionReactorPorts.6}"
 				""
 				"{atm9.quest.mekanismReactors.desc.fissionReactorPorts.7}"
+				""
+				"{image:atm:textures/questpics/mek/port_example.png width:200 height:200 align:1}"
 			]
 			id: "0696B725E840B996"
 			min_width: 400
@@ -319,6 +357,8 @@
 				"{atm9.quest.mekanismReactors.desc.reactorSafety.3}"
 				""
 				"{atm9.quest.mekanismReactors.desc.reactorSafety.4}"
+				""
+				"{image:atm:textures/questpics/mek/logic_adapter.png width:150 height:125 align:1}"
 			]
 			id: "5FDB48511EC1C580"
 			min_width: 300
@@ -345,6 +385,8 @@
 				"{atm9.quest.mekanismReactors.desc.reactorAssembly.1}"
 				""
 				"{atm9.quest.mekanismReactors.desc.reactorAssembly.2}"
+				""
+				"{image:atm:textures/questpics/mek/rod_example.png width:250 height:200 align:1}"
 			]
 			id: "3F5010269469EBE0"
 			min_width: 250
@@ -393,6 +435,8 @@
 				"{atm9.quest.mekanismReactors.desc.circuitBreaker.5}"
 				""
 				"{atm9.quest.mekanismReactors.desc.circuitBreaker.6}"
+				""
+				"{image:atm:textures/questpics/mek/example_circuit.png width:200 height:250 align:1}"
 			]
 			icon: "minecraft:observer"
 			id: "7B0764DDE94E73D0"
@@ -973,15 +1017,15 @@
 					type: "item"
 				}
 				{
-					id: "7805E5E238BB92F1"
-					type: "xp"
-					xp: 100
-				}
-				{
 					exclude_from_claim_all: true
 					id: "4EF29B7A9C4A9A5A"
 					table_id: 8364958827326577211L
 					type: "loot"
+				}
+				{
+					id: "1356A6FBD70699CA"
+					type: "xp"
+					xp: 100
 				}
 			]
 			shape: "hexagon"
@@ -1018,10 +1062,13 @@
 				"{atm9.quest.mekanismReactors.desc.fusionReactor.2}"
 				""
 				"{atm9.quest.mekanismReactors.desc.fusionReactor.3}"
+				"{image:atm:textures/questpics/mek/fusion_pattern.png width:175 height:175 align:1}"
 				""
 				"{atm9.quest.mekanismReactors.desc.fusionReactor.4}"
 				""
 				"{atm9.quest.mekanismReactors.desc.fusionReactor.5}"
+				""
+				"{image:atm:textures/questpics/mek/completed_fusion_reactor.png width:175 height:150 align:1}"
 			]
 			id: "0152C49AB74B9D32"
 			min_width: 500
@@ -1116,10 +1163,13 @@
 				""
 				"{atm9.quest.mekanismReactors.desc.buildSPS.2}"
 				""
+				"{image:atm:textures/questpics/mek/basic_sps_shape.png width:250 height:225 align:1}"
 				""
 				"{atm9.quest.mekanismReactors.desc.buildSPS.3}"
 				""
 				"{atm9.quest.mekanismReactors.desc.buildSPS.4}"
+				""
+				"{image:atm:textures/questpics/mek/sps_complete.png width:300 height:250 align:1}"
 			]
 			id: "2B3F2F470E06BC40"
 			min_width: 350
@@ -1190,6 +1240,8 @@
 				"{atm9.quest.mekanismReactors.desc.laserFocusArray.4}"
 				""
 				"{atm9.quest.mekanismReactors.desc.laserFocusArray.5}"
+				""
+				"{image:atm:textures/questpics/mek/laser_example.png width:200 height:150 align:1} "
 			]
 			id: "320CC038A64A3195"
 			min_width: 400
@@ -1396,6 +1448,9 @@
 				"{atm9.quest.mekanismReactors.desc.fusionReactorPrep.4}"
 				""
 				"{atm9.quest.mekanismReactors.desc.fusionReactorPrep.5}"
+				""
+				""
+				"{image:atm:textures/questpics/mek/fusion_activated.png width:225 height:150 align:1}"
 			]
 			icon: "mekanismgenerators:fusion_reactor_controller"
 			id: "54D8B9CB3F98040F"
@@ -1449,6 +1504,8 @@
 				"{atm9.quest.mekanismReactors.desc.fusionReactorIntro.3}"
 				""
 				"{atm9.quest.mekanismReactors.desc.fusionReactorIntro.4}"
+				""
+				"{image:atm:textures/questpics/mek/fusion_fuelui1.png width:175 height:150 align:1}"
 			]
 			id: "26D306418545A2D6"
 			min_width: 300
@@ -1813,6 +1870,7 @@
 				""
 				"{atm9.quest.mekanismReactors.desc.inductionMatrixDetails.4}"
 				""
+				"{image:atm:textures/questpics/mek/induction_inside.png width:300 height:200 align:1}"
 			]
 			hide_until_deps_visible: false
 			id: "14D772808D1BEAE2"
@@ -1931,6 +1989,46 @@
 			title: "{atm9.quest.mekanismReactors.completingMatrix}"
 			x: 5.0d
 			y: -1.0d
+		}
+		{
+			can_repeat: false
+			description: [
+				"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks."
+				"As all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by the &6AllTheMods Team&r, without explicit permission."
+				""
+				""
+				""
+				"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
+			]
+			disable_toast: true
+			hide_details_until_startable: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "minecraft:item/barrier"
+				}
+			}
+			id: "67423D709305AD2D"
+			invisible: true
+			optional: true
+			shape: "octagon"
+			tasks: [
+				{
+					disable_toast: true
+					id: "43556EEA05422924"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+				{
+					id: "314BB5005E524D0A"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: 6.0d
 		}
 	]
 	title: "{atm9.chapters.22.title}"

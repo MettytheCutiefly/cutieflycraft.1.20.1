@@ -23,6 +23,14 @@
 			y: -1.5d
 		}
 		{
+			height: 2.0d
+			image: "atm:textures/questpics/natures_aura/natures_aura_title.png"
+			rotation: 0.0d
+			width: 12.1d
+			x: 5.0d
+			y: -3.5d
+		}
+		{
 			height: 1.5d
 			image: "naturesaura:item/eye_improved"
 			rotation: 0.0d
@@ -38,8 +46,16 @@
 			x: -0.14d
 			y: 0.14d
 		}
+		{
+			height: 5.0d
+			image: "atm:textures/questpics/natures_aura/natural_altar.png"
+			rotation: 0.0d
+			width: 9.859550561797754d
+			x: 11.0d
+			y: 0.0d
+		}
 	]
-	order_index: 11
+	order_index: 9
 	quest_links: [ ]
 	quests: [
 		{
@@ -74,7 +90,10 @@
 		}
 		{
 			dependencies: ["4F9D6109EEA5D26A"]
-			description: ["{atm9.quest.naturesaura.desc.ritualofforest.1}"]
+			description: [
+				"{atm9.quest.naturesaura.desc.ritualofforest.1}"
+				"{image:atm:textures/questpics/natures_aura/forest_ritual.png width:295 height:150 align:center}"
+			]
 			icon: "naturesaura:gold_powder"
 			icon_scale: 1.1d
 			id: "497AE687B7E95DE8"
@@ -526,7 +545,10 @@
 				"3EC90ADA4E322B14"
 				"0EFD0A4AE82153E8"
 			]
-			description: ["{atm9.quest.naturesaura.desc.offering.1}"]
+			description: [
+				"{atm9.quest.naturesaura.desc.offering.1}"
+				"{image:atm:textures/questpics/natures_aura/offering.png width:295 height:150 align:center}"
+			]
 			icon: "naturesaura:offering_table"
 			id: "5C990F7E5D345A6F"
 			rewards: [
@@ -911,18 +933,39 @@
 			y: 3.0d
 		}
 		{
-			description: ["{atm9.quest.copyright.desc.1}"]
-			id: "5A0EB2ADEBC7EE2B"
+			can_repeat: false
+			description: [
+				"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks."
+				"As all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by the &6AllTheMods Team&r, without explicit permission."
+				""
+				""
+				""
+				"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
+			]
+			disable_toast: true
+			hide_details_until_startable: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "minecraft:item/barrier"
+				}
+			}
+			id: "3AEA0FD1D5730CF2"
 			invisible: true
 			optional: true
-			shape: "circle"
+			shape: "octagon"
 			tasks: [
 				{
-					id: "15698B55CCAD2433"
+					disable_toast: true
+					id: "7581F4AEFE77AE2E"
+					title: "Quests By AllTheMods"
 					type: "checkmark"
 				}
 				{
-					id: "4C6370D2B7EF8685"
+					id: "7D2F9E36EFB00065"
+					title: "Quests By AllTheMods"
 					type: "checkmark"
 				}
 			]

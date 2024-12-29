@@ -70,6 +70,14 @@
 			x: -1.5d
 			y: 1.0d
 		}
+		{
+			height: 5.0d
+			image: "atm:textures/questpics/router/router_title.png"
+			rotation: 0.0d
+			width: 8.130252100840336d
+			x: 0.0d
+			y: -6.5d
+		}
 	]
 	order_index: 1
 	progression_mode: "flexible"
@@ -907,7 +915,7 @@
 		}
 		{
 			dependencies: ["233C7CAA573D6045"]
-			description: ["{atm9.quest.modular_router.desc.troll_module.1}"]
+			description: ["{atm9.quest.modular_router.desc.creative_module}"]
 			icon: "modularrouters:creative_module"
 			id: "71FDF8CD953E46FC"
 			rewards: [{
@@ -918,6 +926,7 @@
 			}]
 			tasks: [{
 				id: "41EEE559F6402D81"
+				title: "{atm9.quest.modular_router.title.creative_module}"
 				type: "checkmark"
 			}]
 			x: 0.0d
@@ -985,7 +994,11 @@
 		}
 		{
 			dependencies: ["63E4529AF8894018"]
-			description: ["{atm9.quest.modular_router.desc.mob_farm.1}"]
+			description: [
+				"{atm9.quest.modular_router.desc.mob_farm.1}"
+				""
+				"{image:atm:textures/questpics/router/router_mob.png width:200 height:75 align:center}"
+			]
 			id: "53A5F5E49EA8D5AF"
 			shape: "rsquare"
 			size: 1.3d
@@ -1064,7 +1077,11 @@
 		}
 		{
 			dependencies: ["63E4529AF8894018"]
-			description: ["{atm9.quest.modular_router.desc.farming.1}"]
+			description: [
+				"{atm9.quest.modular_router.desc.farming.1}"
+				""
+				"{image:atm:textures/questpics/router/router_farm.png width:50 height:150 align:center}"
+			]
 			id: "0D5691403AEC25A8"
 			shape: "rsquare"
 			size: 1.3d
@@ -1082,6 +1099,46 @@
 			]
 			x: 0.0d
 			y: -3.0d
+		}
+		{
+			can_repeat: false
+			description: [
+				"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks."
+				"As all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by the &6AllTheMods Team&r, without explicit permission."
+				""
+				""
+				""
+				"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
+			]
+			disable_toast: true
+			hide_details_until_startable: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "minecraft:item/barrier"
+				}
+			}
+			id: "0B4A47150708D7A0"
+			invisible: true
+			optional: true
+			shape: "octagon"
+			tasks: [
+				{
+					disable_toast: true
+					id: "00108F057048935C"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+				{
+					id: "59ABF1A82597A34D"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+			]
+			x: 0.0d
+			y: -4.0d
 		}
 	]
 	title: "{atm9.chapters.59.title}"

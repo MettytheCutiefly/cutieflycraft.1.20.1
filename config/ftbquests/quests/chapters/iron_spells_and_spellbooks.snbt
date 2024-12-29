@@ -5,11 +5,139 @@
 	group: "02FE661031A105D8"
 	icon: "irons_spellbooks:scroll"
 	id: "76DF5FAA7961E5E7"
-	order_index: 4
+	images: [
+		{
+			height: 3.0d
+			image: "atm:textures/questpics/iron_spells/spells_title.png"
+			rotation: 0.0d
+			width: 9.38265306122449d
+			x: 3.5d
+			y: -1.5d
+		}
+		{
+			height: 3.0d
+			hover: ["Pyromancer"]
+			image: "atm:textures/questpics/iron_spells/spells_pyromancer.png"
+			rotation: 0.0d
+			width: 1.5506216696269983d
+			x: 5.5d
+			y: 1.5d
+		}
+		{
+			height: 3.0d
+			hover: ["Cryomancer"]
+			image: "atm:textures/questpics/iron_spells/spells_cryomancer.png"
+			rotation: 0.0d
+			width: 1.738703339882122d
+			x: 0.5d
+			y: 1.5d
+		}
+		{
+			height: 3.0d
+			hover: ["Inscription Table"]
+			image: "atm:textures/questpics/iron_spells/spells_table.png"
+			rotation: 0.0d
+			width: 5.4288407163053725d
+			x: -6.5d
+			y: 0.5d
+		}
+		{
+			height: 2.0d
+			hover: ["Alchemist Cauldron"]
+			image: "atm:textures/questpics/iron_spells/spells_cauldron.png"
+			rotation: 0.0d
+			width: 2.106776180698152d
+			x: -8.5d
+			y: 3.0d
+		}
+		{
+			height: 2.0d
+			hover: ["Arcane Anvil"]
+			image: "atm:textures/questpics/iron_spells/spells_anvil.png"
+			rotation: 0.0d
+			width: 1.9232409381663114d
+			x: -6.5d
+			y: 3.0d
+		}
+		{
+			height: 2.0d
+			hover: ["Scroll Forge"]
+			image: "atm:textures/questpics/iron_spells/spells_scroll.png"
+			rotation: 0.0d
+			width: 2.3376623376623376d
+			x: -4.5d
+			y: 3.0d
+		}
+		{
+			height: 4.0d
+			hover: ["The Dead King"]
+			image: "atm:textures/questpics/iron_spells/spells_king.png"
+			rotation: 0.0d
+			width: 2.3363914373088686d
+			x: 12.0d
+			y: 6.0d
+		}
+		{
+			height: 3.0d
+			hover: ["Necromancer"]
+			image: "atm:textures/questpics/iron_spells/spells_necromancer.png"
+			rotation: 0.0d
+			width: 1.7410714285714288d
+			x: 16.0d
+			y: 6.5d
+		}
+		{
+			height: 3.0d
+			hover: ["Ancient Knight"]
+			image: "atm:textures/questpics/iron_spells/spells_knight.png"
+			rotation: 0.0d
+			width: 2.070567986230637d
+			x: 14.0d
+			y: 6.5d
+		}
+		{
+			height: 2.5d
+			hover: ["Mountain Tower"]
+			image: "atm:textures/questpics/iron_spells/spells_mountaintower.png"
+			rotation: 0.0d
+			width: 4.444444444444445d
+			x: -0.5d
+			y: -4.5d
+		}
+		{
+			height: 2.5d
+			hover: ["Pyromancer Tower"]
+			image: "atm:textures/questpics/iron_spells/spells_pyromancertower.png"
+			rotation: 0.0d
+			width: 4.444444444444445d
+			x: 6.5d
+			y: -4.5d
+		}
+		{
+			height: 2.5d
+			hover: ["Mangrove Hut"]
+			image: "atm:textures/questpics/iron_spells/spells_magrovehut.png"
+			rotation: 0.0d
+			width: 4.444444444444445d
+			x: 10.5d
+			y: -4.5d
+		}
+		{
+			height: 2.5d
+			hover: ["Evoker Fort"]
+			image: "atm:textures/questpics/iron_spells/spells_evokerfort.png"
+			rotation: 0.0d
+			width: 4.444444444444445d
+			x: -4.5d
+			y: -4.5d
+		}
+	]
+	order_index: 8
 	quest_links: [ ]
 	quests: [
 		{
 			description: ["{atm9.quest.ironSpellbooks.desc.intro.1}"]
+			hide_dependent_lines: true
 			id: "615C3E012B2DECD3"
 			rewards: [{
 				count: 3
@@ -28,6 +156,7 @@
 			y: -6.5d
 		}
 		{
+			dependencies: ["615C3E012B2DECD3"]
 			description: ["{atm9.quest.ironSpellbooks.desc.netheritespellbook.1}"]
 			id: "7408CCF998D9CD37"
 			rewards: [{
@@ -207,6 +336,7 @@
 			y: -6.5d
 		}
 		{
+			dependencies: ["615C3E012B2DECD3"]
 			description: ["{atm9.quest.ironSpellbooks.desc.goldspellbook.1}"]
 			id: "66762A4743104157"
 			rewards: [{
@@ -236,6 +366,7 @@
 			y: -6.0d
 		}
 		{
+			dependencies: ["615C3E012B2DECD3"]
 			description: ["{atm9.quest.ironSpellbooks.desc.diamondspellbook.1}"]
 			id: "4407BD7B5F033765"
 			rewards: [{
@@ -265,7 +396,9 @@
 			y: -7.0d
 		}
 		{
+			dependencies: ["615C3E012B2DECD3"]
 			description: ["{atm9.quest.ironSpellbooks.desc.rottenspellbook.1}"]
+			hide_dependent_lines: true
 			id: "1CAEC4C273EDDB99"
 			rewards: [{
 				id: "7BA21F76F1D1563F"
@@ -294,6 +427,7 @@
 			y: -7.0d
 		}
 		{
+			dependencies: ["615C3E012B2DECD3"]
 			description: ["{atm9.quest.ironSpellbooks.desc.evokerspellbook.1}"]
 			id: "4E3355FDCB65BB63"
 			rewards: [{
@@ -342,6 +476,7 @@
 			y: -8.0d
 		}
 		{
+			dependencies: ["615C3E012B2DECD3"]
 			description: ["{atm9.quest.ironSpellbooks.desc.necronomiconspellbook.1}"]
 			id: "48C68664319B0294"
 			rewards: [{
@@ -396,6 +531,7 @@
 			y: -6.0d
 		}
 		{
+			dependencies: ["615C3E012B2DECD3"]
 			description: ["{atm9.quest.ironSpellbooks.desc.blazespellbook.1}"]
 			id: "1A0368CB49B8CBFF"
 			rewards: [{
@@ -425,6 +561,7 @@
 			y: -9.0d
 		}
 		{
+			dependencies: ["615C3E012B2DECD3"]
 			description: ["{atm9.quest.ironSpellbooks.desc.villagerspellbook.1}"]
 			id: "73D6B980D35082A0"
 			rewards: [{
@@ -484,6 +621,7 @@
 			y: -4.0d
 		}
 		{
+			dependencies: ["615C3E012B2DECD3"]
 			description: ["{atm9.quest.ironSpellbooks.desc.dragonskinspellbook.1}"]
 			id: "652A14E17DDE97E6"
 			rewards: [{
@@ -513,7 +651,11 @@
 			y: -6.0d
 		}
 		{
-			description: ["{atm9.quest.ironSpellbooks.desc.inscriptiontable.1}"]
+			description: [
+				"{atm9.quest.ironSpellbooks.desc.inscriptiontable.1}"
+				""
+				"{image:atm:textures/questpics/iron_spells/spells_table_gui.png width:150 height:100 align:center}"
+			]
 			id: "2A787B99A8B0C767"
 			rewards: [{
 				count: 3
@@ -532,7 +674,11 @@
 			y: 0.5d
 		}
 		{
-			description: ["{atm9.quest.ironSpellbooks.desc.arcaneanvil.1}"]
+			description: [
+				"{atm9.quest.ironSpellbooks.desc.arcaneanvil.1}"
+				""
+				"{image:atm:textures/questpics/iron_spells/spells_anvil_gui.png width:100 height:100 align:center}"
+			]
 			id: "551A4916F032ACCF"
 			rewards: [{
 				count: 3
@@ -551,7 +697,11 @@
 			y: -0.25d
 		}
 		{
-			description: ["{atm9.quest.ironSpellbooks.desc.scrollforge.1}"]
+			description: [
+				"{atm9.quest.ironSpellbooks.desc.scrollforge.1}"
+				""
+				"{image:atm:textures/questpics/iron_spells/spells_scroll_gui.png width:150 height:100 align:center}"
+			]
 			id: "69838E3F12218D68"
 			rewards: [{
 				count: 3
@@ -570,7 +720,12 @@
 			y: 0.5d
 		}
 		{
-			description: ["{atm9.quest.ironSpellbooks.desc.alchemistcauldron.1}"]
+			description: [
+				"{atm9.quest.ironSpellbooks.desc.alchemistcauldron.1}"
+				""
+				""
+				"{image:atm:textures/questpics/iron_spells/spells_cauldron.png width:100 height:100 align:center}"
+			]
 			id: "3E8077AB45C79E6A"
 			rewards: [
 				{
@@ -1016,7 +1171,11 @@
 		}
 		{
 			dependencies: ["69763C2E2F454A73"]
-			description: ["{atm9.quest.ironSpellbooks.desc.pyromancer.1}"]
+			description: [
+				"{atm9.quest.ironSpellbooks.desc.pyromancer.1}"
+				""
+				"{image:atm:textures/questpics/iron_spells/spells_outfit_pyromancer.png width:50 height:100 align:center}"
+			]
 			id: "06F2C42E6408149E"
 			rewards: [{
 				count: 10
@@ -1083,7 +1242,11 @@
 		}
 		{
 			dependencies: ["7C79BCE482A06199"]
-			description: ["{atm9.quest.ironSpellbooks.desc.cryomancer.1}"]
+			description: [
+				"{atm9.quest.ironSpellbooks.desc.cryomancer.1}"
+				""
+				"{image:atm:textures/questpics/iron_spells/spells_outfit_cryomancer.png width:50 height:100 align:center}"
+			]
 			id: "489833A2A6C39151"
 			rewards: [{
 				count: 10
@@ -1150,7 +1313,11 @@
 		}
 		{
 			dependencies: ["36F87173D8CD1D68"]
-			description: ["{atm9.quest.ironSpellbooks.desc.electromancer.1}"]
+			description: [
+				"{atm9.quest.ironSpellbooks.desc.electromancer.1}"
+				""
+				"{image:atm:textures/questpics/iron_spells/spells_outfit_electromancer.png width:50 height:100 align:center}"
+			]
 			id: "4CCA1E2AAA9AB9D9"
 			rewards: [{
 				count: 10
@@ -1217,6 +1384,7 @@
 		}
 		{
 			dependencies: ["0EED5D755D2C866A"]
+			description: ["{image:atm:textures/questpics/iron_spells/spells_outfit_shadow.png width:60 height:100 align:center}"]
 			id: "19542103E042BDB5"
 			rewards: [{
 				count: 10
@@ -1283,7 +1451,11 @@
 		}
 		{
 			dependencies: ["7270A37E31A70C91"]
-			description: ["{atm9.quest.ironSpellbooks.desc.priest.1}"]
+			description: [
+				"{atm9.quest.ironSpellbooks.desc.priest.1}"
+				""
+				"{image:atm:textures/questpics/iron_spells/spells_outfit_priest.png width:60 height:100 align:center}"
+			]
 			id: "24BAC1C0392E950E"
 			rewards: [{
 				count: 10
@@ -1350,6 +1522,7 @@
 		}
 		{
 			dependencies: ["24150DE600C2D761"]
+			description: ["{image:atm:textures/questpics/iron_spells/spells_outfit_cultist.png width:60 height:100 align:center}"]
 			id: "5DE863C3FB6492BE"
 			rewards: [{
 				count: 10
@@ -1416,7 +1589,11 @@
 		}
 		{
 			dependencies: ["1BE69992D2C5085B"]
-			description: ["{atm9.quest.ironSpellbooks.desc.archevoker.1}"]
+			description: [
+				"{atm9.quest.ironSpellbooks.desc.archevoker.1}"
+				""
+				"{image:atm:textures/questpics/iron_spells/spells_outfit_archevoker.png width:60 height:100 align:center}"
+			]
 			id: "0E594BC58CC7476F"
 			rewards: [{
 				count: 10
@@ -1483,7 +1660,11 @@
 		}
 		{
 			dependencies: ["000C1ECD781F3F81"]
-			description: ["{atm9.quest.ironSpellbooks.desc.plagued.1}"]
+			description: [
+				"{atm9.quest.ironSpellbooks.desc.plagued.1}"
+				""
+				"{image:atm:textures/questpics/iron_spells/spells_outfit_plagued.png width:60 height:100 align:center}"
+			]
 			id: "6D232F6D8E8DA546"
 			rewards: [{
 				count: 10
@@ -1550,7 +1731,11 @@
 		}
 		{
 			dependencies: ["3009018DEC1EC952"]
-			description: ["{atm9.quest.ironSpellbooks.desc.catacombs.1}"]
+			description: [
+				"{atm9.quest.ironSpellbooks.desc.catacombs.1}"
+				""
+				"{image:atm:textures/questpics/iron_spells/spells_catacombs.png width:200 height:100 align:center}"
+			]
 			icon: "minecraft:stone_bricks"
 			id: "6DB5732177AABB87"
 			rewards: [{
@@ -1572,7 +1757,11 @@
 		}
 		{
 			dependencies: ["6DB5732177AABB87"]
-			description: ["{atm9.quest.ironSpellbooks.desc.king.1}"]
+			description: [
+				"{atm9.quest.ironSpellbooks.desc.king.1}"
+				""
+				"{image:atm:textures/questpics/iron_spells/spells_king.png width:100 height:200 align:center}"
+			]
 			icon: "minecraft:wither_skeleton_skull"
 			id: "0436DF3308681913"
 			rewards: [{
@@ -1595,7 +1784,11 @@
 		}
 		{
 			dependencies: ["3009018DEC1EC952"]
-			description: ["{atm9.quest.ironSpellbooks.desc.evokerfort.1}"]
+			description: [
+				"{atm9.quest.ironSpellbooks.desc.evokerfort.1}"
+				""
+				"{image:atm:textures/questpics/iron_spells/spells_evokerfort.png width:200 height:100 align:center}"
+			]
 			icon: "minecraft:dark_oak_log"
 			id: "641888DC7BC40AA9"
 			rewards: [{
@@ -1617,7 +1810,11 @@
 		}
 		{
 			dependencies: ["641888DC7BC40AA9"]
-			description: ["{atm9.quest.ironSpellbooks.desc.archevokerboss.1}"]
+			description: [
+				"{atm9.quest.ironSpellbooks.desc.archevokerboss.1}"
+				""
+				"{image:atm:textures/questpics/iron_spells/spells_evoker.png width:100 height:200 align:center}"
+			]
 			icon: "minecraft:totem_of_undying"
 			id: "68B44B9E939F4228"
 			rewards: [{
@@ -1640,7 +1837,11 @@
 		}
 		{
 			dependencies: ["3009018DEC1EC952"]
-			description: ["{atm9.quest.ironSpellbooks.desc.mangrove.1}"]
+			description: [
+				"{atm9.quest.ironSpellbooks.desc.mangrove.1}"
+				""
+				"{image:atm:textures/questpics/iron_spells/spells_magrovehut.png width:200 height:100 align:center}"
+			]
 			icon: "minecraft:mangrove_log"
 			id: "6963EC8A71D66AE3"
 			rewards: [{
@@ -1662,7 +1863,11 @@
 		}
 		{
 			dependencies: ["6963EC8A71D66AE3"]
-			description: ["{atm9.quest.ironSpellbooks.desc.apothecarist.1}"]
+			description: [
+				"{atm9.quest.ironSpellbooks.desc.apothecarist.1}"
+				""
+				"{image:atm:textures/questpics/iron_spells/spells_apotheocarist.png width:100 height:200 align:center}"
+			]
 			icon: {
 				Count: 1
 				id: "minecraft:potion"
@@ -1691,7 +1896,11 @@
 		}
 		{
 			dependencies: ["3009018DEC1EC952"]
-			description: ["{atm9.quest.ironSpellbooks.desc.pyromancertower.1}"]
+			description: [
+				"{atm9.quest.ironSpellbooks.desc.pyromancertower.1}"
+				""
+				"{image:atm:textures/questpics/iron_spells/spells_pyromancertower.png width:200 height:100 align:center}"
+			]
 			icon: "minecraft:blackstone"
 			id: "30B7AF815D9D7553"
 			rewards: [{
@@ -1713,7 +1922,11 @@
 		}
 		{
 			dependencies: ["30B7AF815D9D7553"]
-			description: ["{atm9.quest.ironSpellbooks.desc.pyromancerboss.1}"]
+			description: [
+				"{atm9.quest.ironSpellbooks.desc.pyromancerboss.1}"
+				""
+				"{image:atm:textures/questpics/iron_spells/spells_pyromancer.png width:100 height:200 align:center}"
+			]
 			icon: "minecraft:fire_charge"
 			id: "59E68086A8B99EA7"
 			rewards: [{
@@ -1736,7 +1949,11 @@
 		}
 		{
 			dependencies: ["3009018DEC1EC952"]
-			description: ["{atm9.quest.ironSpellbooks.desc.mountaintower.1}"]
+			description: [
+				"{atm9.quest.ironSpellbooks.desc.mountaintower.1}"
+				""
+				"{image:atm:textures/questpics/iron_spells/spells_mountaintower.png width:200 height:100 align:center}"
+			]
 			icon: "minecraft:packed_ice"
 			id: "13F77C38AC015E9F"
 			rewards: [{
@@ -1758,7 +1975,11 @@
 		}
 		{
 			dependencies: ["13F77C38AC015E9F"]
-			description: ["{atm9.quest.ironSpellbooks.desc.cryomancerboss.1}"]
+			description: [
+				"{atm9.quest.ironSpellbooks.desc.cryomancerboss.1}"
+				""
+				"{image:atm:textures/questpics/iron_spells/spells_cryomancer.png width:100 height:200 align:center}"
+			]
 			icon: "minecraft:snowball"
 			id: "555ED1E39131D91B"
 			rewards: [{
@@ -1781,7 +2002,11 @@
 		}
 		{
 			dependencies: ["72AB70FD8D8FABBF"]
-			description: ["{atm9.quest.ironSpellbooks.desc.ancientbattleground.1}"]
+			description: [
+				"{atm9.quest.ironSpellbooks.desc.ancientbattleground.1}"
+				""
+				"{image:atm:textures/questpics/iron_spells/spells_battleground.png width:200 height:100 align:center}"
+			]
 			icon: "minecraft:deepslate_tiles"
 			id: "7FC54AF87CBDD222"
 			rewards: [{
@@ -1808,7 +2033,11 @@
 		}
 		{
 			dependencies: ["7FC54AF87CBDD222"]
-			description: ["{atm9.quest.ironSpellbooks.desc.ancientknight.1}"]
+			description: [
+				"{atm9.quest.ironSpellbooks.desc.ancientknight.1}"
+				""
+				"{image:atm:textures/questpics/iron_spells/spells_knight.png width:100 height:200 align:center}"
+			]
 			icon: "irons_spellbooks:armor_pile"
 			id: "395A33977B18B9AD"
 			rewards: [{
@@ -1851,7 +2080,11 @@
 		}
 		{
 			dependencies: ["3009018DEC1EC952"]
-			description: ["{atm9.quest.ironSpellbooks.desc.village.1}"]
+			description: [
+				"{atm9.quest.ironSpellbooks.desc.village.1}"
+				""
+				"{image:atm:textures/questpics/iron_spells/spells_village.png width:200 height:100 align:center}"
+			]
 			icon: "minecraft:oak_log"
 			id: "01119871B1D5C576"
 			rewards: [{
@@ -1874,7 +2107,11 @@
 		}
 		{
 			dependencies: ["01119871B1D5C576"]
-			description: ["{atm9.quest.ironSpellbooks.desc.priestinfo.1}"]
+			description: [
+				"{atm9.quest.ironSpellbooks.desc.priestinfo.1}"
+				""
+				"{image:atm:textures/questpics/iron_spells/spells_priest.png width:100 height:200 align:center}"
+			]
 			icon: "minecraft:golden_apple"
 			id: "7F85669FEA41CD97"
 			rewards: [{
@@ -1931,7 +2168,11 @@
 			y: -0.5d
 		}
 		{
-			description: ["{atm9.quest.ironSpellbooks.desc.necromancers.1}"]
+			description: [
+				"{atm9.quest.ironSpellbooks.desc.necromancers.1}"
+				""
+				"{image:atm:textures/questpics/iron_spells/spells_necromancer.png width:100 height:200 align:center}"
+			]
 			icon: {
 				Count: 1
 				id: "irons_spellbooks:tarnished_helmet"
@@ -2032,6 +2273,46 @@
 			title: "{atm9.quest.ironSpellbooks.title.eldritch}"
 			x: 10.0d
 			y: 10.0d
+		}
+		{
+			can_repeat: false
+			description: [
+				"This Quest has been authored by &6AllTheMods Staff&r, or a &2Community contributor&r for use in AllTheMods Modpacks."
+				"As all &6AllTheMods&r packs are licensed under &eAll Rights Reserved&r, this Quest is not allowed to be used in any public packs not released by the &6AllTheMods Team&r, without explicit permission."
+				""
+				""
+				""
+				"This quest is intentionally hidden, if you're seeing this, you're in editing mode."
+			]
+			disable_toast: true
+			hide_details_until_startable: true
+			hide_until_deps_visible: true
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "minecraft:item/barrier"
+				}
+			}
+			id: "68A3904EDA48FF76"
+			invisible: true
+			optional: true
+			shape: "octagon"
+			tasks: [
+				{
+					disable_toast: true
+					id: "748281267C747571"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+				{
+					id: "086FD18B34727A13"
+					title: "Quests By AllTheMods"
+					type: "checkmark"
+				}
+			]
+			x: 5.5d
+			y: 3.5d
 		}
 	]
 	title: "{atm9.chapters.53.title}"
