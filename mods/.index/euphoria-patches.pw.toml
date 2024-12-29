@@ -56,7 +56,8 @@ x-prismlauncher-mc-versions = [
     '1.21.2',
     '1.21.2-Snapshot',
     '1.21.3',
-    '1.21.4-snapshot'
+    '1.21.4',
+    '1.21.4-Snapshot'
 ]
 x-prismlauncher-release-type = 'release'
 

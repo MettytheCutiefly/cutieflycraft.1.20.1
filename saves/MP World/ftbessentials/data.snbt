@@ -1,8 +1,0 @@
-{
-	warps: {
-		end: { dim: "minecraft:the_end", x: 726, y: 61, z: 694, time: 1724814957136L, xRot: 37.04992f, yRot: 151.34984f }
-		trash: { dim: "allthemodium:the_beyond", x: -240350, y: 64, z: 87253, time: 1731558872537L, xRot: 10.50019f, yRot: 130.50067f }
-	}
-	mute_timeouts: { }
-	kits: { }
-}

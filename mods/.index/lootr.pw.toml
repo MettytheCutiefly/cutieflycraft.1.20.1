@@ -1,4 +1,4 @@
-filename = 'lootr-forge-1.20-0.7.34.89.jar'
+filename = 'lootr-forge-1.20-0.7.35.90.jar'
 name = 'Lootr (Forge & NeoForge)'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '4f6fb612fee28f82b798723e76de5752636c4eea'
+hash = '919a1e75d8fac3081743c9dcbe6679a28c867ec9'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 5636598
+file-id = 5976109
 project-id = 361276

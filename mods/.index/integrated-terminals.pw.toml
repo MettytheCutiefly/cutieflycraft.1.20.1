@@ -1,4 +1,4 @@
-filename = 'IntegratedTerminals-1.20.1-1.6.2.jar'
+filename = 'IntegratedTerminals-1.20.1-1.6.3.jar'
 name = 'Integrated Terminals'
 side = 'both'
 x-prismlauncher-loaders = [ 'forge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '16aa416862b674b70e7878a0c1e18407610989db'
+hash = '4879a98a78048fa860ae884e3ae21f95d5216b58'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 5868357
+file-id = 5941090
 project-id = 295910

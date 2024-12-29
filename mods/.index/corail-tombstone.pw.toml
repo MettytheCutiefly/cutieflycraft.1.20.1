@@ -1,4 +1,4 @@
-filename = 'tombstone-1.20.1-8.8.3.jar'
+filename = 'tombstone-1.20.1-8.8.6.jar'
 name = 'Corail Tombstone'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '9454e2b69eca2905bea775fef6345430a8c01ef4'
+hash = 'b00af3bacc676a656599e8d29ae2dab2603c4844'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 5847668
+file-id = 5925362
 project-id = 243707

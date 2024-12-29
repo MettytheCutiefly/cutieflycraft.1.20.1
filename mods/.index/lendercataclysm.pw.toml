@@ -1,16 +1,16 @@
-filename = 'L_Enders_Cataclysm-2.17 - 1.20.1.jar'
+filename = 'L_Enders_Cataclysm-2.27 - 1.20.1.jar'
 name = "L_Ender 's Cataclysm"
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = 'cab814d009c58fb68ae09447701f296d358c7d9f'
+hash = '7a3ddafcb26417bb0ab8d153cd3214e9d47bb5c6'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 5885485
+file-id = 5924796
 project-id = 551586

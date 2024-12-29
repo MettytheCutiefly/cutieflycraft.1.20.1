@@ -1,4 +1,4 @@
-filename = 'railcraft-reborn-1.20.1-1.1.7.jar'
+filename = 'railcraft-reborn-1.20.1-1.1.8.jar'
 name = 'Railcraft Reborn'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
@@ -6,11 +6,11 @@ x-prismlauncher-mc-versions = [ '1.20.1' ]
 x-prismlauncher-release-type = 'release'
 
 [download]
-hash = '1846ad4eaaa4cab2c49c6766e57d066dfdc68a15'
+hash = '2575919f17d9e2bc81894d2f949e08639153c58e'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
 url = ''
 
 [update.curseforge]
-file-id = 5650737
+file-id = 5898149
 project-id = 901491
